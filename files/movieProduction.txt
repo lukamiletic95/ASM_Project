@@ -1,0 +1,11 @@
+Year: 2016 , Number of movies: 297.
+Year: 2015 , Number of movies: 127.
+Year: 2014 , Number of movies: 98.
+Year: 2013 , Number of movies: 91.
+Year: 2012 , Number of movies: 64.
+Year: 2011 , Number of movies: 63.
+Year: 2010 , Number of movies: 60.
+Year: 2007 , Number of movies: 53.
+Year: 2008 , Number of movies: 52.
+Year: 2009 , Number of movies: 51.
+Year: 2006 , Number of movies: 44.
