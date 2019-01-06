@@ -26,8 +26,8 @@ for node in G.nodes:
         sumShortestDistances += len(path)
         numShortestDistances += 1
 
-file.write("\nMaximum shortest path from some node to %s is %d\n" % (kevinBacon, maxDistance))
-file.write("Average distance from each node to %s is %.3f" % (kevinBacon, sumShortestDistances / numShortestDistances))
+file.write("\nMaximum shortest path from some node to %s is %d.\n" % (kevinBacon, maxDistance))
+file.write("Average distance from each node to %s is %.3f." % (kevinBacon, sumShortestDistances / numShortestDistances))
 file.close()
 
 
