@@ -1,0 +1,11259 @@
+*** Chris Pratt ***
+Adventure: 5
+Action: 4
+Drama: 3
+Sci-Fi: 2
+Romance: 2
+Western: 1
+Animation: 1
+History: 1
+Thriller: 1
+Comedy: 1
+
+*** Vin Diesel ***
+Action: 7
+Thriller: 5
+Crime: 4
+Adventure: 2
+Sci-Fi: 2
+Fantasy: 1
+
+*** Bradley Cooper ***
+Drama: 6
+Comedy: 4
+Action: 3
+Adventure: 2
+Sci-Fi: 2
+Crime: 2
+Thriller: 2
+Mystery: 2
+Biography: 1
+Romance: 1
+Horror: 1
+
+*** Zoe Saldana ***
+Adventure: 5
+Action: 4
+Sci-Fi: 3
+Fantasy: 1
+Animation: 1
+Comedy: 1
+Crime: 1
+Drama: 1
+Thriller: 1
+
+*** Noomi Rapace ***
+Mystery: 3
+Thriller: 3
+Drama: 3
+Sci-Fi: 2
+Crime: 2
+Adventure: 1
+Horror: 1
+
+*** Logan Marshall-Green ***
+Mystery: 2
+Adventure: 1
+Sci-Fi: 1
+Drama: 1
+Thriller: 1
+
+*** Michael Fassbender ***
+Drama: 9
+Adventure: 5
+Action: 4
+Sci-Fi: 3
+Biography: 2
+Romance: 2
+Mystery: 1
+History: 1
+War: 1
+Crime: 1
+Thriller: 1
+
+*** Charlize Theron ***
+Adventure: 6
+Drama: 6
+Action: 4
+Mystery: 2
+Sci-Fi: 2
+Animation: 1
+Family: 1
+Comedy: 1
+Romance: 1
+Western: 1
+Crime: 1
+Thriller: 1
+
+*** James McAvoy ***
+Action: 4
+Sci-Fi: 4
+Drama: 4
+Adventure: 3
+Crime: 3
+Horror: 2
+Mystery: 2
+Thriller: 1
+Fantasy: 1
+Romance: 1
+Comedy: 1
+
+*** Anya Taylor-Joy ***
+Horror: 3
+Thriller: 2
+Mystery: 1
+Sci-Fi: 1
+
+*** Haley Lu Richardson ***
+Horror: 1
+Thriller: 1
+Comedy: 1
+Drama: 1
+
+*** Jessica Sula ***
+Horror: 1
+Thriller: 1
+
+*** Matthew McConaughey ***
+Drama: 6
+Comedy: 4
+Adventure: 4
+Biography: 3
+Animation: 2
+Family: 2
+Action: 2
+Thriller: 1
+Sci-Fi: 1
+Crime: 1
+
+*** Reese Witherspoon ***
+Comedy: 2
+Biography: 2
+Drama: 2
+Animation: 1
+Family: 1
+Crime: 1
+Adventure: 1
+Action: 1
+Romance: 1
+
+*** Seth MacFarlane ***
+Comedy: 4
+Romance: 2
+Animation: 1
+Family: 1
+Adventure: 1
+Fantasy: 1
+Western: 1
+
+*** Scarlett Johansson ***
+Sci-Fi: 7
+Drama: 7
+Action: 4
+Comedy: 3
+Romance: 3
+Adventure: 2
+Animation: 1
+Family: 1
+Mystery: 1
+Horror: 1
+Thriller: 1
+Biography: 1
+History: 1
+
+*** Will Smith ***
+Drama: 7
+Action: 4
+Adventure: 3
+Romance: 2
+Comedy: 2
+Crime: 2
+Sci-Fi: 2
+Biography: 2
+Fantasy: 1
+Horror: 1
+Sport: 1
+
+*** Jared Leto ***
+Fantasy: 2
+Drama: 2
+Action: 1
+Adventure: 1
+Biography: 1
+Romance: 1
+
+*** Margot Robbie ***
+Comedy: 3
+Drama: 3
+Biography: 2
+Crime: 2
+Action: 1
+Adventure: 1
+Fantasy: 1
+Romance: 1
+War: 1
+
+*** Viola Davis ***
+Drama: 6
+Fantasy: 2
+Crime: 2
+Mystery: 2
+Action: 1
+Adventure: 1
+Romance: 1
+
+*** Matt Damon ***
+Thriller: 6
+Drama: 5
+Action: 4
+Adventure: 3
+Sci-Fi: 3
+Crime: 2
+Fantasy: 1
+Mystery: 1
+Romance: 1
+Western: 1
+
+*** Tian Jing ***
+Action: 1
+Adventure: 1
+Fantasy: 1
+
+*** Willem Dafoe ***
+Action: 3
+Drama: 3
+Adventure: 2
+Fantasy: 1
+Crime: 1
+Thriller: 1
+Sci-Fi: 1
+Horror: 1
+
+*** Andy Lau ***
+Action: 1
+Adventure: 1
+Fantasy: 1
+
+*** Ryan Gosling ***
+Drama: 9
+Crime: 6
+Comedy: 4
+Action: 2
+Romance: 2
+Mystery: 2
+Music: 1
+Thriller: 1
+Biography: 1
+
+*** Emma Stone ***
+Comedy: 6
+Drama: 5
+Romance: 4
+Action: 3
+Adventure: 3
+Music: 1
+Sci-Fi: 1
+Horror: 1
+Crime: 1
+
+*** Rosemarie DeWitt ***
+Comedy: 1
+Drama: 1
+Music: 1
+
+*** J.K. Simmons ***
+Drama: 4
+Comedy: 2
+Music: 2
+History: 1
+Thriller: 1
+Action: 1
+Crime: 1
+Animation: 1
+Adventure: 1
+
+*** Essie Davis ***
+Comedy: 1
+Drama: 1
+Horror: 1
+
+*** Andrea Riseborough ***
+Comedy: 2
+Drama: 1
+Romance: 1
+Action: 1
+Adventure: 1
+Mystery: 1
+
+*** Julian Barratt ***
+Comedy: 1
+
+*** Kenneth Branagh ***
+Comedy: 1
+Action: 1
+Drama: 1
+Thriller: 1
+
+*** Charlie Hunnam ***
+Action: 2
+Adventure: 2
+Biography: 1
+Sci-Fi: 1
+Drama: 1
+Fantasy: 1
+Horror: 1
+
+*** Robert Pattinson ***
+Drama: 5
+Adventure: 4
+Fantasy: 4
+Romance: 2
+Action: 1
+Biography: 1
+
+*** Sienna Miller ***
+Drama: 3
+Action: 2
+Adventure: 2
+Biography: 2
+Family: 1
+Fantasy: 1
+Comedy: 1
+
+*** Tom Holland ***
+Action: 1
+Adventure: 1
+Biography: 1
+Drama: 1
+Thriller: 1
+
+*** Jennifer Lawrence ***
+Adventure: 7
+Drama: 5
+Action: 5
+Sci-Fi: 5
+Romance: 2
+Thriller: 1
+Comedy: 1
+Crime: 1
+Mystery: 1
+
+*** Michael Sheen ***
+Adventure: 2
+Drama: 2
+Romance: 1
+Thriller: 1
+Action: 1
+Fantasy: 1
+
+*** Laurence Fishburne ***
+Adventure: 2
+Drama: 1
+Romance: 1
+Action: 1
+Sci-Fi: 1
+
+*** Eddie Redmayne ***
+Adventure: 2
+Biography: 2
+Drama: 2
+Romance: 2
+Family: 1
+Fantasy: 1
+Action: 1
+Sci-Fi: 1
+
+*** Katherine Waterston ***
+Adventure: 1
+Family: 1
+Fantasy: 1
+Comedy: 1
+Crime: 1
+Drama: 1
+
+*** Alison Sudol ***
+Adventure: 1
+Family: 1
+Fantasy: 1
+
+*** Dan Fogler ***
+Adventure: 1
+Family: 1
+Fantasy: 1
+Comedy: 1
+Drama: 1
+Romance: 1
+
+*** Taraji P. Henson ***
+Drama: 2
+Biography: 1
+History: 1
+Action: 1
+Family: 1
+
+*** Octavia Spencer ***
+Drama: 2
+Biography: 1
+History: 1
+
+*** Janelle Monae ***
+Biography: 1
+Drama: 1
+History: 1
+
+*** Kevin Costner ***
+Drama: 5
+Action: 3
+Thriller: 3
+Crime: 2
+Biography: 1
+History: 1
+
+*** Felicity Jones ***
+Action: 3
+Adventure: 2
+Drama: 2
+Crime: 2
+Sci-Fi: 1
+Fantasy: 1
+Biography: 1
+Romance: 1
+Thriller: 1
+
+*** Diego Luna ***
+Action: 2
+Adventure: 2
+Sci-Fi: 2
+Romance: 1
+Crime: 1
+Drama: 1
+Animation: 1
+Comedy: 1
+
+*** Alan Tudyk ***
+Action: 1
+Adventure: 1
+Sci-Fi: 1
+
+*** Donnie Yen ***
+Action: 1
+Adventure: 1
+Sci-Fi: 1
+
+*** Auli'i Cravalho ***
+Animation: 1
+Adventure: 1
+Comedy: 1
+
+*** Dwayne Johnson ***
+Action: 7
+Crime: 6
+Adventure: 3
+Comedy: 3
+Thriller: 3
+Drama: 3
+Animation: 1
+
+*** Rachel House ***
+Adventure: 2
+Comedy: 2
+Animation: 1
+Drama: 1
+
+*** Temuera Morrison ***
+Animation: 1
+Adventure: 1
+Comedy: 1
+
+*** Anne Hathaway ***
+Drama: 7
+Comedy: 6
+Adventure: 4
+Romance: 4
+Action: 2
+Family: 2
+Fantasy: 2
+Sci-Fi: 1
+Thriller: 1
+Musical: 1
+Animation: 1
+
+*** Jason Sudeikis ***
+Comedy: 6
+Drama: 3
+Crime: 3
+Action: 2
+Animation: 1
+Adventure: 1
+Romance: 1
+
+*** Austin Stowell ***
+Action: 1
+Comedy: 1
+Drama: 1
+
+*** Tim Blake Nelson ***
+Action: 1
+Comedy: 1
+Drama: 1
+
+*** Louis C.K. ***
+Animation: 1
+Adventure: 1
+Comedy: 1
+
+*** Eric Stonestreet ***
+Animation: 1
+Adventure: 1
+Comedy: 1
+Mystery: 1
+Romance: 1
+Thriller: 1
+
+*** Kevin Hart ***
+Comedy: 3
+Crime: 2
+Animation: 1
+Adventure: 1
+Action: 1
+
+*** Lake Bell ***
+Animation: 1
+Adventure: 1
+Comedy: 1
+Action: 1
+Thriller: 1
+
+*** Andrew Garfield ***
+Adventure: 4
+Drama: 3
+Biography: 2
+History: 2
+Action: 2
+Sci-Fi: 1
+Fantasy: 1
+Mystery: 1
+
+*** Sam Worthington ***
+Action: 5
+Adventure: 4
+Fantasy: 3
+Drama: 2
+Biography: 1
+History: 1
+Crime: 1
+Thriller: 1
+
+*** Luke Bracey ***
+Drama: 2
+Biography: 1
+History: 1
+Romance: 1
+Action: 1
+Crime: 1
+Sport: 1
+
+*** Teresa Palmer ***
+Drama: 3
+Romance: 3
+Horror: 2
+Action: 2
+Comedy: 2
+Biography: 1
+History: 1
+Adventure: 1
+Sci-Fi: 1
+Crime: 1
+Sport: 1
+
+*** Tommy Lee Jones ***
+Action: 3
+Thriller: 2
+Crime: 2
+Adventure: 2
+Drama: 1
+Comedy: 1
+
+*** Alicia Vikander ***
+Action: 3
+Drama: 3
+Adventure: 2
+Romance: 2
+Thriller: 1
+Comedy: 1
+Mystery: 1
+Sci-Fi: 1
+Biography: 1
+Fantasy: 1
+
+*** Vincent Cassel ***
+Drama: 4
+Thriller: 2
+Action: 1
+Fantasy: 1
+Horror: 1
+Crime: 1
+Mystery: 1
+
+*** Dev Patel ***
+Drama: 4
+Biography: 2
+Action: 2
+Crime: 1
+Adventure: 1
+Family: 1
+
+*** Nicole Kidman ***
+Drama: 4
+Biography: 2
+Romance: 2
+Adventure: 2
+Comedy: 1
+Family: 1
+Fantasy: 1
+Crime: 1
+Mystery: 1
+
+*** Rooney Mara ***
+Drama: 6
+Biography: 2
+Romance: 2
+Sci-Fi: 1
+Crime: 1
+Mystery: 1
+Adventure: 1
+Family: 1
+Fantasy: 1
+
+*** Sunny Pawar ***
+Biography: 1
+Drama: 1
+
+*** Amy Adams ***
+Drama: 6
+Sci-Fi: 3
+Action: 3
+Adventure: 2
+Mystery: 1
+Thriller: 1
+Romance: 1
+Fantasy: 1
+Crime: 1
+Animation: 1
+Comedy: 1
+Family: 1
+Biography: 1
+
+*** Jeremy Renner ***
+Drama: 4
+Action: 4
+Thriller: 4
+Sci-Fi: 3
+Adventure: 3
+Mystery: 2
+Crime: 1
+History: 1
+Horror: 1
+
+*** Forest Whitaker ***
+Drama: 3
+Mystery: 1
+Sci-Fi: 1
+Sport: 1
+Action: 1
+Thriller: 1
+Biography: 1
+
+*** Michael Stuhlbarg ***
+Drama: 2
+Mystery: 1
+Sci-Fi: 1
+Thriller: 1
+
+*** Edgar Ramirez ***
+Drama: 3
+Action: 3
+Thriller: 2
+Adventure: 1
+Mystery: 1
+Crime: 1
+Sport: 1
+Biography: 1
+
+*** Bryce Dallas Howard ***
+Drama: 4
+Adventure: 3
+Fantasy: 2
+Thriller: 1
+Action: 1
+Sci-Fi: 1
+Family: 1
+Mystery: 1
+Comedy: 1
+Romance: 1
+
+*** Corey Stoll ***
+Adventure: 2
+Drama: 1
+Thriller: 1
+Action: 1
+Comedy: 1
+
+*** Casey Affleck ***
+Drama: 6
+Crime: 4
+Action: 2
+History: 1
+Biography: 1
+Mystery: 1
+Thriller: 1
+
+*** Michelle Williams ***
+Drama: 3
+Romance: 2
+Adventure: 1
+Family: 1
+Fantasy: 1
+War: 1
+
+*** Kyle Chandler ***
+Drama: 3
+Romance: 2
+Mystery: 1
+Sci-Fi: 1
+Thriller: 1
+Comedy: 1
+
+*** Lucas Hedges ***
+Drama: 1
+
+*** Emma Booth ***
+Crime: 1
+Drama: 1
+Horror: 1
+
+*** Ashleigh Cummings ***
+Crime: 1
+Drama: 1
+Horror: 1
+
+*** Stephen Curry ***
+Crime: 1
+Drama: 1
+Horror: 1
+
+*** Susie Porter ***
+Crime: 1
+Drama: 1
+Horror: 1
+
+*** Anna Kendrick ***
+Comedy: 8
+Drama: 6
+Romance: 6
+Adventure: 3
+Action: 2
+Crime: 2
+Music: 2
+Animation: 1
+Thriller: 1
+
+*** Justin Timberlake ***
+Comedy: 2
+Animation: 1
+Adventure: 1
+Action: 1
+Sci-Fi: 1
+Thriller: 1
+Biography: 1
+Drama: 1
+Romance: 1
+
+*** Zooey Deschanel ***
+Adventure: 2
+Comedy: 2
+Drama: 2
+Animation: 1
+Romance: 1
+Sci-Fi: 1
+Thriller: 1
+Family: 1
+
+*** Christopher Mintz-Plasse ***
+Comedy: 3
+Animation: 2
+Adventure: 2
+Action: 2
+Crime: 1
+
+*** Liam Hemsworth ***
+Adventure: 6
+Action: 5
+Sci-Fi: 4
+Thriller: 2
+Comedy: 1
+Drama: 1
+Mystery: 1
+
+*** Jeff Goldblum ***
+Action: 1
+Adventure: 1
+Sci-Fi: 1
+
+*** Bill Pullman ***
+Action: 1
+Adventure: 1
+Sci-Fi: 1
+
+*** Maika Monroe ***
+Action: 1
+Adventure: 1
+Sci-Fi: 1
+Horror: 1
+Mystery: 1
+Thriller: 1
+
+*** Fiona Gordon ***
+Comedy: 1
+
+*** Dominique Abel ***
+Comedy: 1
+
+*** Emmanuelle Riva ***
+Comedy: 1
+
+*** Pierre Richard ***
+Comedy: 1
+
+*** Prabhas ***
+Action: 1
+Adventure: 1
+Drama: 1
+
+*** Rana Daggubati ***
+Action: 1
+Adventure: 1
+Drama: 1
+
+*** Anushka Shetty ***
+Action: 1
+Adventure: 1
+Drama: 1
+
+*** Tamannaah Bhatia ***
+Action: 1
+Adventure: 1
+Drama: 1
+
+*** Jocelin Donahue ***
+Horror: 1
+Thriller: 1
+
+*** Jesse Bradford ***
+Horror: 1
+Thriller: 1
+
+*** Jesse Borrego ***
+Horror: 1
+Thriller: 1
+
+*** Lori Petty ***
+Horror: 1
+Thriller: 1
+
+*** Mila Kunis ***
+Comedy: 4
+Drama: 3
+Adventure: 3
+Action: 2
+Fantasy: 2
+Romance: 2
+Thriller: 1
+Sci-Fi: 1
+Family: 1
+
+*** Kathryn Hahn ***
+Comedy: 3
+Adventure: 2
+Action: 1
+Drama: 1
+
+*** Kristen Bell ***
+Comedy: 4
+Animation: 1
+Adventure: 1
+Drama: 1
+Romance: 1
+
+*** Christina Applegate ***
+Comedy: 2
+Adventure: 1
+
+*** Marion Cotillard ***
+Drama: 5
+Action: 2
+Romance: 2
+Adventure: 1
+War: 1
+Comedy: 1
+
+*** Jeremy Irons ***
+Drama: 4
+Action: 1
+Adventure: 1
+Biography: 1
+Mystery: 1
+Thriller: 1
+
+*** Brendan Gleeson ***
+Adventure: 4
+Action: 3
+Drama: 3
+Crime: 2
+Sci-Fi: 1
+Family: 1
+Fantasy: 1
+Biography: 1
+Comedy: 1
+
+*** Zoey Deutch ***
+Comedy: 5
+Crime: 1
+Drama: 1
+Thriller: 1
+Action: 1
+Fantasy: 1
+
+*** James Franco ***
+Comedy: 5
+Drama: 3
+Fantasy: 3
+Adventure: 3
+Action: 2
+Sci-Fi: 1
+Family: 1
+Crime: 1
+Biography: 1
+
+*** Tangie Ambrose ***
+Comedy: 1
+
+*** Cedric the Entertainer ***
+Comedy: 1
+
+*** Jake Gyllenhaal ***
+Drama: 8
+Thriller: 4
+Crime: 4
+Mystery: 3
+Comedy: 2
+Romance: 2
+History: 1
+Sport: 1
+Sci-Fi: 1
+Action: 1
+Adventure: 1
+Fantasy: 1
+
+*** Michael Shannon ***
+Drama: 2
+Thriller: 1
+Action: 1
+Adventure: 1
+Fantasy: 1
+Mystery: 1
+Sci-Fi: 1
+
+*** Aaron Taylor-Johnson ***
+Drama: 3
+Action: 3
+Thriller: 2
+Comedy: 2
+Crime: 2
+Adventure: 1
+Sci-Fi: 1
+Romance: 1
+
+*** Nicholas Hoult ***
+Action: 3
+Sci-Fi: 3
+Adventure: 2
+Thriller: 2
+Romance: 2
+Drama: 2
+Crime: 1
+Comedy: 1
+Horror: 1
+Mystery: 1
+
+*** Ryan Reynolds ***
+Action: 5
+Adventure: 3
+Drama: 3
+Sci-Fi: 3
+Comedy: 2
+Biography: 1
+History: 1
+Crime: 1
+Romance: 1
+Mystery: 1
+
+*** Morena Baccarin ***
+Action: 1
+Adventure: 1
+Comedy: 1
+
+*** T.J. Miller ***
+Comedy: 4
+Action: 3
+Adventure: 3
+Romance: 1
+Animation: 1
+Horror: 1
+Sci-Fi: 1
+
+*** Ed Skrein ***
+Action: 1
+Adventure: 1
+Comedy: 1
+
+*** Milla Jovovich ***
+Action: 4
+Horror: 3
+Sci-Fi: 2
+Adventure: 2
+Romance: 1
+
+*** Iain Glen ***
+Action: 1
+Horror: 1
+Sci-Fi: 1
+
+*** Ali Larter ***
+Action: 2
+Horror: 2
+Sci-Fi: 1
+Adventure: 1
+
+*** Shawn Roberts ***
+Action: 1
+Horror: 1
+Sci-Fi: 1
+
+*** Chris Evans ***
+Sci-Fi: 7
+Action: 6
+Adventure: 5
+Drama: 2
+Comedy: 2
+Romance: 2
+Thriller: 1
+
+*** Robert Downey Jr. ***
+Action: 9
+Adventure: 7
+Sci-Fi: 6
+Crime: 4
+Drama: 3
+Comedy: 2
+History: 1
+
+*** Sebastian Stan ***
+Action: 1
+Adventure: 1
+Sci-Fi: 1
+
+*** Jessica Chastain ***
+Drama: 7
+Adventure: 3
+Thriller: 3
+Sci-Fi: 2
+Fantasy: 2
+Horror: 2
+Action: 1
+History: 1
+
+*** Mackenzie Foy ***
+Adventure: 1
+Drama: 1
+Sci-Fi: 1
+
+*** Benedict Cumberbatch ***
+Action: 2
+Adventure: 2
+Biography: 2
+Drama: 2
+Fantasy: 1
+Thriller: 1
+Sci-Fi: 1
+Crime: 1
+
+*** Chiwetel Ejiofor ***
+Drama: 6
+Action: 4
+Crime: 4
+Adventure: 2
+Biography: 2
+Sci-Fi: 2
+Mystery: 2
+Fantasy: 1
+History: 1
+Thriller: 1
+Romance: 1
+
+*** Rachel McAdams ***
+Action: 3
+Adventure: 3
+Fantasy: 3
+Crime: 3
+Drama: 3
+Comedy: 2
+History: 1
+Romance: 1
+Sport: 1
+
+*** Benedict Wong ***
+Action: 1
+Adventure: 1
+Fantasy: 1
+
+*** Denzel Washington ***
+Action: 5
+Drama: 5
+Thriller: 4
+Crime: 3
+Adventure: 2
+Western: 1
+Biography: 1
+Sci-Fi: 1
+Mystery: 1
+
+*** Ethan Hawke ***
+Drama: 4
+Mystery: 3
+Sci-Fi: 2
+Horror: 2
+Action: 1
+Adventure: 1
+Western: 1
+Crime: 1
+Thriller: 1
+Biography: 1
+Romance: 1
+
+*** Vincent D'Onofrio ***
+Action: 2
+Adventure: 1
+Western: 1
+Crime: 1
+Mystery: 1
+Drama: 1
+
+*** John Francis Daley ***
+Comedy: 1
+Drama: 1
+
+*** Austin Pendleton ***
+Comedy: 1
+Drama: 1
+
+*** Colleen Camp ***
+Comedy: 1
+Drama: 1
+
+*** Neil Flynn ***
+Comedy: 1
+Drama: 1
+
+*** Seth Rogen ***
+Comedy: 10
+Romance: 3
+Adventure: 2
+Drama: 2
+Animation: 1
+Fantasy: 1
+Biography: 1
+Action: 1
+Crime: 1
+Sci-Fi: 1
+
+*** Kristen Wiig ***
+Comedy: 6
+Adventure: 4
+Animation: 2
+Action: 2
+Drama: 2
+Fantasy: 1
+Sci-Fi: 1
+Romance: 1
+Crime: 1
+
+*** Jonah Hill ***
+Comedy: 8
+Crime: 4
+Action: 3
+Animation: 2
+Biography: 2
+Drama: 2
+Adventure: 1
+Fantasy: 1
+Sport: 1
+
+*** Alistair Abell ***
+Animation: 1
+Adventure: 1
+Comedy: 1
+
+*** Mahershala Ali ***
+Drama: 2
+Action: 1
+Biography: 1
+
+*** Shariff Earp ***
+Drama: 1
+
+*** Duan Sanderson ***
+Drama: 1
+
+*** Alex R. Hibbert ***
+Drama: 1
+
+*** Brittany Blanton ***
+Horror: 1
+
+*** Ayse Howard ***
+Horror: 1
+
+*** Roman Jossart ***
+Horror: 1
+
+*** Nadia White ***
+Horror: 1
+
+*** Michael Keaton ***
+Drama: 3
+History: 2
+Crime: 2
+Action: 2
+Biography: 1
+Comedy: 1
+Romance: 1
+Animation: 1
+Adventure: 1
+Sci-Fi: 1
+
+*** Nick Offerman ***
+Drama: 3
+Comedy: 3
+Biography: 1
+History: 1
+Action: 1
+Crime: 1
+Adventure: 1
+
+*** John Carroll Lynch ***
+Biography: 1
+Drama: 1
+History: 1
+
+*** Linda Cardellini ***
+Biography: 1
+Drama: 1
+History: 1
+Comedy: 1
+Family: 1
+
+*** Gabriel Chavarria ***
+Drama: 1
+
+*** Demian Bichir ***
+Drama: 1
+Action: 1
+Comedy: 1
+Crime: 1
+
+*** Theo Rossi ***
+Drama: 1
+
+*** Tony Revolori ***
+Drama: 2
+Comedy: 1
+Crime: 1
+
+*** Johnny Depp ***
+Fantasy: 7
+Adventure: 6
+Action: 4
+Drama: 4
+Horror: 3
+Family: 2
+Biography: 2
+Crime: 2
+Comedy: 2
+Musical: 1
+Mystery: 1
+Romance: 1
+Western: 1
+
+*** Penelope Cruz ***
+Comedy: 2
+Action: 1
+Adventure: 1
+Fantasy: 1
+Crime: 1
+Drama: 1
+Thriller: 1
+Romance: 1
+
+*** Ian McShane ***
+Action: 4
+Adventure: 3
+Fantasy: 1
+Animation: 1
+Sci-Fi: 1
+Thriller: 1
+
+*** Geoffrey Rush ***
+Drama: 3
+Action: 2
+Adventure: 2
+Fantasy: 2
+Biography: 1
+Crime: 1
+Mystery: 1
+
+*** Mark Strong ***
+Drama: 5
+Action: 5
+Thriller: 4
+Adventure: 3
+Crime: 1
+History: 1
+Comedy: 1
+Sci-Fi: 1
+Mystery: 1
+Romance: 1
+
+*** Gugu Mbatha-Raw ***
+Drama: 3
+Thriller: 1
+Action: 1
+Biography: 1
+Crime: 1
+Mystery: 1
+
+*** Hermione Corfield ***
+Adventure: 1
+Drama: 1
+Fantasy: 1
+
+*** Addison Timlin ***
+Adventure: 1
+Drama: 1
+Fantasy: 1
+
+*** Joely Richardson ***
+Adventure: 1
+Drama: 1
+Fantasy: 1
+
+*** Jeremy Irvine ***
+Drama: 2
+Fantasy: 2
+Adventure: 1
+Comedy: 1
+
+*** Chris Pine ***
+Action: 7
+Adventure: 4
+Drama: 4
+Sci-Fi: 3
+Thriller: 3
+Comedy: 2
+Crime: 1
+History: 1
+Romance: 1
+
+*** Zachary Quinto ***
+Action: 3
+Adventure: 3
+Sci-Fi: 3
+Biography: 1
+Drama: 1
+Thriller: 1
+
+*** Karl Urban ***
+Action: 3
+Sci-Fi: 3
+Thriller: 2
+Adventure: 1
+Mystery: 1
+Romance: 1
+
+*** Javier Bardem ***
+Drama: 5
+Crime: 3
+Thriller: 3
+Action: 2
+Adventure: 1
+Romance: 1
+
+*** Adele Exarchopoulos ***
+Drama: 2
+Romance: 1
+
+*** Jared Harris ***
+Drama: 2
+Action: 2
+Romance: 1
+Adventure: 1
+Crime: 1
+
+*** Daisy Ridley ***
+Action: 1
+Adventure: 1
+Fantasy: 1
+
+*** John Boyega ***
+Action: 1
+Adventure: 1
+Fantasy: 1
+
+*** Oscar Isaac ***
+Drama: 2
+Action: 1
+Adventure: 1
+Fantasy: 1
+History: 1
+Mystery: 1
+Sci-Fi: 1
+
+*** Domhnall Gleeson ***
+Drama: 5
+Adventure: 2
+Fantasy: 2
+Action: 1
+Mystery: 1
+Sci-Fi: 1
+Thriller: 1
+Comedy: 1
+Romance: 1
+Biography: 1
+Sport: 1
+
+*** Kate Beckinsale ***
+Action: 3
+Adventure: 2
+Fantasy: 2
+Drama: 2
+Horror: 2
+Comedy: 2
+Thriller: 1
+Sci-Fi: 1
+Mystery: 1
+Romance: 1
+
+*** Theo James ***
+Adventure: 4
+Action: 3
+Mystery: 2
+Sci-Fi: 2
+Fantasy: 1
+Thriller: 1
+Comedy: 1
+Drama: 1
+
+*** Tobias Menzies ***
+Action: 1
+Adventure: 1
+Fantasy: 1
+
+*** Lara Pulver ***
+Action: 1
+Adventure: 1
+Fantasy: 1
+
+*** Jennifer Aniston ***
+Comedy: 8
+Drama: 3
+Romance: 3
+Crime: 2
+Animation: 1
+Adventure: 1
+
+*** Kate Hudson ***
+Comedy: 3
+Drama: 1
+Action: 1
+Adventure: 1
+Romance: 1
+
+*** Julia Roberts ***
+Drama: 3
+Crime: 2
+Comedy: 1
+Thriller: 1
+Mystery: 1
+
+*** Keanu Reeves ***
+Crime: 3
+Thriller: 3
+Drama: 3
+Horror: 2
+Mystery: 2
+Action: 1
+Romance: 1
+Sci-Fi: 1
+
+*** Michael Nyqvist ***
+Thriller: 3
+Drama: 2
+Action: 1
+Crime: 1
+Romance: 1
+Mystery: 1
+
+*** Alfie Allen ***
+Action: 1
+Crime: 1
+Thriller: 1
+
+*** Christian Bale ***
+Drama: 12
+Action: 5
+Crime: 4
+Biography: 4
+Adventure: 3
+Thriller: 2
+Mystery: 1
+Sci-Fi: 1
+History: 1
+Comedy: 1
+Romance: 1
+
+*** Heath Ledger ***
+Action: 1
+Crime: 1
+Drama: 1
+Adventure: 1
+Fantasy: 1
+Mystery: 1
+
+*** Aaron Eckhart ***
+Drama: 4
+Action: 3
+Crime: 2
+Biography: 2
+Thriller: 1
+Sport: 1
+
+*** Michael Caine ***
+Drama: 4
+Comedy: 3
+Action: 2
+Sci-Fi: 2
+Adventure: 2
+Crime: 1
+Mystery: 1
+Thriller: 1
+Music: 1
+Animation: 1
+
+*** Adam Driver ***
+Drama: 3
+Comedy: 2
+Romance: 2
+Adventure: 1
+History: 1
+Mystery: 1
+Sci-Fi: 1
+
+*** Liam Neeson ***
+Action: 7
+Adventure: 5
+Thriller: 3
+Drama: 2
+Fantasy: 2
+Comedy: 2
+Mystery: 2
+History: 1
+Sci-Fi: 1
+Romance: 1
+Western: 1
+Crime: 1
+
+*** Tadanobu Asano ***
+Adventure: 1
+Drama: 1
+History: 1
+
+*** Stephen Lang ***
+Crime: 1
+Horror: 1
+Thriller: 1
+Action: 1
+Adventure: 1
+Fantasy: 1
+
+*** Jane Levy ***
+Horror: 2
+Crime: 1
+Thriller: 1
+Action: 1
+Adventure: 1
+Comedy: 1
+Fantasy: 1
+
+*** Dylan Minnette ***
+Comedy: 2
+Family: 2
+Crime: 1
+Horror: 1
+Thriller: 1
+Adventure: 1
+
+*** Daniel Zovatto ***
+Crime: 1
+Horror: 1
+Thriller: 1
+
+*** Emilia Clarke ***
+Drama: 1
+Romance: 1
+Action: 1
+Adventure: 1
+Sci-Fi: 1
+
+*** Sam Claflin ***
+Drama: 3
+Romance: 3
+Comedy: 2
+Action: 1
+Adventure: 1
+
+*** Janet McTeer ***
+Drama: 1
+Romance: 1
+
+*** Charles Dance ***
+Drama: 1
+Romance: 1
+
+*** Gemma Arterton ***
+Drama: 2
+Comedy: 1
+Romance: 1
+Horror: 1
+Thriller: 1
+Action: 1
+Adventure: 1
+Fantasy: 1
+
+*** Bill Nighy ***
+Comedy: 3
+Fantasy: 3
+Drama: 2
+Action: 2
+Adventure: 2
+Romance: 1
+Mystery: 1
+Family: 1
+
+*** Jack Huston ***
+Drama: 3
+Romance: 3
+Action: 2
+Comedy: 1
+Adventure: 1
+Horror: 1
+
+*** Tom Hanks ***
+Drama: 6
+Biography: 3
+Thriller: 3
+Comedy: 3
+Adventure: 2
+Action: 1
+Crime: 1
+Sci-Fi: 1
+History: 1
+Animation: 1
+Mystery: 1
+
+*** Laura Linney ***
+Biography: 2
+Drama: 2
+Action: 1
+Adventure: 1
+Comedy: 1
+
+*** Valerie Mahaffey ***
+Biography: 1
+Drama: 1
+
+*** Ben Affleck ***
+Drama: 5
+Crime: 4
+Action: 2
+Adventure: 1
+Sci-Fi: 1
+Mystery: 1
+Thriller: 1
+Biography: 1
+History: 1
+
+*** Henry Cavill ***
+Action: 4
+Adventure: 3
+Fantasy: 2
+Sci-Fi: 1
+Comedy: 1
+Drama: 1
+
+*** Jesse Eisenberg ***
+Comedy: 5
+Adventure: 4
+Action: 2
+Drama: 2
+Romance: 2
+Sci-Fi: 1
+Crime: 1
+Mystery: 1
+Thriller: 1
+Biography: 1
+Horror: 1
+Animation: 1
+
+*** Brian Cox ***
+Horror: 1
+Mystery: 1
+Thriller: 1
+
+*** Emile Hirsch ***
+Drama: 3
+Thriller: 2
+Biography: 2
+Horror: 1
+Mystery: 1
+Adventure: 1
+Action: 1
+Crime: 1
+
+*** Ophelia Lovibond ***
+Horror: 1
+Mystery: 1
+Thriller: 1
+
+*** Michael McElhatton ***
+Thriller: 2
+Horror: 1
+Mystery: 1
+Action: 1
+Drama: 1
+
+*** Emily Blunt ***
+Drama: 6
+Action: 4
+Crime: 3
+Adventure: 3
+Comedy: 2
+Sci-Fi: 2
+Mystery: 1
+Romance: 1
+Thriller: 1
+
+*** Haley Bennett ***
+Drama: 3
+Crime: 2
+Mystery: 1
+Action: 1
+Adventure: 1
+Sci-Fi: 1
+Thriller: 1
+Comedy: 1
+Romance: 1
+
+*** Rebecca Ferguson ***
+Drama: 2
+Crime: 1
+Mystery: 1
+Action: 1
+Adventure: 1
+Thriller: 1
+Biography: 1
+Comedy: 1
+
+*** Justin Theroux ***
+Drama: 2
+Mystery: 2
+Crime: 1
+Thriller: 1
+
+*** Dakota Johnson ***
+Drama: 3
+Romance: 2
+Thriller: 2
+Comedy: 1
+Biography: 1
+Crime: 1
+
+*** Jamie Dornan ***
+Thriller: 4
+Drama: 2
+Romance: 1
+Biography: 1
+History: 1
+Mystery: 1
+Action: 1
+
+*** Jennifer Ehle ***
+Drama: 2
+Romance: 1
+Thriller: 1
+Biography: 1
+
+*** Eloise Mumford ***
+Drama: 1
+Romance: 1
+Thriller: 1
+
+*** Hugh Jackman ***
+Drama: 8
+Action: 6
+Adventure: 6
+Sci-Fi: 5
+Family: 3
+Mystery: 2
+Crime: 2
+Romance: 2
+Comedy: 2
+Fantasy: 2
+Musical: 1
+Biography: 1
+Animation: 1
+
+*** Colin Firth ***
+Drama: 4
+Biography: 3
+Action: 1
+Adventure: 1
+Comedy: 1
+Crime: 1
+Mystery: 1
+Thriller: 1
+
+*** Taron Egerton ***
+Comedy: 2
+Biography: 2
+Drama: 2
+Action: 1
+Adventure: 1
+Crime: 1
+
+*** Samuel L. Jackson ***
+Action: 6
+Adventure: 6
+Drama: 3
+Sci-Fi: 3
+Crime: 2
+Mystery: 2
+Comedy: 1
+Family: 1
+Fantasy: 1
+Horror: 1
+
+*** Mark Wahlberg ***
+Drama: 9
+Thriller: 6
+Action: 6
+Crime: 5
+Comedy: 5
+Adventure: 2
+Sci-Fi: 2
+Biography: 2
+Fantasy: 2
+History: 1
+Family: 1
+Romance: 1
+
+*** Michelle Monaghan ***
+Drama: 3
+Thriller: 3
+Action: 3
+Romance: 3
+Mystery: 3
+Comedy: 2
+History: 1
+Family: 1
+Sci-Fi: 1
+Crime: 1
+Adventure: 1
+
+*** John Goodman ***
+Drama: 5
+Thriller: 3
+History: 2
+Horror: 1
+Mystery: 1
+Animation: 1
+Adventure: 1
+Comedy: 1
+Biography: 1
+Crime: 1
+
+*** Tom Hardy ***
+Drama: 8
+Action: 5
+Crime: 5
+Thriller: 4
+Adventure: 2
+Biography: 2
+Mystery: 2
+Sci-Fi: 1
+Sport: 1
+Comedy: 1
+Romance: 1
+
+*** Zoe Kravitz ***
+Action: 1
+Adventure: 1
+Sci-Fi: 1
+Crime: 1
+Drama: 1
+Thriller: 1
+
+*** Bryan Cranston ***
+Drama: 4
+Action: 3
+Adventure: 3
+Crime: 2
+Biography: 2
+History: 1
+Sci-Fi: 1
+Animation: 1
+Mystery: 1
+
+*** Jennifer Garner ***
+Drama: 4
+Comedy: 3
+Family: 3
+Biography: 2
+Fantasy: 1
+
+*** Beverly D'Angelo ***
+Drama: 1
+
+*** Jason O'Mara ***
+Drama: 2
+Action: 1
+Thriller: 1
+
+*** Kurt Russell ***
+Drama: 3
+Thriller: 3
+Action: 2
+Horror: 2
+Crime: 1
+Mystery: 1
+Adventure: 1
+
+*** Douglas M. Griffin ***
+Drama: 2
+Action: 1
+Thriller: 1
+Horror: 1
+Mystery: 1
+
+*** James DuMont ***
+Action: 1
+Drama: 1
+Thriller: 1
+
+*** Charlotte Le Bon ***
+Drama: 2
+Crime: 2
+History: 1
+Sci-Fi: 1
+Thriller: 1
+Action: 1
+Adventure: 1
+Biography: 1
+
+*** Daniel Gimenez Cacho ***
+Drama: 1
+History: 1
+
+*** Brad Pitt ***
+Drama: 10
+Action: 4
+Biography: 4
+Romance: 2
+Adventure: 2
+War: 2
+Comedy: 2
+Fantasy: 2
+Crime: 2
+History: 1
+Horror: 1
+Sport: 1
+Animation: 1
+Thriller: 1
+
+*** Vincent Ebrahim ***
+Action: 1
+Drama: 1
+Romance: 1
+
+*** Lewis MacDougall ***
+Drama: 1
+Fantasy: 1
+
+*** Sigourney Weaver ***
+Action: 4
+Drama: 3
+Fantasy: 2
+Adventure: 2
+Crime: 2
+Thriller: 1
+
+*** Toby Kebbell ***
+Drama: 2
+Fantasy: 1
+Action: 1
+Adventure: 1
+
+*** Edward Norton ***
+Drama: 3
+Romance: 3
+Action: 2
+Adventure: 2
+Mystery: 2
+Comedy: 1
+Sci-Fi: 1
+
+*** Kate Winslet ***
+Drama: 5
+Romance: 2
+Adventure: 2
+Sci-Fi: 2
+Thriller: 2
+Mystery: 1
+Comedy: 1
+Biography: 1
+
+*** Michael Pena ***
+Drama: 4
+Action: 3
+Crime: 2
+Romance: 1
+War: 1
+Comedy: 1
+Thriller: 1
+
+*** Ginnifer Goodwin ***
+Animation: 1
+Adventure: 1
+Comedy: 1
+
+*** Jason Bateman ***
+Comedy: 6
+Drama: 3
+Crime: 3
+Animation: 1
+Adventure: 1
+Mystery: 1
+Thriller: 1
+Action: 1
+Romance: 1
+
+*** Idris Elba ***
+Action: 4
+Adventure: 3
+Drama: 3
+Crime: 3
+Animation: 1
+Comedy: 1
+Family: 1
+Sci-Fi: 1
+Thriller: 1
+
+*** Jenny Slate ***
+Animation: 1
+Adventure: 1
+Comedy: 1
+
+*** Orlando Bloom ***
+Action: 2
+Adventure: 2
+Fantasy: 2
+
+*** Keira Knightley ***
+Drama: 5
+Action: 3
+Adventure: 2
+Fantasy: 2
+Thriller: 2
+Romance: 2
+Biography: 1
+Mystery: 1
+Music: 1
+
+*** Diane Kruger ***
+Drama: 3
+Adventure: 2
+Action: 2
+Romance: 2
+War: 1
+Biography: 1
+Crime: 1
+Fantasy: 1
+Mystery: 1
+Thriller: 1
+
+*** Eli Roth ***
+Adventure: 1
+Drama: 1
+War: 1
+
+*** Melanie Laurent ***
+Adventure: 1
+Drama: 1
+War: 1
+Mystery: 1
+Thriller: 1
+
+*** Jack Davenport ***
+Action: 1
+Adventure: 1
+Fantasy: 1
+Biography: 1
+Drama: 1
+Romance: 1
+
+*** Melissa McCarthy ***
+Comedy: 4
+Action: 3
+Crime: 2
+Fantasy: 1
+
+*** Kate McKinnon ***
+Action: 1
+Comedy: 1
+Fantasy: 1
+
+*** Leslie Jones ***
+Action: 1
+Comedy: 1
+Fantasy: 1
+
+*** Leonardo DiCaprio ***
+Drama: 7
+Thriller: 4
+Adventure: 3
+Romance: 3
+Action: 2
+Crime: 2
+Sci-Fi: 1
+Biography: 1
+Comedy: 1
+Mystery: 1
+Western: 1
+
+*** Joseph Gordon-Levitt ***
+Drama: 6
+Action: 3
+Biography: 3
+Crime: 3
+Comedy: 3
+Romance: 3
+Adventure: 2
+Thriller: 2
+Sci-Fi: 1
+History: 1
+
+*** Ellen Page ***
+Comedy: 3
+Drama: 3
+Sci-Fi: 2
+Action: 1
+Adventure: 1
+Romance: 1
+Thriller: 1
+
+*** Ken Watanabe ***
+Action: 2
+Adventure: 2
+Sci-Fi: 2
+Drama: 1
+
+*** Viggo Mortensen ***
+Drama: 3
+Comedy: 1
+Crime: 1
+Mystery: 1
+Adventure: 1
+
+*** George MacKay ***
+Comedy: 1
+Drama: 1
+
+*** Samantha Isler ***
+Comedy: 1
+Drama: 1
+
+*** Annalise Basso ***
+Comedy: 1
+Drama: 1
+Horror: 1
+Thriller: 1
+
+*** Rosamund Pike ***
+Crime: 3
+Drama: 3
+Mystery: 3
+Action: 3
+Comedy: 1
+Sci-Fi: 1
+Biography: 1
+Romance: 1
+Adventure: 1
+Fantasy: 1
+
+*** Neil Patrick Harris ***
+Crime: 1
+Drama: 1
+Mystery: 1
+
+*** Tyler Perry ***
+Crime: 1
+Drama: 1
+Mystery: 1
+Action: 1
+Adventure: 1
+Comedy: 1
+
+*** Paul Walker ***
+Action: 4
+Crime: 4
+Thriller: 4
+
+*** Jason Statham ***
+Action: 6
+Thriller: 4
+Crime: 3
+Adventure: 3
+Comedy: 1
+Sci-Fi: 1
+
+*** Ty Simpkins ***
+Action: 1
+Adventure: 1
+Sci-Fi: 1
+Horror: 1
+Mystery: 1
+Thriller: 1
+
+*** Judy Greer ***
+Action: 1
+Adventure: 1
+Sci-Fi: 1
+Comedy: 1
+Drama: 1
+Romance: 1
+
+*** Elle Fanning ***
+Drama: 2
+Thriller: 2
+Adventure: 2
+Comedy: 2
+Crime: 1
+Horror: 1
+Action: 1
+Family: 1
+Animation: 1
+Mystery: 1
+Sci-Fi: 1
+
+*** Chris Messina ***
+Crime: 1
+Drama: 1
+
+*** Michelle Rodriguez ***
+Action: 5
+Crime: 3
+Thriller: 3
+Adventure: 1
+Fantasy: 1
+Horror: 1
+Sci-Fi: 1
+
+*** Jennifer Jason Leigh ***
+Drama: 2
+Crime: 1
+Mystery: 1
+Comedy: 1
+Romance: 1
+
+*** Walton Goggins ***
+Crime: 1
+Drama: 1
+Mystery: 1
+
+*** Jon Bernthal ***
+Action: 2
+Crime: 2
+Drama: 2
+Mystery: 1
+Thriller: 1
+
+*** Melissa Leo ***
+Drama: 3
+Biography: 2
+Crime: 1
+Mystery: 1
+Thriller: 1
+Action: 1
+
+*** Travis Fimmel ***
+Action: 1
+Adventure: 1
+Fantasy: 1
+
+*** Paula Patton ***
+Action: 4
+Adventure: 3
+Thriller: 2
+Fantasy: 1
+Sci-Fi: 1
+Comedy: 1
+Drama: 1
+
+*** Ben Foster ***
+Action: 5
+Drama: 3
+Adventure: 2
+Crime: 2
+Fantasy: 1
+Thriller: 1
+Biography: 1
+Horror: 1
+Mystery: 1
+History: 1
+
+*** Dominic Cooper ***
+Action: 3
+Fantasy: 2
+Drama: 2
+Adventure: 1
+Crime: 1
+
+*** Miles Teller ***
+Drama: 4
+Comedy: 3
+Romance: 2
+Crime: 1
+Music: 1
+Action: 1
+Adventure: 1
+Sci-Fi: 1
+Biography: 1
+Sport: 1
+
+*** Steve Lantz ***
+Comedy: 1
+Crime: 1
+Drama: 1
+
+*** Gregg Weiner ***
+Comedy: 1
+Crime: 1
+Drama: 1
+
+*** Mark Ruffalo ***
+Crime: 3
+Drama: 3
+Action: 2
+Adventure: 2
+Mystery: 2
+Thriller: 2
+History: 2
+Sci-Fi: 1
+Comedy: 1
+Music: 1
+
+*** Chris Hemsworth ***
+Action: 8
+Adventure: 6
+Drama: 4
+Fantasy: 2
+Biography: 2
+Sci-Fi: 1
+Horror: 1
+Crime: 1
+Mystery: 1
+Thriller: 1
+
+*** Russell Crowe ***
+Drama: 6
+Action: 4
+Romance: 3
+Comedy: 2
+Crime: 2
+Adventure: 2
+Musical: 1
+Biography: 1
+
+*** Angourie Rice ***
+Action: 1
+Comedy: 1
+Crime: 1
+
+*** Matt Bomer ***
+Comedy: 2
+Action: 1
+Crime: 1
+Drama: 1
+Music: 1
+
+*** Ryunosuke Kamiki ***
+Animation: 1
+Drama: 1
+Fantasy: 1
+
+*** Mone Kamishiraishi ***
+Animation: 1
+Drama: 1
+Fantasy: 1
+
+*** Ryo Narita ***
+Animation: 1
+Drama: 1
+Fantasy: 1
+
+*** Aoi Yuki ***
+Animation: 2
+Drama: 2
+Fantasy: 1
+Romance: 1
+
+*** Aaron Poole ***
+Horror: 1
+Mystery: 1
+Sci-Fi: 1
+
+*** Kenneth Welsh ***
+Horror: 1
+Mystery: 1
+Sci-Fi: 1
+
+*** Daniel Fathers ***
+Horror: 1
+Mystery: 1
+Sci-Fi: 1
+
+*** Kathleen Munroe ***
+Horror: 1
+Mystery: 1
+Sci-Fi: 1
+
+*** Kristen Stewart ***
+Drama: 8
+Fantasy: 4
+Adventure: 4
+Romance: 3
+Mystery: 1
+Thriller: 1
+Comedy: 1
+Action: 1
+Sci-Fi: 1
+
+*** Lars Eidinger ***
+Drama: 1
+Mystery: 1
+Thriller: 1
+
+*** Sigrid Bouaziz ***
+Drama: 1
+Mystery: 1
+Thriller: 1
+
+*** Anders Danielsen Lie ***
+Drama: 1
+Mystery: 1
+Thriller: 1
+
+*** Jack Nicholson ***
+Crime: 1
+Drama: 1
+Thriller: 1
+
+*** Emily Browning ***
+Drama: 3
+Action: 2
+Biography: 1
+Crime: 1
+Fantasy: 1
+Romance: 1
+Adventure: 1
+
+*** Paul Anderson ***
+Biography: 1
+Crime: 1
+Drama: 1
+
+*** Anthony Hopkins ***
+Action: 3
+Crime: 3
+Drama: 3
+Adventure: 2
+Mystery: 2
+Fantasy: 1
+Thriller: 1
+
+*** Natalie Portman ***
+Drama: 4
+Adventure: 3
+Fantasy: 3
+Action: 2
+Biography: 2
+History: 2
+Romance: 2
+Comedy: 2
+Thriller: 1
+
+*** Tom Hiddleston ***
+Fantasy: 3
+Action: 2
+Adventure: 2
+Drama: 2
+Horror: 1
+
+*** Kate Mara ***
+Adventure: 3
+Drama: 3
+Sci-Fi: 3
+Thriller: 2
+Horror: 1
+Action: 1
+Biography: 1
+
+*** Mario Casas ***
+Crime: 1
+Mystery: 1
+Thriller: 1
+
+*** Ana Wagener ***
+Crime: 1
+Mystery: 1
+Thriller: 1
+
+*** Jose Coronado ***
+Crime: 1
+Mystery: 1
+Thriller: 1
+
+*** Barbara Lennie ***
+Crime: 1
+Mystery: 1
+Thriller: 1
+
+*** Armie Hammer ***
+Action: 3
+Adventure: 2
+Comedy: 2
+Thriller: 1
+War: 1
+Crime: 1
+Western: 1
+
+*** Elizabeth Debicki ***
+Action: 1
+Adventure: 1
+Comedy: 1
+
+*** Jeff Bridges ***
+Adventure: 4
+Drama: 3
+Action: 3
+Sci-Fi: 3
+Crime: 1
+Thriller: 1
+Fantasy: 1
+Romance: 1
+Western: 1
+
+*** Gil Birmingham ***
+Drama: 2
+Crime: 1
+Thriller: 1
+Adventure: 1
+Fantasy: 1
+
+*** Robert De Niro ***
+Comedy: 5
+Drama: 4
+Thriller: 2
+Romance: 1
+Mystery: 1
+Sci-Fi: 1
+Action: 1
+Biography: 1
+Crime: 1
+
+*** Leslie Mann ***
+Comedy: 6
+Romance: 4
+Drama: 1
+Family: 1
+
+*** Danny DeVito ***
+Comedy: 1
+
+*** Edie Falco ***
+Comedy: 1
+
+*** Alexander Skarsgard ***
+Action: 3
+Adventure: 2
+Drama: 2
+Sci-Fi: 1
+Comedy: 1
+
+*** Rory J. Saper ***
+Action: 1
+Adventure: 1
+Drama: 1
+
+*** Christian Stevens ***
+Action: 1
+Adventure: 1
+Drama: 1
+
+*** Christoph Waltz ***
+Action: 2
+Adventure: 2
+Drama: 2
+Western: 1
+Thriller: 1
+
+*** Eve Lindley ***
+Drama: 1
+
+*** Richard Kind ***
+Drama: 1
+
+*** Mark Consuelos ***
+Drama: 1
+
+*** Katherine Reis ***
+Drama: 1
+
+*** Sonoya Mizuno ***
+Drama: 1
+Mystery: 1
+Sci-Fi: 1
+
+*** John Gallagher Jr. ***
+Horror: 3
+Thriller: 2
+Action: 1
+Drama: 1
+Mystery: 1
+
+*** Tony Goldwyn ***
+Action: 1
+Horror: 1
+Thriller: 1
+
+*** Adria Arjona ***
+Action: 1
+Horror: 1
+Thriller: 1
+
+*** John C. McGinley ***
+Action: 1
+Horror: 1
+Thriller: 1
+
+*** Michael Kenneth Williams ***
+Biography: 1
+Drama: 1
+History: 1
+
+*** Jason Momoa ***
+Romance: 1
+Sci-Fi: 1
+Action: 1
+Adventure: 1
+Fantasy: 1
+
+*** Jim Carrey ***
+Crime: 2
+Romance: 1
+Sci-Fi: 1
+Action: 1
+Comedy: 1
+Drama: 1
+Thriller: 1
+
+*** Gerard Butler ***
+Action: 7
+Drama: 4
+Adventure: 3
+Crime: 3
+Thriller: 3
+Fantasy: 2
+Romance: 2
+Animation: 2
+War: 1
+Comedy: 1
+
+*** Lena Headey ***
+Action: 3
+Fantasy: 2
+Drama: 2
+Sci-Fi: 2
+Thriller: 2
+War: 1
+Horror: 1
+
+*** David Wenham ***
+Action: 1
+Fantasy: 1
+War: 1
+
+*** Dominic West ***
+Action: 2
+Drama: 2
+Fantasy: 1
+War: 1
+Crime: 1
+Thriller: 1
+Adventure: 1
+
+*** Daniel Radcliffe ***
+Adventure: 5
+Drama: 5
+Fantasy: 5
+Family: 3
+Horror: 2
+Comedy: 2
+Sci-Fi: 1
+Crime: 1
+Thriller: 1
+Romance: 1
+
+*** Emma Watson ***
+Adventure: 5
+Drama: 5
+Fantasy: 4
+Family: 3
+Romance: 2
+Thriller: 1
+Crime: 1
+Mystery: 1
+Action: 1
+
+*** Rupert Grint ***
+Adventure: 4
+Fantasy: 4
+Family: 3
+Drama: 1
+
+*** Michael Gambon ***
+Adventure: 2
+Fantasy: 2
+Drama: 1
+Family: 1
+
+*** Olivia Munn ***
+Comedy: 2
+Drama: 1
+
+*** Christina Hendricks ***
+Thriller: 2
+Horror: 1
+Drama: 1
+Mystery: 1
+
+*** Karl Glusman ***
+Horror: 1
+Thriller: 1
+Drama: 1
+Romance: 1
+
+*** Aamir Khan ***
+Drama: 4
+Comedy: 2
+Action: 1
+Biography: 1
+Romance: 1
+Family: 1
+Music: 1
+
+*** Sakshi Tanwar ***
+Action: 1
+Biography: 1
+Drama: 1
+
+*** Fatima Sana Shaikh ***
+Action: 1
+Biography: 1
+Drama: 1
+
+*** Sanya Malhotra ***
+Action: 1
+Biography: 1
+Drama: 1
+
+*** Mary Elizabeth Winstead ***
+Drama: 2
+Comedy: 2
+Horror: 1
+Mystery: 1
+Action: 1
+Fantasy: 1
+Adventure: 1
+
+*** Ellen DeGeneres ***
+Animation: 1
+Adventure: 1
+Comedy: 1
+
+*** Albert Brooks ***
+Drama: 2
+Animation: 1
+Adventure: 1
+Comedy: 1
+Crime: 1
+Biography: 1
+Sport: 1
+
+*** Ed O'Neill ***
+Animation: 1
+Adventure: 1
+Comedy: 1
+
+*** Kaitlin Olson ***
+Animation: 1
+Adventure: 1
+Comedy: 1
+
+*** Eva Green ***
+Adventure: 2
+Drama: 2
+Action: 2
+Fantasy: 2
+Family: 1
+Thriller: 1
+Comedy: 1
+Horror: 1
+
+*** Asa Butterfield ***
+Drama: 3
+Adventure: 2
+Family: 2
+War: 1
+Action: 1
+Sci-Fi: 1
+
+*** Judi Dench ***
+Adventure: 4
+Action: 3
+Thriller: 3
+Drama: 1
+Family: 1
+
+*** Shailene Woodley ***
+Drama: 4
+Adventure: 3
+Mystery: 2
+Sci-Fi: 2
+Thriller: 2
+Romance: 2
+Comedy: 2
+Biography: 1
+Action: 1
+
+*** Jai Courtney ***
+Adventure: 2
+Sci-Fi: 2
+Drama: 2
+Mystery: 1
+Action: 1
+Thriller: 1
+
+*** Zac Efron ***
+Comedy: 6
+Romance: 4
+Drama: 3
+Adventure: 1
+Music: 1
+Family: 1
+
+*** Adam Devine ***
+Adventure: 1
+Comedy: 1
+Romance: 1
+
+*** Aubrey Plaza ***
+Comedy: 2
+Adventure: 1
+Romance: 1
+
+*** Scott Adkins ***
+Action: 1
+
+*** Teodora Duhovnikova ***
+Action: 1
+
+*** Alon Aboutboul ***
+Action: 1
+
+*** Julian Vergov ***
+Action: 1
+
+*** Gary Oldman ***
+Drama: 6
+Action: 5
+Thriller: 4
+Crime: 3
+Adventure: 2
+Mystery: 1
+Sci-Fi: 1
+
+*** Neel Sethi ***
+Adventure: 1
+Drama: 1
+Family: 1
+
+*** Bill Murray ***
+Adventure: 3
+Drama: 2
+Comedy: 2
+Family: 1
+Animation: 1
+
+*** Ben Kingsley ***
+Adventure: 4
+Drama: 4
+Action: 4
+Mystery: 3
+Family: 2
+Thriller: 2
+Crime: 2
+Sci-Fi: 1
+Fantasy: 1
+Comedy: 1
+
+*** Nicola Peltz ***
+Action: 2
+Adventure: 2
+Sci-Fi: 1
+Family: 1
+
+*** Jack Reynor ***
+Action: 1
+Adventure: 1
+Sci-Fi: 1
+Comedy: 1
+Drama: 1
+Music: 1
+
+*** Stanley Tucci ***
+Adventure: 2
+Sci-Fi: 2
+Action: 1
+Thriller: 1
+
+*** Emma Roberts ***
+Crime: 2
+Adventure: 1
+Mystery: 1
+Comedy: 1
+Horror: 1
+Thriller: 1
+
+*** Dave Franco ***
+Adventure: 2
+Crime: 1
+Mystery: 1
+Action: 1
+Comedy: 1
+
+*** Emily Meade ***
+Adventure: 1
+Crime: 1
+Mystery: 1
+
+*** Miles Heizer ***
+Adventure: 1
+Crime: 1
+Mystery: 1
+
+*** Meryl Streep ***
+Comedy: 5
+Drama: 4
+Adventure: 2
+Family: 1
+Musical: 1
+Biography: 1
+Romance: 1
+Sci-Fi: 1
+Animation: 1
+
+*** Pierce Brosnan ***
+Mystery: 2
+Thriller: 2
+Comedy: 1
+Family: 1
+Musical: 1
+Crime: 1
+Drama: 1
+Action: 1
+
+*** Amanda Seyfried ***
+Comedy: 4
+Romance: 3
+Musical: 2
+Family: 1
+Drama: 1
+Action: 1
+Sci-Fi: 1
+Thriller: 1
+Horror: 1
+Adventure: 1
+Western: 1
+
+*** Stellan Skarsgard ***
+Drama: 3
+Comedy: 1
+Family: 1
+Musical: 1
+Action: 1
+Adventure: 1
+Fantasy: 1
+Crime: 1
+Mystery: 1
+
+*** Will Poulter ***
+Adventure: 1
+Drama: 1
+Thriller: 1
+Action: 1
+Mystery: 1
+Sci-Fi: 1
+
+*** Stephen Henderson ***
+Drama: 1
+
+*** Jovan Adepo ***
+Drama: 1
+
+*** Blake Lively ***
+Drama: 4
+Thriller: 2
+Romance: 2
+Horror: 1
+Comedy: 1
+Fantasy: 1
+Crime: 1
+Action: 1
+Adventure: 1
+Sci-Fi: 1
+
+*** Oscar Jaenada ***
+Drama: 1
+Horror: 1
+Thriller: 1
+
+*** Angelo Josue Lozano Corzo ***
+Drama: 1
+Horror: 1
+Thriller: 1
+
+*** Brett Cullen ***
+Drama: 1
+Horror: 1
+Thriller: 1
+
+*** Melissa Benoist ***
+Drama: 1
+Music: 1
+
+*** Paul Reiser ***
+Drama: 1
+Music: 1
+
+*** Eva Mendes ***
+Crime: 2
+Thriller: 2
+Action: 2
+Drama: 1
+Comedy: 1
+Fantasy: 1
+
+*** Craig Van Hook ***
+Crime: 1
+Drama: 1
+Thriller: 1
+
+*** Josh Brolin ***
+Drama: 6
+Crime: 5
+Action: 5
+Comedy: 4
+Thriller: 2
+Mystery: 2
+Adventure: 2
+Biography: 1
+Western: 1
+Horror: 1
+
+*** Woody Harrelson ***
+Crime: 4
+Adventure: 4
+Drama: 3
+Thriller: 3
+Action: 3
+Comedy: 3
+Sci-Fi: 2
+Mystery: 1
+Horror: 1
+Romance: 1
+
+*** Carey Mulligan ***
+Drama: 3
+Romance: 1
+Crime: 1
+
+*** Joel Edgerton ***
+Drama: 7
+Romance: 2
+Action: 2
+Biography: 2
+Thriller: 2
+Mystery: 2
+Sport: 1
+Crime: 1
+History: 1
+Adventure: 1
+Sci-Fi: 1
+
+*** Tobey Maguire ***
+Drama: 1
+Romance: 1
+Action: 1
+Adventure: 1
+
+*** Emily Mortimer ***
+Mystery: 2
+Thriller: 1
+Action: 1
+Sci-Fi: 1
+Animation: 1
+Adventure: 1
+Comedy: 1
+
+*** Dakota Fanning ***
+Mystery: 1
+Thriller: 1
+Western: 1
+Animation: 1
+Family: 1
+Fantasy: 1
+Crime: 1
+Drama: 1
+
+*** Guy Pearce ***
+Thriller: 2
+Drama: 2
+Mystery: 1
+Western: 1
+Action: 1
+Adventure: 1
+Sci-Fi: 1
+Crime: 1
+History: 1
+
+*** Kit Harington ***
+Mystery: 1
+Thriller: 1
+Western: 1
+Action: 1
+Adventure: 1
+Drama: 1
+
+*** Carice van Houten ***
+Mystery: 1
+Thriller: 1
+Western: 1
+
+*** Simon Pegg ***
+Action: 5
+Adventure: 4
+Sci-Fi: 4
+Comedy: 4
+Thriller: 2
+Mystery: 1
+
+*** Leonard Nimoy ***
+Action: 1
+Adventure: 1
+Sci-Fi: 1
+
+*** Zachary Gordon ***
+Comedy: 3
+Family: 3
+
+*** Robert Capron ***
+Comedy: 3
+Family: 3
+
+*** Rachael Harris ***
+Comedy: 2
+Family: 2
+
+*** Steve Zahn ***
+Comedy: 2
+Family: 2
+Biography: 2
+Drama: 2
+Adventure: 1
+
+*** Steve Carell ***
+Comedy: 7
+Drama: 4
+Romance: 2
+Animation: 2
+Adventure: 2
+Biography: 1
+Family: 1
+
+*** Brie Larson ***
+Drama: 3
+Comedy: 3
+Crime: 3
+Action: 2
+Romance: 1
+Thriller: 1
+
+*** Jacob Tremblay ***
+Drama: 3
+Horror: 2
+Fantasy: 1
+Thriller: 1
+
+*** Sean Bridgers ***
+Drama: 1
+
+*** Wendy Crewson ***
+Drama: 1
+
+*** Jamie Foxx ***
+Drama: 4
+Action: 2
+Thriller: 2
+Western: 1
+Adventure: 1
+Sci-Fi: 1
+Crime: 1
+Comedy: 1
+Family: 1
+
+*** Kerry Washington ***
+Drama: 1
+Western: 1
+
+*** Min-hee Kim ***
+Drama: 1
+Mystery: 1
+Romance: 1
+
+*** Jung-woo Ha ***
+Drama: 1
+Mystery: 1
+Romance: 1
+
+*** Jin-woong Jo ***
+Drama: 1
+Mystery: 1
+Romance: 1
+
+*** So-ri Moon ***
+Drama: 1
+Mystery: 1
+Romance: 1
+
+*** Hailee Steinfeld ***
+Drama: 4
+Comedy: 2
+Music: 2
+Action: 2
+Adventure: 1
+Western: 1
+Sci-Fi: 1
+Thriller: 1
+
+*** Blake Jenner ***
+Comedy: 2
+Drama: 1
+
+*** Kyra Sedgwick ***
+Comedy: 1
+Drama: 1
+
+*** Jackie Earle Haley ***
+Action: 1
+Drama: 1
+Mystery: 1
+
+*** Patrick Wilson ***
+Thriller: 5
+Drama: 4
+Mystery: 4
+Horror: 4
+Action: 1
+Crime: 1
+Adventure: 1
+
+*** Carla Gugino ***
+Action: 2
+Drama: 2
+Mystery: 1
+Adventure: 1
+
+*** Malin Akerman ***
+Drama: 2
+Comedy: 2
+Action: 1
+Mystery: 1
+Romance: 1
+
+*** Michael Cera ***
+Comedy: 3
+Action: 1
+Fantasy: 1
+Drama: 1
+
+*** Bill Hader ***
+Comedy: 3
+Drama: 1
+Romance: 1
+Animation: 1
+Adventure: 1
+
+*** Irrfan Khan ***
+Adventure: 3
+Action: 2
+Crime: 1
+Drama: 1
+Fantasy: 1
+
+*** Mark Rylance ***
+Adventure: 1
+Family: 1
+Fantasy: 1
+Drama: 1
+History: 1
+Thriller: 1
+
+*** Ruby Barnhill ***
+Adventure: 1
+Family: 1
+Fantasy: 1
+
+*** Penelope Wilton ***
+Adventure: 1
+Family: 1
+Fantasy: 1
+
+*** Jemaine Clement ***
+Adventure: 2
+Fantasy: 2
+Comedy: 2
+Family: 1
+Horror: 1
+Action: 1
+
+*** Josh Hutcherson ***
+Adventure: 5
+Action: 4
+Sci-Fi: 3
+Thriller: 2
+Mystery: 1
+Drama: 1
+Family: 1
+
+*** Morgan Saylor ***
+Drama: 1
+
+*** Brian Marc ***
+Drama: 1
+
+*** Justin Bartha ***
+Drama: 1
+Comedy: 1
+
+*** Adrian Martinez ***
+Drama: 2
+Comedy: 1
+Crime: 1
+
+*** Benicio Del Toro ***
+Crime: 2
+Drama: 2
+Action: 1
+Thriller: 1
+
+*** Chris Isaak ***
+Drama: 1
+Horror: 1
+Mystery: 1
+
+*** Kiefer Sutherland ***
+Drama: 3
+Horror: 1
+Mystery: 1
+Action: 1
+Adventure: 1
+
+*** C.H. Evans ***
+Drama: 1
+Horror: 1
+Mystery: 1
+
+*** Sandra Kinder ***
+Drama: 1
+Horror: 1
+Mystery: 1
+
+*** Reiko Aylesworth ***
+Action: 1
+Horror: 1
+Sci-Fi: 1
+
+*** Steven Pasquale ***
+Action: 1
+Horror: 1
+Sci-Fi: 1
+
+*** Shareeka Epps ***
+Action: 1
+Horror: 1
+Sci-Fi: 1
+
+*** John Ortiz ***
+Action: 1
+Horror: 1
+Sci-Fi: 1
+
+*** Rinko Kikuchi ***
+Action: 1
+Adventure: 1
+Sci-Fi: 1
+
+*** Charlie Day ***
+Comedy: 3
+Crime: 2
+Action: 1
+Adventure: 1
+Sci-Fi: 1
+Drama: 1
+Romance: 1
+
+*** Julianne Moore ***
+Drama: 4
+Comedy: 2
+Romance: 2
+Sci-Fi: 1
+Thriller: 1
+Action: 1
+Adventure: 1
+Fantasy: 1
+Horror: 1
+
+*** Kieran Culkin ***
+Action: 1
+Comedy: 1
+Fantasy: 1
+
+*** Alison Pill ***
+Action: 1
+Comedy: 1
+Fantasy: 1
+
+*** Nick Frost ***
+Comedy: 3
+Action: 2
+Sci-Fi: 2
+Mystery: 1
+Adventure: 1
+
+*** Martin Freeman ***
+Comedy: 3
+Adventure: 3
+Fantasy: 3
+Action: 2
+Mystery: 1
+Biography: 1
+Drama: 1
+Sci-Fi: 1
+
+*** Annabelle Wallis ***
+Thriller: 2
+War: 1
+Horror: 1
+Mystery: 1
+
+*** Tom Cullen ***
+Thriller: 1
+War: 1
+
+*** Clint Dyer ***
+Thriller: 1
+War: 1
+
+*** Sharlto Copley ***
+Action: 8
+Drama: 4
+Comedy: 3
+Adventure: 3
+Sci-Fi: 3
+Crime: 2
+Mystery: 1
+Family: 1
+Thriller: 1
+Romance: 1
+
+*** Cillian Murphy ***
+Action: 3
+Thriller: 3
+Sci-Fi: 2
+Biography: 2
+Adventure: 2
+Comedy: 1
+Crime: 1
+History: 1
+Drama: 1
+Mystery: 1
+Romance: 1
+
+*** Patrick Stewart ***
+Action: 2
+Adventure: 2
+Sci-Fi: 1
+Crime: 1
+Horror: 1
+Thriller: 1
+Fantasy: 1
+
+*** Ian McKellen ***
+Adventure: 5
+Fantasy: 4
+Action: 1
+Sci-Fi: 1
+Family: 1
+Mystery: 1
+Thriller: 1
+
+*** Tom Cruise ***
+Action: 7
+Adventure: 6
+Thriller: 3
+Crime: 2
+Mystery: 2
+Sci-Fi: 1
+Comedy: 1
+Drama: 1
+Musical: 1
+
+*** Cobie Smulders ***
+Action: 1
+Adventure: 1
+Crime: 1
+Drama: 1
+Romance: 1
+Thriller: 1
+
+*** Aldis Hodge ***
+Action: 1
+Adventure: 1
+Crime: 1
+
+*** Robert Knepper ***
+Action: 1
+Adventure: 1
+Crime: 1
+
+*** Daniel Craig ***
+Adventure: 5
+Action: 4
+Thriller: 4
+Crime: 1
+Drama: 1
+Mystery: 1
+Family: 1
+Fantasy: 1
+
+*** Jeffrey Wright ***
+Mystery: 2
+Action: 1
+Adventure: 1
+Thriller: 1
+Romance: 1
+Sci-Fi: 1
+Drama: 1
+Fantasy: 1
+
+*** Billy Burke ***
+Drama: 1
+Fantasy: 1
+Romance: 1
+Horror: 1
+
+*** Sarah Clarke ***
+Drama: 1
+Fantasy: 1
+Romance: 1
+
+*** Helen Mirren ***
+Drama: 2
+Comedy: 2
+Biography: 1
+History: 1
+Animation: 1
+Adventure: 1
+Action: 1
+Crime: 1
+Thriller: 1
+War: 1
+
+*** Daniel Bruhl ***
+Drama: 4
+Biography: 2
+History: 1
+Action: 1
+Romance: 1
+Thriller: 1
+Comedy: 1
+
+*** Katie Holmes ***
+Biography: 1
+Drama: 1
+History: 1
+
+*** John Krasinski ***
+Action: 1
+Drama: 1
+History: 1
+
+*** Pablo Schreiber ***
+Action: 1
+Drama: 1
+History: 1
+
+*** James Badge Dale ***
+Action: 3
+Drama: 2
+History: 1
+Adventure: 1
+Horror: 1
+Mystery: 1
+Sci-Fi: 1
+
+*** David Denman ***
+Action: 2
+Drama: 1
+History: 1
+Adventure: 1
+Sci-Fi: 1
+
+*** Lea Seydoux ***
+Drama: 2
+Action: 1
+Adventure: 1
+Thriller: 1
+Romance: 1
+
+*** Ralph Fiennes ***
+Adventure: 5
+Action: 3
+Thriller: 2
+Comedy: 2
+Drama: 2
+Fantasy: 2
+Animation: 1
+Family: 1
+Mystery: 1
+
+*** Rene Russo ***
+Drama: 2
+Crime: 1
+Thriller: 1
+Comedy: 1
+
+*** Bill Paxton ***
+Thriller: 2
+Crime: 1
+Drama: 1
+Action: 1
+Adventure: 1
+Sci-Fi: 1
+
+*** Riz Ahmed ***
+Crime: 2
+Drama: 2
+Thriller: 2
+
+*** Art Parkinson ***
+Animation: 1
+Adventure: 1
+Family: 1
+Action: 1
+Drama: 1
+Fantasy: 1
+
+*** Graham Skipper ***
+Adventure: 1
+Horror: 1
+
+*** Chase Williamson ***
+Adventure: 1
+Horror: 1
+
+*** Brea Grant ***
+Adventure: 1
+Horror: 1
+
+*** Barbara Crampton ***
+Adventure: 1
+Horror: 1
+
+*** Joaquin Phoenix ***
+Drama: 3
+Romance: 1
+Sci-Fi: 1
+Comedy: 1
+Crime: 1
+
+*** Idina Menzel ***
+Animation: 1
+Adventure: 1
+Comedy: 1
+
+*** Jonathan Groff ***
+Animation: 1
+Adventure: 1
+Comedy: 1
+
+*** Josh Gad ***
+Animation: 2
+Adventure: 2
+Comedy: 1
+Action: 1
+
+*** George Clooney ***
+Drama: 4
+Comedy: 3
+Thriller: 3
+Adventure: 2
+Crime: 2
+Action: 1
+Family: 1
+Mystery: 1
+Sci-Fi: 1
+Animation: 1
+Romance: 1
+
+*** Britt Robertson ***
+Drama: 3
+Romance: 2
+Comedy: 2
+Action: 1
+Adventure: 1
+Family: 1
+
+*** Hugh Laurie ***
+Action: 1
+Adventure: 1
+Family: 1
+
+*** Raffey Cassidy ***
+Action: 1
+Adventure: 1
+Family: 1
+
+*** Keri Russell ***
+Drama: 3
+Action: 2
+Adventure: 1
+Biography: 1
+Music: 1
+
+*** Andy Serkis ***
+Action: 2
+Adventure: 2
+Drama: 2
+Sci-Fi: 1
+Fantasy: 1
+
+*** Kodi Smit-McPhee ***
+Drama: 3
+Adventure: 2
+Action: 1
+Horror: 1
+Mystery: 1
+
+*** Ben Stiller ***
+Comedy: 5
+Adventure: 2
+Action: 1
+Drama: 1
+Family: 1
+Romance: 1
+
+*** Jack Black ***
+Action: 3
+Adventure: 3
+Comedy: 2
+Animation: 2
+Family: 1
+
+*** Jeff Kahn ***
+Action: 1
+Comedy: 1
+
+*** Vera Farmiga ***
+Mystery: 4
+Horror: 3
+Thriller: 3
+Romance: 2
+Drama: 2
+Sci-Fi: 1
+Crime: 1
+
+*** Madison Wolfe ***
+Horror: 1
+Mystery: 1
+Thriller: 1
+
+*** Frances O'Connor ***
+Horror: 1
+Mystery: 1
+Thriller: 1
+
+*** Paul Rudd ***
+Comedy: 4
+Romance: 4
+Drama: 2
+Action: 1
+Adventure: 1
+
+*** Michael Douglas ***
+Action: 1
+Adventure: 1
+Comedy: 1
+
+*** Evangeline Lilly ***
+Action: 2
+Adventure: 1
+Comedy: 1
+Drama: 1
+Family: 1
+
+*** Renee Zellweger ***
+Comedy: 1
+Romance: 1
+Crime: 1
+Drama: 1
+Mystery: 1
+
+*** Gemma Jones ***
+Comedy: 1
+Romance: 1
+
+*** Jim Broadbent ***
+Romance: 2
+Drama: 2
+Comedy: 1
+Crime: 1
+Mystery: 1
+
+*** Sally Phillips ***
+Comedy: 1
+Romance: 1
+
+*** Ralph Ineson ***
+Horror: 1
+Mystery: 1
+
+*** Kate Dickie ***
+Horror: 1
+Mystery: 1
+
+*** Julian Richings ***
+Horror: 1
+Mystery: 1
+
+*** Lily James ***
+Drama: 2
+Family: 1
+Fantasy: 1
+Action: 1
+Horror: 1
+Romance: 1
+
+*** Cate Blanchett ***
+Drama: 8
+Fantasy: 4
+Adventure: 4
+Action: 4
+Romance: 3
+Family: 1
+Thriller: 1
+Animation: 1
+
+*** Richard Madden ***
+Drama: 2
+Family: 1
+Fantasy: 1
+Action: 1
+Crime: 1
+
+*** Helena Bonham Carter ***
+Fantasy: 4
+Drama: 3
+Family: 3
+Adventure: 2
+Horror: 2
+Musical: 1
+Biography: 1
+Comedy: 1
+
+*** Tom Hughes ***
+Sci-Fi: 1
+
+*** Oona Chaplin ***
+Sci-Fi: 1
+
+*** Barry Ward ***
+Sci-Fi: 2
+Drama: 1
+Thriller: 1
+
+*** Taraneh Alidoosti ***
+Drama: 1
+Thriller: 1
+
+*** Shahab Hosseini ***
+Drama: 1
+Thriller: 1
+
+*** Babak Karimi ***
+Drama: 1
+Thriller: 1
+
+*** Farid Sajjadi Hosseini ***
+Drama: 1
+Thriller: 1
+
+*** Aomi Muyock ***
+Drama: 1
+Romance: 1
+
+*** Klara Kristin ***
+Drama: 1
+Romance: 1
+
+*** Juan Saavedra ***
+Drama: 1
+Romance: 1
+
+*** Joe Alwyn ***
+Drama: 1
+War: 1
+
+*** Garrett Hedlund ***
+Drama: 2
+Adventure: 2
+War: 1
+Family: 1
+Fantasy: 1
+Action: 1
+Sci-Fi: 1
+Biography: 1
+Sport: 1
+
+*** Arturo Castro ***
+Drama: 1
+War: 1
+
+*** Mason Lee ***
+Drama: 1
+War: 1
+
+*** Mia Wasikowska ***
+Fantasy: 3
+Drama: 2
+Adventure: 2
+Family: 2
+Horror: 1
+Romance: 1
+
+*** Amy Schumer ***
+Comedy: 1
+Drama: 1
+Romance: 1
+
+*** Colin Quinn ***
+Comedy: 1
+Drama: 1
+Romance: 1
+
+*** Rachel Weisz ***
+Drama: 6
+Romance: 2
+Comedy: 2
+Adventure: 2
+Fantasy: 2
+Family: 1
+Biography: 1
+Music: 1
+Action: 1
+Mystery: 1
+Thriller: 1
+Sci-Fi: 1
+
+*** Florence Clery ***
+Drama: 1
+Romance: 1
+
+*** Erika Linder ***
+Drama: 1
+
+*** Natalie Krill ***
+Drama: 1
+
+*** Sebastian Pigott ***
+Drama: 1
+
+*** Mayko Nguyen ***
+Drama: 1
+
+*** Liev Schreiber ***
+Crime: 2
+Drama: 2
+Action: 2
+History: 1
+Adventure: 1
+Sci-Fi: 1
+Mystery: 1
+Comedy: 1
+Romance: 1
+Biography: 1
+Sport: 1
+
+*** Rose Leslie ***
+Horror: 1
+Sci-Fi: 1
+Thriller: 1
+Action: 1
+Adventure: 1
+Fantasy: 1
+
+*** Michael Yare ***
+Horror: 1
+Sci-Fi: 1
+Thriller: 1
+
+*** Nick Nolte ***
+Action: 1
+Drama: 1
+Sport: 1
+
+*** Jennifer Morrison ***
+Action: 1
+Drama: 1
+Sport: 1
+
+*** Hugo Weaving ***
+Sci-Fi: 2
+Drama: 2
+Action: 1
+Adventure: 1
+Comedy: 1
+
+*** Hayley Atwell ***
+Action: 1
+Adventure: 1
+Sci-Fi: 1
+
+*** Callan McAuliffe ***
+Crime: 1
+Drama: 1
+Thriller: 1
+
+*** Lorraine Nicholson ***
+Crime: 1
+Drama: 1
+Thriller: 1
+
+*** Daniel Eric Gold ***
+Crime: 1
+Drama: 1
+Thriller: 1
+
+*** Clifton Collins Jr. ***
+Thriller: 2
+Crime: 1
+Drama: 1
+
+*** Vince Vaughn ***
+Comedy: 3
+Drama: 2
+Adventure: 1
+Biography: 1
+Romance: 1
+
+*** Catherine Keener ***
+Drama: 3
+Biography: 2
+Thriller: 2
+Adventure: 1
+Crime: 1
+
+*** Marcia Gay Harden ***
+Adventure: 1
+Biography: 1
+Drama: 1
+Horror: 1
+
+*** Matthew Goode ***
+Biography: 1
+Drama: 1
+Thriller: 1
+Action: 1
+Mystery: 1
+Sci-Fi: 1
+
+*** Allen Leech ***
+Biography: 1
+Drama: 1
+Thriller: 1
+
+*** Danielle Nicolet ***
+Action: 1
+Comedy: 1
+Crime: 1
+
+*** Amy Ryan ***
+Drama: 3
+Crime: 2
+Biography: 2
+Action: 1
+Comedy: 1
+History: 1
+Thriller: 1
+Mystery: 1
+
+*** Dane DeHaan ***
+Drama: 1
+Fantasy: 1
+Horror: 1
+Animation: 1
+Adventure: 1
+Comedy: 1
+
+*** Jason Isaacs ***
+Drama: 1
+Fantasy: 1
+Horror: 1
+
+*** Mia Goth ***
+Drama: 2
+Fantasy: 1
+Horror: 1
+Sci-Fi: 1
+Thriller: 1
+
+*** Ivo Nandi ***
+Drama: 1
+Fantasy: 1
+Horror: 1
+
+*** Gwyneth Paltrow ***
+Action: 3
+Adventure: 3
+Sci-Fi: 3
+Drama: 1
+Thriller: 1
+
+*** Terrence Howard ***
+Action: 1
+Adventure: 1
+Sci-Fi: 1
+Drama: 1
+Music: 1
+
+*** Jeff Daniels ***
+Action: 1
+Adventure: 1
+Mystery: 1
+Biography: 1
+Drama: 1
+
+*** Naomi Watts ***
+Drama: 8
+Mystery: 2
+Thriller: 2
+Crime: 2
+Horror: 2
+Action: 1
+Adventure: 1
+Comedy: 1
+Biography: 1
+Sport: 1
+Romance: 1
+
+*** Kevin Bacon ***
+Action: 1
+Adventure: 1
+Sci-Fi: 1
+Comedy: 1
+Drama: 1
+
+*** Garance Marillier ***
+Drama: 1
+Horror: 1
+
+*** Ella Rumpf ***
+Drama: 1
+Horror: 1
+
+*** Rabah Nait Oufella ***
+Drama: 1
+Horror: 1
+
+*** Laurent Lucas ***
+Drama: 1
+Horror: 1
+Adventure: 1
+Biography: 1
+
+*** Golshifteh Farahani ***
+Drama: 2
+Romance: 2
+Comedy: 1
+Action: 1
+
+*** Nellie ***
+Comedy: 1
+Drama: 1
+Romance: 1
+
+*** Rizwan Manji ***
+Comedy: 1
+Drama: 1
+Romance: 1
+
+*** Maya Rudolph ***
+Comedy: 3
+Adventure: 2
+Romance: 1
+Animation: 1
+Action: 1
+Sci-Fi: 1
+
+*** Rose Byrne ***
+Comedy: 6
+Sci-Fi: 2
+Thriller: 2
+Horror: 2
+Drama: 2
+Romance: 1
+Action: 1
+Crime: 1
+Adventure: 1
+Mystery: 1
+Family: 1
+
+*** Terry Crews ***
+Comedy: 3
+Romance: 1
+Adventure: 1
+Sci-Fi: 1
+Western: 1
+
+*** Glenn Close ***
+Drama: 1
+Horror: 1
+Thriller: 1
+
+*** Dominique Tipper ***
+Drama: 1
+Horror: 1
+Thriller: 1
+
+*** Paddy Considine ***
+Drama: 1
+Horror: 1
+Thriller: 1
+
+*** Alexandra Daddario ***
+Adventure: 2
+Drama: 2
+Action: 1
+Romance: 1
+Family: 1
+Fantasy: 1
+
+*** Colton Haynes ***
+Action: 1
+Adventure: 1
+Drama: 1
+
+*** Vanessa Hudgens ***
+Drama: 1
+Action: 1
+Fantasy: 1
+
+*** Selena Gomez ***
+Drama: 2
+Animation: 1
+Comedy: 1
+Family: 1
+
+*** Ashley Benson ***
+Drama: 1
+
+*** Rachel Korine ***
+Drama: 1
+
+*** Shia LaBeouf ***
+Action: 6
+Drama: 6
+Adventure: 4
+Sci-Fi: 3
+Thriller: 3
+Mystery: 2
+War: 1
+Crime: 1
+Fantasy: 1
+
+*** Megan Fox ***
+Action: 4
+Adventure: 4
+Comedy: 3
+Sci-Fi: 2
+Horror: 1
+
+*** Josh Duhamel ***
+Action: 3
+Adventure: 3
+Sci-Fi: 3
+Drama: 2
+Romance: 2
+Thriller: 1
+Comedy: 1
+
+*** Tyrese Gibson ***
+Action: 4
+Sci-Fi: 4
+Adventure: 3
+Thriller: 1
+
+*** Elizabeth Olsen ***
+Action: 2
+Drama: 1
+Mystery: 1
+Adventure: 1
+Sci-Fi: 1
+
+*** Brenton Thwaites ***
+Action: 1
+Adventure: 1
+Fantasy: 1
+Drama: 1
+Romance: 1
+Sci-Fi: 1
+Horror: 1
+Mystery: 1
+
+*** Nikolaj Coster-Waldau ***
+Action: 1
+Adventure: 1
+Fantasy: 1
+Comedy: 1
+Romance: 1
+Horror: 1
+Thriller: 1
+
+*** Chadwick Boseman ***
+Action: 1
+Adventure: 1
+Fantasy: 1
+Biography: 1
+Drama: 1
+Sport: 1
+
+*** Robert Redford ***
+Adventure: 2
+Action: 1
+Sci-Fi: 1
+Family: 1
+Fantasy: 1
+
+*** Lucas Till ***
+Action: 1
+Adventure: 1
+Comedy: 1
+Drama: 1
+Horror: 1
+Thriller: 1
+
+*** Thomas Lennon ***
+Comedy: 2
+Action: 1
+Adventure: 1
+Drama: 1
+Family: 1
+
+*** Barry Pepper ***
+Action: 1
+Adventure: 1
+Comedy: 1
+
+*** Mark Huberman ***
+Drama: 1
+Horror: 1
+
+*** Susan Loughnane ***
+Drama: 1
+Horror: 1
+
+*** Steve Oram ***
+Drama: 1
+Horror: 1
+
+*** Catherine Walker ***
+Drama: 1
+Horror: 1
+
+*** Nicolas Cage ***
+Action: 3
+Comedy: 1
+Fantasy: 1
+Thriller: 1
+Drama: 1
+History: 1
+
+*** Chloe Grace Moretz ***
+Drama: 6
+Action: 4
+Comedy: 4
+Crime: 2
+Thriller: 2
+Adventure: 2
+Horror: 2
+Mystery: 2
+Sci-Fi: 1
+Romance: 1
+Family: 1
+Fantasy: 1
+Music: 1
+
+*** Garrett M. Brown ***
+Action: 1
+Comedy: 1
+
+*** Tim Roth ***
+Action: 3
+Adventure: 2
+Sci-Fi: 2
+Drama: 2
+Comedy: 1
+Romance: 1
+Crime: 1
+Horror: 1
+Biography: 1
+History: 1
+
+*** Danila Kozlovsky ***
+Action: 2
+Adventure: 1
+Sci-Fi: 1
+Comedy: 1
+Fantasy: 1
+
+*** Owen Wilson ***
+Comedy: 8
+Adventure: 3
+Animation: 2
+Action: 2
+Crime: 2
+Drama: 1
+Fantasy: 1
+Romance: 1
+Family: 1
+Thriller: 1
+
+*** Bonnie Hunt ***
+Animation: 1
+Adventure: 1
+Comedy: 1
+
+*** Paul Newman ***
+Animation: 1
+Adventure: 1
+Comedy: 1
+
+*** Larry the Cable Guy ***
+Animation: 2
+Adventure: 2
+Comedy: 2
+
+*** Keir Gilchrist ***
+Horror: 1
+Mystery: 1
+
+*** Olivia Luccardi ***
+Horror: 1
+Mystery: 1
+
+*** Lili Sepe ***
+Horror: 1
+Mystery: 1
+
+*** Christopher Plummer ***
+Drama: 3
+Mystery: 3
+Crime: 2
+Adventure: 2
+Animation: 1
+Comedy: 1
+Fantasy: 1
+
+*** Ed Helms ***
+Comedy: 3
+Crime: 1
+Adventure: 1
+
+*** Sasha Lane ***
+Drama: 1
+
+*** Riley Keough ***
+Drama: 2
+
+*** McCaul Lombardi ***
+Drama: 1
+
+*** Colin Farrell ***
+Comedy: 4
+Drama: 4
+Crime: 3
+Mystery: 2
+Romance: 1
+Action: 1
+Adventure: 1
+Biography: 1
+
+*** Jessica Barden ***
+Comedy: 1
+Drama: 1
+Romance: 1
+
+*** Olivia Colman ***
+Drama: 2
+Comedy: 1
+Romance: 1
+
+*** Adrien Brody ***
+Adventure: 2
+Action: 1
+Sci-Fi: 1
+Comedy: 1
+Drama: 1
+
+*** Topher Grace ***
+Action: 2
+Adventure: 2
+Sci-Fi: 1
+Comedy: 1
+Drama: 1
+Romance: 1
+
+*** Alice Braga ***
+Sci-Fi: 3
+Action: 2
+Drama: 2
+Adventure: 1
+Horror: 1
+
+*** Angelina Jolie ***
+Action: 6
+Adventure: 4
+Animation: 3
+Crime: 2
+Mystery: 2
+Family: 1
+Fantasy: 1
+Biography: 1
+Drama: 1
+
+*** Lesley Manville ***
+Action: 1
+Adventure: 1
+Family: 1
+
+*** Michael Chiklis ***
+Thriller: 2
+Horror: 1
+Sci-Fi: 1
+Action: 1
+Mystery: 1
+
+*** Kerry Bishe ***
+Horror: 1
+Sci-Fi: 1
+Thriller: 1
+Drama: 1
+
+*** Peter Stormare ***
+Horror: 2
+Thriller: 2
+Sci-Fi: 1
+
+*** Ivana Baquero ***
+Drama: 1
+Fantasy: 1
+War: 1
+
+*** Ariadna Gil ***
+Drama: 1
+Fantasy: 1
+War: 1
+
+*** Sergi Lopez ***
+Drama: 1
+Fantasy: 1
+War: 1
+
+*** Maribel Verdu ***
+Drama: 1
+Fantasy: 1
+War: 1
+
+*** Jessica Biel ***
+Drama: 2
+Crime: 1
+Thriller: 1
+Mystery: 1
+Romance: 1
+Action: 1
+Adventure: 1
+Comedy: 1
+
+*** Vincent Kartheiser ***
+Crime: 1
+Drama: 1
+Thriller: 1
+
+*** Gerardo Taracena ***
+Action: 1
+Adventure: 1
+Drama: 1
+
+*** Raoul Max Trujillo ***
+Action: 1
+Adventure: 1
+Drama: 1
+
+*** Dalia Hernandez ***
+Action: 1
+Adventure: 1
+Drama: 1
+
+*** Rudy Youngblood ***
+Action: 1
+Adventure: 1
+Drama: 1
+
+*** Logan Lerman ***
+Drama: 3
+Romance: 3
+Adventure: 3
+Action: 2
+Family: 2
+Fantasy: 2
+War: 1
+
+*** Ezra Miller ***
+Drama: 3
+Romance: 1
+Mystery: 1
+Thriller: 1
+Biography: 1
+History: 1
+
+*** Peter Sarsgaard ***
+Drama: 2
+Biography: 1
+History: 1
+Action: 1
+Adventure: 1
+Sci-Fi: 1
+Horror: 1
+Mystery: 1
+Thriller: 1
+
+*** Greta Gerwig ***
+Drama: 2
+Biography: 1
+History: 1
+Comedy: 1
+
+*** Billy Crudup ***
+Drama: 3
+Biography: 2
+History: 2
+Comedy: 1
+
+*** Mel Raido ***
+Drama: 1
+Horror: 1
+Thriller: 1
+
+*** Duncan Joiner ***
+Drama: 1
+Horror: 1
+Thriller: 1
+
+*** F. Murray Abraham ***
+Adventure: 1
+Comedy: 1
+Drama: 1
+
+*** Mathieu Amalric ***
+Adventure: 2
+Comedy: 1
+Drama: 1
+Action: 1
+Thriller: 1
+
+*** Saoirse Ronan ***
+Drama: 4
+Romance: 3
+Action: 2
+Thriller: 2
+Adventure: 1
+Mystery: 1
+Fantasy: 1
+
+*** Max Irons ***
+Action: 1
+Adventure: 1
+Romance: 1
+
+*** Jake Abel ***
+Action: 1
+Adventure: 1
+Romance: 1
+
+*** Amy Poehler ***
+Comedy: 2
+Animation: 1
+Adventure: 1
+
+*** Lewis Black ***
+Animation: 2
+Adventure: 2
+Comedy: 2
+
+*** Mindy Kaling ***
+Animation: 1
+Adventure: 1
+Comedy: 1
+
+*** Luke Wilson ***
+Adventure: 2
+Comedy: 2
+Animation: 1
+Sci-Fi: 1
+
+*** Eddie Izzard ***
+Animation: 1
+Adventure: 1
+Comedy: 1
+
+*** Arnold Schwarzenegger ***
+Action: 2
+Adventure: 1
+Sci-Fi: 1
+Crime: 1
+Mystery: 1
+
+*** Jason Clarke ***
+Drama: 5
+Action: 3
+Crime: 3
+Adventure: 2
+Thriller: 2
+Sci-Fi: 1
+Biography: 1
+
+*** Kevin McKidd ***
+Adventure: 1
+Family: 1
+Fantasy: 1
+
+*** Steve Coogan ***
+Adventure: 1
+Family: 1
+Fantasy: 1
+
+*** Brandon T. Jackson ***
+Adventure: 2
+Family: 2
+Fantasy: 2
+
+*** Clive Owen ***
+Drama: 3
+Thriller: 2
+Crime: 2
+Sci-Fi: 1
+Mystery: 1
+
+*** Annette Bening ***
+Comedy: 1
+Drama: 1
+
+*** Jude Law ***
+Action: 3
+Crime: 3
+Drama: 3
+Adventure: 2
+Comedy: 1
+Romance: 1
+Biography: 1
+Thriller: 1
+
+*** Francois Cluzet ***
+Biography: 1
+Comedy: 1
+Drama: 1
+
+*** Omar Sy ***
+Biography: 1
+Comedy: 1
+Drama: 1
+
+*** Anne Le Ny ***
+Biography: 1
+Comedy: 1
+Drama: 1
+
+*** Audrey Fleurot ***
+Biography: 1
+Comedy: 1
+Drama: 1
+
+*** Diane Lane ***
+Comedy: 1
+Drama: 1
+Romance: 1
+Action: 1
+Adventure: 1
+Fantasy: 1
+
+*** Alec Baldwin ***
+Drama: 4
+Comedy: 2
+Romance: 1
+Biography: 1
+Sport: 1
+Musical: 1
+
+*** Arnaud Viard ***
+Comedy: 1
+Drama: 1
+Romance: 1
+
+*** Linda Gegusch ***
+Comedy: 1
+Drama: 1
+Romance: 1
+
+*** Christos Stergioglou ***
+Drama: 1
+Thriller: 1
+
+*** Michele Valley ***
+Drama: 1
+Thriller: 1
+
+*** Angeliki Papoulia ***
+Drama: 1
+Thriller: 1
+
+*** Hristos Passalis ***
+Drama: 1
+Thriller: 1
+
+*** O'Shea Jackson Jr. ***
+Biography: 1
+Drama: 1
+History: 1
+
+*** Corey Hawkins ***
+Biography: 1
+Drama: 1
+History: 1
+
+*** Jason Mitchell ***
+Biography: 1
+Drama: 1
+History: 1
+
+*** Neil Brown Jr. ***
+Biography: 1
+Drama: 1
+History: 1
+
+*** Paul Giamatti ***
+Drama: 2
+Mystery: 2
+Action: 1
+Adventure: 1
+Sci-Fi: 1
+Romance: 1
+Fantasy: 1
+
+*** Ron Livingston ***
+Horror: 1
+Mystery: 1
+Thriller: 1
+
+*** Lili Taylor ***
+Horror: 1
+Mystery: 1
+Thriller: 1
+
+*** Zach Galifianakis ***
+Comedy: 4
+Action: 2
+Drama: 1
+Romance: 1
+Crime: 1
+
+*** Brooklyn Decker ***
+Action: 1
+Adventure: 1
+Sci-Fi: 1
+Comedy: 1
+Romance: 1
+
+*** Rihanna ***
+Adventure: 2
+Action: 1
+Sci-Fi: 1
+Animation: 1
+Comedy: 1
+
+*** Freida Pinto ***
+Drama: 2
+Action: 1
+Sci-Fi: 1
+
+*** Karin Konoval ***
+Action: 1
+Drama: 1
+Sci-Fi: 1
+
+*** Gabriel Bateman ***
+Horror: 1
+
+*** Maria Bello ***
+Action: 2
+Adventure: 2
+Horror: 1
+Fantasy: 1
+Family: 1
+
+*** Richard Gere ***
+Drama: 2
+Thriller: 1
+Comedy: 1
+Romance: 1
+Family: 1
+
+*** Lior Ashkenazi ***
+Drama: 1
+Thriller: 1
+
+*** Charlotte Gainsbourg ***
+Drama: 6
+Thriller: 2
+Crime: 1
+Horror: 1
+
+*** Winona Ryder ***
+Drama: 1
+Thriller: 1
+
+*** Tyler James Williams ***
+Comedy: 1
+Drama: 1
+
+*** Tessa Thompson ***
+Comedy: 2
+Drama: 2
+Sport: 1
+Action: 1
+
+*** Kyle Gallner ***
+Drama: 2
+Comedy: 1
+Action: 1
+Biography: 1
+
+*** Teyonah Parris ***
+Comedy: 1
+Drama: 1
+
+*** Stacy Martin ***
+Drama: 1
+
+*** Will Arnett ***
+Action: 3
+Adventure: 3
+Comedy: 2
+Animation: 1
+
+*** Lorenza Izzo ***
+Horror: 2
+Drama: 1
+Thriller: 1
+Adventure: 1
+
+*** Ana de Armas ***
+Drama: 2
+Horror: 1
+Thriller: 1
+Crime: 1
+Mystery: 1
+
+*** Aaron Burns ***
+Horror: 2
+Drama: 1
+Thriller: 1
+Adventure: 1
+
+*** Halle Berry ***
+Drama: 1
+Sci-Fi: 1
+Action: 1
+Adventure: 1
+Fantasy: 1
+
+*** Hugh Grant ***
+Drama: 2
+Sci-Fi: 1
+Biography: 1
+Comedy: 1
+
+*** Danny Huston ***
+Action: 1
+Adventure: 1
+Sci-Fi: 1
+
+*** Sarah Hyland ***
+Horror: 1
+
+*** Steven Krueger ***
+Horror: 1
+
+*** Justin Chon ***
+Horror: 1
+
+*** Clara Mamet ***
+Horror: 1
+
+*** Naomie Harris ***
+Action: 1
+Adventure: 1
+Thriller: 1
+
+*** Richard Armitage ***
+Adventure: 3
+Fantasy: 3
+
+*** Channing Tatum ***
+Comedy: 7
+Action: 5
+Drama: 5
+Crime: 3
+Adventure: 3
+Sci-Fi: 2
+Music: 2
+Romance: 2
+Thriller: 1
+Sport: 1
+Animation: 1
+
+*** Ice Cube ***
+Comedy: 3
+Action: 2
+Crime: 2
+Drama: 1
+
+*** Ferdia Walsh-Peelo ***
+Comedy: 1
+Drama: 1
+Music: 1
+
+*** Aidan Gillen ***
+Comedy: 1
+Drama: 1
+Music: 1
+
+*** Maria Doyle Kennedy ***
+Comedy: 1
+Drama: 1
+Music: 1
+
+*** Carly Rae Jepsen ***
+Animation: 1
+Adventure: 1
+Comedy: 1
+
+*** Maddie Ziegler ***
+Animation: 1
+Adventure: 1
+Comedy: 1
+
+*** Morgan Freeman ***
+Action: 6
+Crime: 5
+Mystery: 4
+Drama: 4
+Thriller: 2
+Adventure: 1
+Fantasy: 1
+Sci-Fi: 1
+Comedy: 1
+Romance: 1
+
+*** Olga Kurylenko ***
+Action: 3
+Adventure: 3
+Mystery: 1
+Thriller: 1
+Drama: 1
+
+*** Anthony Edwards ***
+Crime: 1
+Drama: 1
+History: 1
+
+*** Tyler Hoechlin ***
+Comedy: 1
+
+*** Ryan Guzman ***
+Comedy: 1
+Mystery: 1
+Thriller: 1
+
+*** Don Cheadle ***
+Action: 2
+Adventure: 2
+Sci-Fi: 2
+Drama: 1
+Thriller: 1
+
+*** Common ***
+Crime: 1
+Mystery: 1
+Thriller: 1
+
+*** Zoe Bell ***
+Thriller: 2
+Action: 1
+Horror: 1
+
+*** Rosario Dawson ***
+Thriller: 3
+Drama: 3
+Romance: 2
+Action: 2
+Mystery: 2
+Comedy: 1
+Crime: 1
+
+*** Vanessa Ferlito ***
+Thriller: 1
+
+*** Amber Heard ***
+Drama: 3
+Action: 2
+Biography: 1
+Romance: 1
+Sport: 1
+Thriller: 1
+
+*** Ben Whishaw ***
+Drama: 3
+Biography: 2
+Romance: 1
+Action: 1
+Adventure: 1
+Comedy: 1
+Crime: 1
+Fantasy: 1
+
+*** John Hurt ***
+Action: 2
+Adventure: 1
+Drama: 1
+Fantasy: 1
+
+*** Joseph Fiennes ***
+Action: 1
+Adventure: 1
+
+*** Abbie Cornish ***
+Drama: 3
+Action: 2
+Mystery: 2
+Sci-Fi: 2
+Thriller: 2
+Crime: 2
+Fantasy: 1
+Comedy: 1
+Romance: 1
+
+*** Jena Malone ***
+Action: 1
+Fantasy: 1
+Drama: 1
+
+*** Isla Fisher ***
+Action: 1
+Comedy: 1
+
+*** Jon Hamm ***
+Action: 2
+Comedy: 1
+Animation: 1
+Adventure: 1
+Crime: 1
+Drama: 1
+Thriller: 1
+
+*** Gal Gadot ***
+Action: 2
+Comedy: 1
+Crime: 1
+Drama: 1
+
+*** Sean Bean ***
+Adventure: 2
+Action: 1
+Sci-Fi: 1
+Horror: 1
+Mystery: 1
+
+*** Ross Kimball ***
+Action: 1
+Comedy: 1
+Crime: 1
+
+*** Romain Duris ***
+Thriller: 1
+
+*** Jalil Lespert ***
+Thriller: 1
+
+*** Camille Cottin ***
+Thriller: 1
+
+*** Yoo Gong ***
+Action: 2
+Drama: 2
+Horror: 1
+Thriller: 1
+
+*** Soo-an Kim ***
+Action: 1
+Drama: 1
+Horror: 1
+
+*** Yu-mi Jung ***
+Action: 1
+Drama: 1
+Horror: 1
+
+*** Dong-seok Ma ***
+Action: 1
+Drama: 1
+Horror: 1
+
+*** Brittany Snow ***
+Comedy: 2
+Music: 2
+Romance: 1
+
+*** Rebel Wilson ***
+Comedy: 4
+Music: 2
+Romance: 2
+Action: 1
+Adventure: 1
+
+*** Anna Camp ***
+Comedy: 1
+Music: 1
+Romance: 1
+
+*** Lois van Wijk ***
+Drama: 1
+
+*** Benjamin Walker ***
+Drama: 1
+Romance: 1
+
+*** Maggie Grace ***
+Action: 3
+Drama: 2
+Thriller: 2
+Romance: 1
+Crime: 1
+
+*** Ray Romano ***
+Animation: 1
+Adventure: 1
+Comedy: 1
+
+*** Denis Leary ***
+Animation: 1
+Adventure: 1
+Comedy: 1
+
+*** John Leguizamo ***
+Animation: 1
+Adventure: 1
+Comedy: 1
+Biography: 1
+Crime: 1
+Drama: 1
+Sci-Fi: 1
+Thriller: 1
+
+*** Chris Wedge ***
+Animation: 1
+Adventure: 1
+Comedy: 1
+
+*** Adrian Grenier ***
+Comedy: 2
+Drama: 1
+
+*** Daniel Day-Lewis ***
+Drama: 2
+History: 2
+Biography: 1
+
+*** Paul Dano ***
+Drama: 3
+History: 1
+Action: 1
+Crime: 1
+Adventure: 1
+Comedy: 1
+
+*** Ciaran Hinds ***
+Drama: 4
+Crime: 2
+History: 1
+Biography: 1
+Sport: 1
+Mystery: 1
+Comedy: 1
+
+*** Martin Stringer ***
+Drama: 1
+History: 1
+
+*** Marton Csokas ***
+Crime: 2
+Thriller: 2
+Action: 1
+Drama: 1
+
+*** David Harbour ***
+Crime: 2
+Action: 1
+Thriller: 1
+Drama: 1
+Mystery: 1
+
+*** Taylor Kitsch ***
+Action: 2
+Drama: 2
+Biography: 1
+Adventure: 1
+Sci-Fi: 1
+Crime: 1
+Thriller: 1
+
+*** Kristen Connolly ***
+Horror: 1
+
+*** Anna Hutchison ***
+Horror: 2
+Action: 1
+Thriller: 1
+
+*** Fran Kranz ***
+Horror: 1
+
+*** Anna Faris ***
+Comedy: 4
+Romance: 3
+Drama: 1
+
+*** Colin Hanks ***
+Comedy: 1
+Romance: 1
+
+*** Kat Dennings ***
+Comedy: 1
+Romance: 1
+
+*** Jay Baruchel ***
+Comedy: 2
+Animation: 2
+Action: 2
+Adventure: 2
+Romance: 1
+Fantasy: 1
+
+*** Alice Eve ***
+Comedy: 2
+Romance: 2
+Drama: 1
+
+*** Mike Vogel ***
+Comedy: 1
+Romance: 1
+Action: 1
+Horror: 1
+Sci-Fi: 1
+
+*** Emory Cohen ***
+Drama: 2
+Thriller: 2
+Crime: 1
+Romance: 1
+
+*** Lucas Black ***
+Action: 2
+Crime: 1
+Thriller: 1
+Fantasy: 1
+Horror: 1
+
+*** Zachery Ty Bryan ***
+Action: 1
+Crime: 1
+Thriller: 1
+
+*** Shad Moss ***
+Action: 1
+Crime: 1
+Thriller: 1
+
+*** Damien Marzette ***
+Action: 1
+Crime: 1
+Thriller: 1
+
+*** Alison Brie ***
+Comedy: 3
+Romance: 2
+Drama: 2
+Crime: 1
+
+*** Quinton Aaron ***
+Biography: 1
+Drama: 1
+Sport: 1
+
+*** Sandra Bullock ***
+Drama: 3
+Action: 2
+Comedy: 2
+Biography: 1
+Sport: 1
+Animation: 1
+Adventure: 1
+Romance: 1
+Sci-Fi: 1
+Thriller: 1
+Crime: 1
+
+*** Tim McGraw ***
+Biography: 1
+Drama: 1
+Sport: 1
+
+*** Jae Head ***
+Drama: 2
+Biography: 1
+Sport: 1
+Action: 1
+Crime: 1
+
+*** Salim Kechiouche ***
+Drama: 1
+Romance: 1
+
+*** Aurelien Recoing ***
+Drama: 1
+Romance: 1
+
+*** Noah Wiseman ***
+Drama: 1
+Horror: 1
+
+*** Daniel Henshall ***
+Drama: 1
+Horror: 1
+
+*** Hayley McElhinney ***
+Drama: 1
+Horror: 1
+
+*** Jamie Bell ***
+Action: 4
+Drama: 4
+Sci-Fi: 3
+Crime: 2
+Adventure: 2
+Comedy: 1
+Thriller: 1
+Romance: 1
+
+*** Tilda Swinton ***
+Drama: 4
+Thriller: 2
+Action: 1
+Sci-Fi: 1
+Fantasy: 1
+Romance: 1
+Mystery: 1
+
+*** Ed Harris ***
+Drama: 3
+Sci-Fi: 2
+Action: 1
+Thriller: 1
+Crime: 1
+Mystery: 1
+
+*** Matthew Zuk ***
+Action: 1
+Adventure: 1
+Sci-Fi: 1
+
+*** Gabriela Lopez ***
+Action: 1
+Adventure: 1
+Sci-Fi: 1
+
+*** Bailey Anne Borders ***
+Action: 1
+Adventure: 1
+Sci-Fi: 1
+
+*** Connor Paolo ***
+Horror: 3
+Action: 1
+Drama: 1
+Sci-Fi: 1
+Thriller: 1
+
+*** Nick Damici ***
+Horror: 2
+Action: 1
+Drama: 1
+Sci-Fi: 1
+
+*** Laura Abramsen ***
+Action: 1
+Horror: 1
+
+*** A.C. Peterson ***
+Action: 1
+Horror: 1
+
+*** Olivia DeJonge ***
+Comedy: 1
+Horror: 1
+Thriller: 1
+
+*** Ed Oxenbould ***
+Comedy: 2
+Horror: 1
+Thriller: 1
+Family: 1
+
+*** Deanna Dunagan ***
+Comedy: 1
+Horror: 1
+Thriller: 1
+
+*** Peter McRobbie ***
+Comedy: 1
+Horror: 1
+Thriller: 1
+
+*** Jordana Brewster ***
+Action: 2
+Crime: 2
+Thriller: 2
+
+*** Jenna Dewan Tatum ***
+Drama: 2
+Crime: 1
+Music: 1
+Comedy: 1
+Romance: 1
+
+*** Damaine Radcliff ***
+Crime: 1
+Drama: 1
+Music: 1
+
+*** De'Shawn Washington ***
+Crime: 1
+Drama: 1
+Music: 1
+
+*** Jessie Ok Gray ***
+Drama: 1
+
+*** Cary Joji Fukunaga ***
+Drama: 1
+
+*** Tom Wilkinson ***
+Action: 2
+Drama: 2
+Crime: 1
+Thriller: 1
+Biography: 1
+Comedy: 1
+Fantasy: 1
+Adventure: 1
+Western: 1
+
+*** Thandie Newton ***
+Action: 2
+Drama: 2
+Crime: 1
+Thriller: 1
+Adventure: 1
+Sci-Fi: 1
+Romance: 1
+Biography: 1
+
+*** Olivia Wilde ***
+Action: 3
+Sci-Fi: 2
+Thriller: 1
+Biography: 1
+Drama: 1
+Adventure: 1
+
+*** Elijah Wood ***
+Action: 1
+Adventure: 1
+Fantasy: 1
+Animation: 1
+Comedy: 1
+Family: 1
+
+*** Olafur Darri Olafsson ***
+Action: 1
+Adventure: 1
+Fantasy: 1
+
+*** Jessica Brown Findlay ***
+Drama: 2
+Horror: 1
+Sci-Fi: 1
+Comedy: 1
+Fantasy: 1
+
+*** Andrew Scott ***
+Drama: 5
+Horror: 1
+Sci-Fi: 1
+Biography: 1
+Comedy: 1
+Fantasy: 1
+
+*** Luke Treadaway ***
+Biography: 1
+Comedy: 1
+Drama: 1
+
+*** Bob the Cat ***
+Biography: 1
+Comedy: 1
+Drama: 1
+
+*** Ruta Gedmintas ***
+Biography: 1
+Comedy: 1
+Drama: 1
+
+*** Joanne Froggatt ***
+Biography: 1
+Comedy: 1
+Drama: 1
+
+*** Anton Yelchin ***
+Crime: 1
+Horror: 1
+Thriller: 1
+Action: 1
+Adventure: 1
+Drama: 1
+
+*** Imogen Poots ***
+Crime: 3
+Comedy: 2
+Drama: 2
+Horror: 1
+Thriller: 1
+Action: 1
+Romance: 1
+
+*** Alia Shawkat ***
+Crime: 1
+Horror: 1
+Thriller: 1
+Drama: 1
+
+*** Wei Tang ***
+Crime: 1
+Drama: 1
+Mystery: 1
+
+*** Leehom Wang ***
+Crime: 1
+Drama: 1
+Mystery: 1
+
+*** Andy Samberg ***
+Comedy: 3
+Animation: 2
+Adventure: 1
+Music: 1
+Family: 1
+
+*** Katie Crown ***
+Animation: 1
+Adventure: 1
+Comedy: 1
+
+*** Kelsey Grammer ***
+Animation: 1
+Adventure: 1
+Comedy: 1
+
+*** Cole Konis ***
+Action: 1
+Biography: 1
+Drama: 1
+
+*** Sally Field ***
+Drama: 2
+Biography: 1
+History: 1
+Comedy: 1
+Romance: 1
+
+*** David Strathairn ***
+Drama: 2
+Biography: 1
+History: 1
+Crime: 1
+Mystery: 1
+
+*** Alexandra Maria Lara ***
+Action: 1
+Biography: 1
+Drama: 1
+
+*** Kate Bosworth ***
+Drama: 2
+Fantasy: 1
+Horror: 1
+Crime: 1
+Thriller: 1
+Action: 1
+Adventure: 1
+Sci-Fi: 1
+
+*** Thomas Jane ***
+Drama: 2
+Horror: 2
+Fantasy: 1
+Action: 1
+History: 1
+
+*** Annabeth Gish ***
+Drama: 1
+Fantasy: 1
+Horror: 1
+
+*** Jacki Weaver ***
+Comedy: 1
+Drama: 1
+Romance: 1
+
+*** Alexi Pappas ***
+Drama: 1
+Sport: 1
+
+*** Chase Offerle ***
+Drama: 1
+Sport: 1
+
+*** Rachel Dratch ***
+Drama: 1
+Sport: 1
+
+*** Andy Buckley ***
+Drama: 1
+Sport: 1
+
+*** Ansel Elgort ***
+Drama: 1
+Romance: 1
+Adventure: 1
+Sci-Fi: 1
+Thriller: 1
+
+*** Nat Wolff ***
+Drama: 3
+Romance: 2
+Mystery: 1
+
+*** Laura Dern ***
+Drama: 3
+Romance: 1
+Adventure: 1
+Biography: 1
+Mystery: 1
+Thriller: 1
+
+*** Adam Sandler ***
+Comedy: 9
+Action: 3
+Romance: 2
+Family: 2
+Adventure: 1
+Western: 1
+Animation: 1
+
+*** Drew Barrymore ***
+Comedy: 1
+Romance: 1
+
+*** Wendi McLendon-Covey ***
+Comedy: 2
+Romance: 2
+Drama: 1
+
+*** Kevin Nealon ***
+Comedy: 1
+Romance: 1
+
+*** Bruce Willis ***
+Action: 3
+Crime: 2
+Drama: 2
+Adventure: 2
+Comedy: 2
+Thriller: 1
+
+*** Maggie Gyllenhaal ***
+Action: 1
+Drama: 1
+Thriller: 1
+
+*** Oakes Fegley ***
+Adventure: 1
+Family: 1
+Fantasy: 1
+
+*** Oona Laurence ***
+Adventure: 1
+Family: 1
+Fantasy: 1
+Drama: 1
+Sport: 1
+
+*** Kirsten Dunst ***
+Drama: 4
+Mystery: 2
+Action: 1
+Adventure: 1
+Biography: 1
+History: 1
+Sci-Fi: 1
+Crime: 1
+
+*** Thomas Haden Church ***
+Adventure: 2
+Family: 2
+Action: 1
+Comedy: 1
+
+*** Matthew Macfadyen ***
+Action: 2
+Adventure: 2
+Romance: 2
+Drama: 2
+
+*** Ray Stevenson ***
+Action: 2
+Adventure: 2
+Romance: 1
+Drama: 1
+
+*** Charlie Cox ***
+Adventure: 1
+Family: 1
+Fantasy: 1
+
+*** Claire Danes ***
+Adventure: 1
+Family: 1
+Fantasy: 1
+
+*** Adam Brody ***
+Comedy: 2
+Horror: 2
+Fantasy: 1
+
+*** Johnny Simmons ***
+Comedy: 1
+Horror: 1
+Thriller: 1
+
+*** Kathy Bates ***
+Comedy: 1
+Fantasy: 1
+Romance: 1
+
+*** Kurt Fuller ***
+Comedy: 1
+Fantasy: 1
+Romance: 1
+
+*** Florence Pugh ***
+Drama: 1
+
+*** Christopher Fairbank ***
+Drama: 1
+
+*** Cosmo Jarvis ***
+Drama: 1
+
+*** Naomi Ackie ***
+Drama: 1
+
+*** Judy Davis ***
+Drama: 2
+Comedy: 1
+Biography: 1
+History: 1
+
+*** Ben Barnes ***
+Action: 1
+Adventure: 1
+Fantasy: 1
+
+*** Hugo Gelin ***
+Comedy: 1
+Drama: 1
+
+*** Tom Prior ***
+Biography: 1
+Drama: 1
+Romance: 1
+
+*** Sophie Perry ***
+Biography: 1
+Drama: 1
+Romance: 1
+
+*** Lydia Wilson ***
+Comedy: 1
+Drama: 1
+Fantasy: 1
+
+*** Will Ferrell ***
+Comedy: 7
+Action: 4
+Animation: 2
+Crime: 2
+Adventure: 1
+Family: 1
+Sport: 1
+
+*** John C. Reilly ***
+Comedy: 4
+Drama: 2
+Animation: 1
+Adventure: 1
+Mystery: 1
+Thriller: 1
+Fantasy: 1
+Horror: 1
+Action: 1
+Sport: 1
+
+*** Mary Steenburgen ***
+Comedy: 2
+Drama: 1
+Romance: 1
+
+*** Richard Jenkins ***
+Drama: 3
+Comedy: 2
+Horror: 2
+Mystery: 2
+Adventure: 1
+Action: 1
+Crime: 1
+Romance: 1
+
+*** Andy Powers ***
+Horror: 1
+Thriller: 1
+
+*** Laura Allen ***
+Horror: 1
+Thriller: 1
+
+*** Christian Distefano ***
+Horror: 1
+Thriller: 1
+
+*** Abigail Breslin ***
+Comedy: 2
+Action: 2
+Adventure: 1
+Horror: 1
+Drama: 1
+Sci-Fi: 1
+Thriller: 1
+
+*** Alden Ehrenreich ***
+Comedy: 1
+Mystery: 1
+Drama: 1
+Fantasy: 1
+Romance: 1
+
+*** Saurabh Shukla ***
+Drama: 1
+
+*** Anil Kapoor ***
+Drama: 1
+
+*** Taylor Lautner ***
+Adventure: 3
+Drama: 3
+Fantasy: 3
+Comedy: 1
+Western: 1
+
+*** Peter Facinelli ***
+Adventure: 1
+Drama: 1
+Fantasy: 1
+
+*** William Fichtner ***
+Action: 2
+Adventure: 2
+Drama: 1
+Sport: 1
+Comedy: 1
+Western: 1
+
+*** Jon Voight ***
+Drama: 1
+Sport: 1
+
+*** Lia Marie Johnson ***
+Drama: 1
+Sport: 1
+Thriller: 1
+
+*** Gabriel Basso ***
+Drama: 3
+Sport: 1
+Crime: 1
+Mystery: 1
+Adventure: 1
+Comedy: 1
+
+*** Rhys Ifans ***
+Action: 1
+Adventure: 1
+
+*** Rodrigo Santoro ***
+Drama: 2
+Action: 1
+Adventure: 1
+Comedy: 1
+Crime: 1
+
+*** Nazanin Boniadi ***
+Action: 1
+Adventure: 1
+Drama: 1
+
+*** Jacob Latimore ***
+Action: 1
+Drama: 1
+Sci-Fi: 1
+
+*** Seychelle Gabriel ***
+Action: 1
+Drama: 1
+Sci-Fi: 1
+
+*** Dule Hill ***
+Action: 1
+Drama: 1
+Sci-Fi: 1
+
+*** Storm Reid ***
+Action: 1
+Drama: 1
+Sci-Fi: 1
+
+*** Dylan O'Brien ***
+Action: 2
+Sci-Fi: 2
+Mystery: 1
+Thriller: 1
+Comedy: 1
+Drama: 1
+Romance: 1
+
+*** Kaya Scodelario ***
+Action: 2
+Sci-Fi: 2
+Mystery: 1
+Thriller: 1
+
+*** Thomas Brodie-Sangster ***
+Action: 2
+Sci-Fi: 2
+Mystery: 1
+Thriller: 1
+
+*** Terence Stamp ***
+Action: 1
+Crime: 1
+Fantasy: 1
+
+*** Simon Helberg ***
+Biography: 1
+Comedy: 1
+Drama: 1
+
+*** Michael B. Jordan ***
+Drama: 1
+Sport: 1
+Action: 1
+Adventure: 1
+Sci-Fi: 1
+Comedy: 1
+Romance: 1
+
+*** Sylvester Stallone ***
+Action: 5
+Thriller: 4
+Adventure: 3
+Drama: 2
+Sport: 2
+Crime: 1
+Mystery: 1
+War: 1
+
+*** Phylicia Rashad ***
+Drama: 1
+Sport: 1
+
+*** Antonia Ribero ***
+Adventure: 1
+Comedy: 1
+Drama: 1
+
+*** Jet Li ***
+Action: 3
+Adventure: 3
+Thriller: 2
+Fantasy: 1
+
+*** Antonio Banderas ***
+Thriller: 2
+Action: 1
+Adventure: 1
+Drama: 1
+
+*** Taika Waititi ***
+Comedy: 1
+Fantasy: 1
+Horror: 1
+
+*** Cori Gonzalez-Macuer ***
+Comedy: 1
+Fantasy: 1
+Horror: 1
+
+*** Jonny Brugh ***
+Comedy: 1
+Fantasy: 1
+Horror: 1
+
+*** Kate Siegel ***
+Horror: 1
+Thriller: 1
+
+*** Michael Trucco ***
+Horror: 1
+Thriller: 1
+
+*** Samantha Sloyan ***
+Horror: 1
+Thriller: 1
+
+*** Alan Alda ***
+Drama: 2
+History: 1
+Thriller: 1
+Romance: 1
+
+*** Elizabeth Banks ***
+Action: 2
+Comedy: 2
+Animation: 1
+Adventure: 1
+Romance: 1
+Crime: 1
+Thriller: 1
+Horror: 1
+Sci-Fi: 1
+
+*** Ang Phula Sherpa ***
+Action: 1
+Adventure: 1
+Drama: 1
+
+*** Thomas M. Wright ***
+Action: 1
+Adventure: 1
+Drama: 1
+
+*** Martin Henderson ***
+Drama: 2
+Action: 1
+Adventure: 1
+Biography: 1
+Family: 1
+
+*** Kevin James ***
+Comedy: 4
+Family: 2
+Action: 1
+Animation: 1
+
+*** Peter Dinklage ***
+Comedy: 2
+Action: 1
+Family: 1
+
+*** Max von Sydow ***
+Action: 1
+Adventure: 1
+Drama: 1
+
+*** Will Yun Lee ***
+Action: 1
+Adventure: 1
+Sci-Fi: 1
+
+*** Tao Okamoto ***
+Action: 1
+Adventure: 1
+Sci-Fi: 1
+
+*** Rila Fukushima ***
+Action: 1
+Adventure: 1
+Sci-Fi: 1
+
+*** Lynn Collins ***
+Action: 1
+Adventure: 1
+Sci-Fi: 1
+
+*** Samantha Morton ***
+Action: 1
+Adventure: 1
+Sci-Fi: 1
+
+*** Keegan-Michael Key ***
+Comedy: 2
+Action: 1
+Drama: 1
+
+*** Jordan Peele ***
+Action: 1
+Comedy: 1
+
+*** Tiffany Haddish ***
+Action: 1
+Comedy: 1
+
+*** Method Man ***
+Action: 1
+Comedy: 1
+
+*** Sean Penn ***
+Drama: 3
+Action: 2
+Crime: 2
+Fantasy: 1
+
+*** Jasmine Trinca ***
+Action: 1
+Crime: 1
+Drama: 1
+
+*** Tim Pigott-Smith ***
+Comedy: 1
+Romance: 1
+
+*** Naomi Battrick ***
+Comedy: 1
+Romance: 1
+
+*** Ellie Kendrick ***
+Comedy: 1
+Romance: 1
+Drama: 1
+
+*** James Cosmo ***
+Comedy: 1
+Romance: 1
+
+*** Chris Rock ***
+Comedy: 2
+
+*** David Spade ***
+Comedy: 2
+Action: 1
+Adventure: 1
+
+*** Michiel Huisman ***
+Drama: 3
+Fantasy: 1
+Romance: 1
+Mystery: 1
+Thriller: 1
+Adventure: 1
+Biography: 1
+
+*** Harrison Ford ***
+Drama: 2
+Fantasy: 2
+Action: 2
+Romance: 1
+Sci-Fi: 1
+Adventure: 1
+Biography: 1
+Sport: 1
+
+*** Kathy Baker ***
+Drama: 1
+Fantasy: 1
+Romance: 1
+
+*** Liv Tyler ***
+Action: 1
+Adventure: 1
+Sci-Fi: 1
+Horror: 1
+Mystery: 1
+Thriller: 1
+Comedy: 1
+Drama: 1
+
+*** William Hurt ***
+Action: 1
+Adventure: 1
+Sci-Fi: 1
+Crime: 1
+Drama: 1
+Thriller: 1
+
+*** Jon Favreau ***
+Comedy: 3
+Drama: 2
+Romance: 1
+
+*** Sanjeev Bhaskar ***
+Comedy: 1
+Sci-Fi: 1
+
+*** Rob Riggle ***
+Comedy: 2
+Sci-Fi: 1
+
+*** Alex Pettyfer ***
+Drama: 2
+Comedy: 1
+Action: 1
+Adventure: 1
+Sci-Fi: 1
+Romance: 1
+
+*** Pierre Coffin ***
+Animation: 1
+Action: 1
+Adventure: 1
+
+*** Natasha Henstridge ***
+Horror: 1
+
+*** Lukas Hassel ***
+Horror: 1
+
+*** Lin Shaye ***
+Horror: 2
+Mystery: 1
+Thriller: 1
+
+*** Dominique Swain ***
+Horror: 1
+
+*** Kelly Adams ***
+Action: 1
+Biography: 1
+Crime: 1
+
+*** Luing Andrews ***
+Action: 1
+Biography: 1
+Crime: 1
+
+*** Katy Barker ***
+Action: 1
+Biography: 1
+Crime: 1
+
+*** Jason Segel ***
+Comedy: 3
+Romance: 2
+Animation: 1
+Adventure: 1
+Drama: 1
+
+*** Russell Brand ***
+Animation: 1
+Adventure: 1
+Comedy: 1
+
+*** Julie Andrews ***
+Animation: 1
+Adventure: 1
+Comedy: 1
+
+*** James Marsden ***
+Romance: 2
+Drama: 1
+Animation: 1
+Comedy: 1
+Family: 1
+Mystery: 1
+Thriller: 1
+Action: 1
+Adventure: 1
+Sci-Fi: 1
+
+*** Liana Liberato ***
+Drama: 2
+Romance: 1
+Crime: 1
+Thriller: 1
+
+*** Emayatzy Corinealdi ***
+Drama: 1
+Mystery: 1
+Thriller: 1
+
+*** Tammy Blanchard ***
+Drama: 1
+Mystery: 1
+Thriller: 1
+
+*** Mandy Moore ***
+Animation: 1
+Adventure: 1
+Comedy: 1
+
+*** Zachary Levi ***
+Animation: 1
+Adventure: 1
+Comedy: 1
+
+*** Donna Murphy ***
+Animation: 1
+Adventure: 1
+Comedy: 1
+
+*** Ron Perlman ***
+Adventure: 4
+Animation: 2
+Comedy: 2
+Action: 2
+Fantasy: 2
+Biography: 1
+Drama: 1
+Sport: 1
+
+*** Skyler Gisondo ***
+Adventure: 1
+Comedy: 1
+
+*** Steele Stebbins ***
+Adventure: 1
+Comedy: 1
+
+*** Famke Janssen ***
+Action: 3
+Thriller: 2
+Adventure: 1
+Fantasy: 1
+
+*** Leland Orser ***
+Action: 1
+Thriller: 1
+
+*** Billy Crystal ***
+Animation: 1
+Adventure: 1
+Comedy: 1
+
+*** Steve Buscemi ***
+Animation: 1
+Adventure: 1
+Comedy: 1
+
+*** Isabelle Huppert ***
+Drama: 2
+Crime: 1
+Thriller: 1
+
+*** Laurent Lafitte ***
+Crime: 1
+Drama: 1
+Thriller: 1
+
+*** Anne Consigny ***
+Crime: 1
+Drama: 1
+Thriller: 1
+
+*** Charles Berling ***
+Crime: 1
+Drama: 1
+Thriller: 1
+
+*** Jessica Alba ***
+Action: 2
+Crime: 2
+Adventure: 1
+Thriller: 1
+
+*** Michelle Yeoh ***
+Adventure: 3
+Action: 2
+Crime: 1
+Sci-Fi: 1
+Thriller: 1
+Fantasy: 1
+
+*** Justin Long ***
+Drama: 2
+Thriller: 2
+Comedy: 1
+Horror: 1
+Action: 1
+Adventure: 1
+
+*** Michael Parks ***
+Drama: 2
+Comedy: 1
+Horror: 1
+Action: 1
+Crime: 1
+
+*** Haley Joel Osment ***
+Comedy: 1
+Drama: 1
+Horror: 1
+
+*** Genesis Rodriguez ***
+Comedy: 1
+Drama: 1
+Horror: 1
+
+*** Gretchen Mol ***
+Drama: 1
+
+*** Brenda Blethyn ***
+Drama: 1
+Mystery: 1
+Romance: 1
+
+*** Lucy Walters ***
+Drama: 1
+
+*** Eric Bana ***
+Drama: 5
+Action: 2
+History: 2
+Thriller: 1
+Crime: 1
+Mystery: 1
+Biography: 1
+
+*** Vicky Krieps ***
+Action: 1
+Drama: 1
+Thriller: 1
+
+*** Lauren Birkell ***
+Drama: 1
+
+*** Paul Borghese ***
+Drama: 1
+
+*** Chira Cassel ***
+Drama: 1
+
+*** Anthony Cirillo ***
+Drama: 1
+
+*** Sam Riley ***
+Action: 1
+Horror: 1
+Romance: 1
+
+*** Bella Heathcote ***
+Action: 1
+Horror: 1
+Romance: 1
+
+*** Sullivan Stapleton ***
+Action: 1
+Drama: 1
+Fantasy: 1
+
+*** Hans Matheson ***
+Action: 1
+Drama: 1
+Fantasy: 1
+
+*** Angela Bassett ***
+Action: 2
+Crime: 1
+Drama: 1
+Thriller: 1
+
+*** Julia Ormond ***
+Drama: 1
+Fantasy: 1
+Romance: 1
+
+*** Mickey Rourke ***
+Action: 3
+Crime: 1
+Thriller: 1
+Adventure: 1
+Sci-Fi: 1
+Drama: 1
+Fantasy: 1
+
+*** Joan Allen ***
+Action: 2
+Thriller: 2
+Mystery: 1
+Drama: 1
+Family: 1
+Sci-Fi: 1
+
+*** Julia Stiles ***
+Action: 1
+Mystery: 1
+Thriller: 1
+
+*** Srdjan 'Zika' Todorovic ***
+Horror: 1
+Mystery: 1
+Thriller: 1
+
+*** Sergej Trifunovic ***
+Horror: 1
+Mystery: 1
+Thriller: 1
+
+*** Jelena Gavrilovic ***
+Horror: 1
+Mystery: 1
+Thriller: 1
+
+*** Slobodan Bestic ***
+Horror: 1
+Mystery: 1
+Thriller: 1
+
+*** Frank Grillo ***
+Action: 1
+Horror: 1
+Sci-Fi: 1
+
+*** Elizabeth Mitchell ***
+Action: 1
+Horror: 1
+Sci-Fi: 1
+
+*** Mykelti Williamson ***
+Action: 1
+Horror: 1
+Sci-Fi: 1
+
+*** Joseph Julian Soria ***
+Action: 1
+Horror: 1
+Sci-Fi: 1
+
+*** Madhavan ***
+Comedy: 1
+Drama: 1
+
+*** Mona Singh ***
+Comedy: 1
+Drama: 1
+
+*** Sharman Joshi ***
+Comedy: 1
+Drama: 1
+
+*** Mireille Enos ***
+Action: 1
+Adventure: 1
+Horror: 1
+Drama: 1
+Fantasy: 1
+Music: 1
+
+*** Daniella Kertesz ***
+Action: 1
+Adventure: 1
+Horror: 1
+
+*** Marilyn Manson ***
+Action: 1
+Crime: 1
+Drama: 1
+
+*** Mark Boone Junior ***
+Action: 1
+Crime: 1
+Drama: 1
+
+*** Sam Quartin ***
+Action: 1
+Crime: 1
+Drama: 1
+
+*** Niko Nicotera ***
+Action: 1
+Crime: 1
+Drama: 1
+
+*** Eddie Marsan ***
+Comedy: 1
+Crime: 1
+Drama: 1
+
+*** Scott Eastwood ***
+Drama: 1
+Romance: 1
+
+*** Ewan McGregor ***
+Drama: 2
+Thriller: 2
+Crime: 1
+Mystery: 1
+
+*** Oaklee Pendergast ***
+Drama: 1
+Thriller: 1
+
+*** Alex Karpovsky ***
+Comedy: 1
+
+*** Wyatt Russell ***
+Comedy: 1
+
+*** Meredith Hagner ***
+Comedy: 1
+
+*** Melanie Lynskey ***
+Comedy: 1
+
+*** Teri Hatcher ***
+Animation: 1
+Family: 1
+Fantasy: 1
+
+*** John Hodgman ***
+Animation: 1
+Family: 1
+Fantasy: 1
+
+*** Jennifer Saunders ***
+Animation: 1
+Family: 1
+Fantasy: 1
+
+*** John Doman ***
+Drama: 1
+Romance: 1
+
+*** Faith Wladyka ***
+Drama: 1
+Romance: 1
+
+*** Logan Paul ***
+Thriller: 1
+
+*** Peyton List ***
+Thriller: 1
+
+*** Calum Worthy ***
+Thriller: 1
+
+*** Radha Mitchell ***
+Adventure: 1
+Horror: 1
+Mystery: 1
+
+*** Laurie Holden ***
+Horror: 2
+Adventure: 1
+Mystery: 1
+
+*** Deborah Kara Unger ***
+Adventure: 1
+Horror: 1
+Mystery: 1
+
+*** Olivia Thirlby ***
+Action: 1
+Sci-Fi: 1
+Biography: 1
+Drama: 1
+History: 1
+
+*** Rachel Wood ***
+Action: 1
+Sci-Fi: 1
+
+*** Sam Neill ***
+Drama: 2
+Adventure: 1
+Comedy: 1
+
+*** Julian Dennison ***
+Adventure: 1
+Comedy: 1
+Drama: 1
+
+*** Rima Te Wiata ***
+Adventure: 1
+Comedy: 1
+Drama: 1
+
+*** Ryan Potter ***
+Animation: 1
+Action: 1
+Adventure: 1
+
+*** Scott Adsit ***
+Animation: 1
+Action: 1
+Adventure: 1
+
+*** Jamie Chung ***
+Animation: 1
+Action: 1
+Adventure: 1
+
+*** Gabriella Wilde ***
+Drama: 2
+Horror: 1
+Romance: 1
+
+*** Portia Doubleday ***
+Drama: 1
+Horror: 1
+
+*** Chris Cooper ***
+Comedy: 1
+Drama: 1
+
+*** Judah Lewis ***
+Comedy: 1
+Drama: 1
+
+*** Dennis Quaid ***
+Action: 3
+Horror: 2
+Comedy: 2
+Drama: 2
+Mystery: 1
+Romance: 1
+Adventure: 1
+Sci-Fi: 1
+Music: 1
+Fantasy: 1
+
+*** Cam Gigandet ***
+Action: 2
+Horror: 1
+Mystery: 1
+Drama: 1
+Sport: 1
+
+*** Antje Traue ***
+Action: 1
+Horror: 1
+Mystery: 1
+
+*** Timothy Olyphant ***
+Action: 2
+Adventure: 2
+Sci-Fi: 1
+Thriller: 1
+
+*** Dianna Agron ***
+Action: 1
+Adventure: 1
+Sci-Fi: 1
+Comedy: 1
+Crime: 1
+Thriller: 1
+
+*** Mads Mikkelsen ***
+Drama: 1
+
+*** Thomas Bo Larsen ***
+Drama: 1
+
+*** Annika Wedderkopp ***
+Drama: 1
+
+*** Lasse Fogelstrom ***
+Drama: 1
+
+*** Craig T. Nelson ***
+Comedy: 1
+Drama: 1
+Romance: 1
+
+*** T.I. ***
+Comedy: 1
+Crime: 1
+
+*** Christopher Fitzgerald ***
+Drama: 1
+Romance: 1
+
+*** Jonathan Roumie ***
+Drama: 1
+Romance: 1
+
+*** Rebecca Hall ***
+Drama: 5
+Mystery: 3
+Crime: 2
+Thriller: 2
+Romance: 2
+Biography: 1
+
+*** Lauren Cohan ***
+Horror: 1
+Mystery: 1
+Thriller: 1
+
+*** Rupert Evans ***
+Horror: 1
+Mystery: 1
+Thriller: 1
+
+*** James Russell ***
+Horror: 1
+Mystery: 1
+Thriller: 1
+
+*** Jim Norton ***
+Horror: 1
+Mystery: 1
+Thriller: 1
+
+*** Timothy Spall ***
+Drama: 2
+Biography: 1
+Horror: 1
+Musical: 1
+
+*** Sarah Snook ***
+Drama: 1
+Mystery: 1
+Sci-Fi: 1
+
+*** Noah Taylor ***
+Drama: 1
+Mystery: 1
+Sci-Fi: 1
+
+*** Madeleine West ***
+Drama: 1
+Mystery: 1
+Sci-Fi: 1
+
+*** Odeya Rush ***
+Adventure: 1
+Comedy: 1
+Family: 1
+
+*** Ryan Lee ***
+Adventure: 1
+Comedy: 1
+Family: 1
+
+*** Daniel Olbrychski ***
+Action: 1
+Crime: 1
+Mystery: 1
+
+*** Sarah Gadon ***
+Mystery: 2
+Thriller: 2
+Drama: 2
+Action: 1
+Fantasy: 1
+Romance: 1
+
+*** Isabella Rossellini ***
+Mystery: 1
+Thriller: 1
+
+*** David James ***
+Action: 1
+Sci-Fi: 1
+Thriller: 1
+
+*** Jason Cope ***
+Action: 1
+Sci-Fi: 1
+Thriller: 1
+
+*** Nathalie Boltt ***
+Action: 1
+Sci-Fi: 1
+Thriller: 1
+
+*** Derek Jeter ***
+Action: 1
+Comedy: 1
+Crime: 1
+
+*** Jason Schwartzman ***
+Biography: 1
+Drama: 1
+History: 1
+Animation: 1
+Adventure: 1
+Comedy: 1
+
+*** Rip Torn ***
+Biography: 1
+Drama: 1
+History: 1
+
+*** John Cusack ***
+Action: 1
+Adventure: 1
+Sci-Fi: 1
+Fantasy: 1
+Horror: 1
+Biography: 1
+Drama: 1
+
+*** Amanda Peet ***
+Action: 1
+Adventure: 1
+Sci-Fi: 1
+
+*** Alan Arkin ***
+Biography: 1
+Drama: 1
+History: 1
+
+*** Tom Costello ***
+Biography: 1
+Comedy: 1
+Drama: 1
+
+*** Jo Hartley ***
+Biography: 1
+Comedy: 1
+Drama: 1
+
+*** Ulrich Muhe ***
+Drama: 1
+Thriller: 1
+
+*** Martina Gedeck ***
+Drama: 1
+Thriller: 1
+
+*** Sebastian Koch ***
+Drama: 1
+Thriller: 1
+
+*** Ulrich Tukur ***
+Drama: 1
+Thriller: 1
+
+*** Dominic Monaghan ***
+Horror: 1
+Thriller: 1
+
+*** Ksenia Solo ***
+Horror: 1
+Thriller: 1
+
+*** Jennette McCurdy ***
+Horror: 1
+Thriller: 1
+
+*** Da'Vone McDonald ***
+Horror: 1
+Thriller: 1
+
+*** Nancy Kwan ***
+Drama: 1
+
+*** Annabelle Attanasio ***
+Drama: 1
+
+*** Alfred Molina ***
+Drama: 2
+Biography: 1
+Comedy: 1
+Action: 1
+Adventure: 1
+Fantasy: 1
+
+*** Jack Madigan ***
+Drama: 1
+War: 1
+
+*** Frank Madigan ***
+Drama: 1
+War: 1
+
+*** Taylor Swift ***
+Drama: 1
+Romance: 1
+Sci-Fi: 1
+
+*** Anthony Mackie ***
+Drama: 5
+Crime: 3
+Action: 2
+Comedy: 1
+History: 1
+Thriller: 1
+Family: 1
+Biography: 1
+
+*** Aaron Paul ***
+Drama: 3
+Action: 2
+Crime: 2
+Thriller: 2
+War: 1
+Mystery: 1
+
+*** Giuseppe Battiston ***
+Comedy: 1
+Drama: 1
+
+*** Anna Foglietta ***
+Comedy: 1
+Drama: 1
+
+*** Marco Giallini ***
+Comedy: 1
+Drama: 1
+
+*** Edoardo Leo ***
+Comedy: 1
+Drama: 1
+
+*** Danny McBride ***
+Action: 2
+Adventure: 2
+Comedy: 2
+Animation: 1
+Crime: 1
+Fantasy: 1
+
+*** Jared Gilman ***
+Adventure: 1
+Comedy: 1
+Drama: 1
+
+*** Kara Hayward ***
+Adventure: 1
+Comedy: 1
+Drama: 1
+
+*** John Travolta ***
+Comedy: 1
+Drama: 1
+Family: 1
+
+*** Queen Latifah ***
+Comedy: 1
+Drama: 1
+Family: 1
+
+*** Nikki Blonsky ***
+Comedy: 1
+Drama: 1
+Family: 1
+
+*** Michelle Pfeiffer ***
+Comedy: 3
+Drama: 1
+Family: 1
+Fantasy: 1
+Horror: 1
+Crime: 1
+Thriller: 1
+
+*** Julianne Hough ***
+Drama: 3
+Comedy: 2
+Romance: 1
+Thriller: 1
+Music: 1
+Musical: 1
+
+*** David Lyons ***
+Drama: 1
+Romance: 1
+Thriller: 1
+
+*** Brad Garrett ***
+Animation: 1
+Comedy: 1
+Family: 1
+
+*** Lou Romano ***
+Animation: 1
+Comedy: 1
+Family: 1
+
+*** Patton Oswalt ***
+Animation: 1
+Comedy: 1
+Family: 1
+
+*** Ian Holm ***
+Animation: 1
+Comedy: 1
+Family: 1
+
+*** Kelly McGillis ***
+Drama: 1
+Horror: 1
+Sci-Fi: 1
+
+*** Gregory Jones ***
+Drama: 1
+Horror: 1
+Sci-Fi: 1
+
+*** Jessica Lucas ***
+Horror: 2
+Action: 1
+Sci-Fi: 1
+Fantasy: 1
+
+*** Lizzy Caplan ***
+Action: 1
+Horror: 1
+Sci-Fi: 1
+Comedy: 1
+
+*** Ray Winstone ***
+Action: 2
+Crime: 1
+Sport: 1
+Drama: 1
+Thriller: 1
+Animation: 1
+Adventure: 1
+
+*** Jeremy McWilliams ***
+Drama: 1
+Horror: 1
+Sci-Fi: 1
+
+*** Lynsey Taylor Mackay ***
+Drama: 1
+Horror: 1
+Sci-Fi: 1
+
+*** Dougie McConnell ***
+Drama: 1
+Horror: 1
+Sci-Fi: 1
+
+*** Charlie Tahan ***
+Drama: 1
+Horror: 1
+Sci-Fi: 1
+
+*** Salli Richardson-Whitfield ***
+Drama: 1
+Horror: 1
+Sci-Fi: 1
+
+*** AJ Michalka ***
+Mystery: 1
+Sci-Fi: 1
+Thriller: 1
+
+*** Joel Courtney ***
+Mystery: 1
+Sci-Fi: 1
+Thriller: 1
+
+*** Leslie Bibb ***
+Crime: 1
+Drama: 1
+Thriller: 1
+Horror: 1
+Mystery: 1
+
+*** Colm Meaney ***
+Crime: 1
+Drama: 1
+Thriller: 1
+
+*** Edward Asner ***
+Animation: 1
+Adventure: 1
+Comedy: 1
+
+*** Jordan Nagai ***
+Animation: 1
+Adventure: 1
+Comedy: 1
+
+*** John Ratzenberger ***
+Animation: 1
+Adventure: 1
+Comedy: 1
+
+*** Giancarlo Esposito ***
+Action: 1
+Sci-Fi: 1
+Thriller: 1
+
+*** Sarah Paulson ***
+Drama: 1
+Romance: 1
+
+*** Toni Collette ***
+Drama: 2
+Crime: 1
+Thriller: 1
+Comedy: 1
+
+*** Tracy Letts ***
+Drama: 2
+Crime: 1
+Thriller: 1
+Biography: 1
+
+*** Sam Trammell ***
+Crime: 1
+Drama: 1
+Thriller: 1
+
+*** Harvey Keitel ***
+Comedy: 1
+Drama: 1
+Music: 1
+
+*** Jane Fonda ***
+Drama: 2
+Comedy: 1
+Music: 1
+Biography: 1
+
+*** Sarah Polley ***
+Drama: 1
+Fantasy: 1
+Romance: 1
+
+*** Linh Dan Pham ***
+Drama: 1
+Fantasy: 1
+Romance: 1
+
+*** Billie Piper ***
+Crime: 1
+Drama: 1
+Thriller: 1
+
+*** James Floyd ***
+Crime: 1
+Drama: 1
+Thriller: 1
+
+*** Cush Jumbo ***
+Crime: 1
+Drama: 1
+Thriller: 1
+
+*** Geoffrey Arend ***
+Comedy: 1
+Drama: 1
+Romance: 1
+
+*** Stephen Merchant ***
+Comedy: 1
+Romance: 1
+
+*** Orto Ignatiussen ***
+Drama: 1
+Sci-Fi: 1
+Thriller: 1
+
+*** David Thewlis ***
+Drama: 2
+War: 1
+Crime: 1
+Mystery: 1
+
+*** Rupert Friend ***
+Drama: 1
+War: 1
+
+*** Zac Mattoon O'Brien ***
+Drama: 1
+War: 1
+
+*** Rhona Mitra ***
+Action: 2
+Crime: 1
+Drama: 1
+Adventure: 1
+Fantasy: 1
+
+*** Danny Glover ***
+Action: 1
+Crime: 1
+Drama: 1
+
+*** Ashlyn Sanchez ***
+Sci-Fi: 1
+Thriller: 1
+
+*** Matthew Fox ***
+Adventure: 1
+Drama: 1
+Horror: 1
+
+*** Joe Manganiello ***
+Comedy: 1
+Drama: 1
+Music: 1
+
+*** Adam Rodriguez ***
+Comedy: 1
+Drama: 1
+Music: 1
+
+*** Amanda Bynes ***
+Comedy: 2
+Romance: 2
+Drama: 1
+Sport: 1
+
+*** Penn Badgley ***
+Comedy: 1
+Drama: 1
+Romance: 1
+
+*** Dan Byrd ***
+Comedy: 1
+Drama: 1
+Romance: 1
+Horror: 1
+
+*** Ken Stott ***
+Adventure: 1
+Fantasy: 1
+
+*** Anika Noni Rose ***
+Drama: 1
+Romance: 1
+Animation: 1
+Adventure: 1
+Comedy: 1
+
+*** Joseph Mawle ***
+Drama: 1
+Romance: 1
+
+*** Brian Caspe ***
+Biography: 1
+History: 1
+Thriller: 1
+
+*** Karel Hermanek Jr. ***
+Biography: 1
+History: 1
+Thriller: 1
+
+*** Cameron Diaz ***
+Comedy: 4
+Drama: 3
+Romance: 3
+Crime: 1
+Thriller: 1
+Family: 1
+
+*** Anton Adasinsky ***
+Action: 1
+Drama: 1
+History: 1
+
+*** Aleksandr Armer ***
+Action: 1
+Drama: 1
+History: 1
+
+*** Vilen Babichev ***
+Action: 1
+Drama: 1
+History: 1
+
+*** Rostislav Bershauer ***
+Action: 1
+Drama: 1
+History: 1
+
+*** Tina Fey ***
+Comedy: 3
+Biography: 1
+Drama: 1
+Animation: 1
+Action: 1
+
+*** Billy Magnussen ***
+Action: 1
+Biography: 1
+Drama: 1
+
+*** Terry Chen ***
+Action: 1
+Biography: 1
+Drama: 1
+
+*** Teresa Navarro ***
+Action: 1
+Biography: 1
+Drama: 1
+
+*** Vanessa Ross ***
+Action: 1
+Biography: 1
+Drama: 1
+
+*** Jodie Foster ***
+Drama: 2
+Action: 1
+Sci-Fi: 1
+Crime: 1
+Mystery: 1
+
+*** Ariel Levy ***
+Adventure: 1
+Horror: 1
+
+*** Kirby Bliss Blanton ***
+Adventure: 1
+Horror: 1
+
+*** Scott Glenn ***
+Action: 1
+Adventure: 1
+Mystery: 1
+Biography: 1
+Crime: 1
+Drama: 1
+
+*** Albert Finney ***
+Comedy: 1
+Drama: 1
+Romance: 1
+
+*** Alycia Debnam-Carey ***
+Horror: 1
+Thriller: 1
+
+*** William Moseley ***
+Horror: 1
+Thriller: 1
+
+*** Brit Morgan ***
+Horror: 1
+Thriller: 1
+
+*** Jim Caviezel ***
+Action: 1
+Sci-Fi: 1
+Thriller: 1
+
+*** Val Kilmer ***
+Action: 1
+Sci-Fi: 1
+Thriller: 1
+
+*** Min-sik Choi ***
+Action: 1
+Sci-Fi: 1
+Thriller: 1
+
+*** Amr Waked ***
+Action: 1
+Sci-Fi: 1
+Thriller: 1
+
+*** Cynthia Nixon ***
+Drama: 3
+Comedy: 2
+Romance: 2
+Biography: 1
+
+*** Duncan Duff ***
+Biography: 1
+Drama: 1
+
+*** Keith Carradine ***
+Biography: 1
+Drama: 1
+
+*** Scott Mescudi ***
+Action: 1
+Crime: 1
+Drama: 1
+
+*** Werner Herzog ***
+Action: 1
+Crime: 1
+Mystery: 1
+
+*** Kati Outinen ***
+Crime: 1
+Drama: 1
+Thriller: 1
+
+*** Jennifer Connelly ***
+Drama: 4
+Adventure: 2
+Crime: 1
+Comedy: 1
+Romance: 1
+Thriller: 1
+Action: 1
+
+*** Peter Riegert ***
+Crime: 1
+Drama: 1
+
+*** Olivia Williams ***
+Mystery: 1
+Thriller: 1
+
+*** Anna Friel ***
+Mystery: 1
+Sci-Fi: 1
+Thriller: 1
+
+*** Bruce Greenwood ***
+Action: 1
+Mystery: 1
+Sci-Fi: 1
+Drama: 1
+Romance: 1
+
+*** Max Martini ***
+Action: 1
+Mystery: 1
+Sci-Fi: 1
+
+*** Hilary Swank ***
+Drama: 2
+Romance: 1
+Biography: 1
+Crime: 1
+
+*** Harry Connick Jr. ***
+Drama: 1
+Romance: 1
+
+*** Lisa Kudrow ***
+Drama: 1
+Romance: 1
+Comedy: 1
+
+*** Richard Dreyfuss ***
+Thriller: 2
+Drama: 1
+Comedy: 1
+Horror: 1
+
+*** Gillian Jacobs ***
+Comedy: 1
+Drama: 1
+
+*** Mike Birbiglia ***
+Comedy: 2
+Drama: 1
+Romance: 1
+
+*** Chris Gethard ***
+Comedy: 1
+Drama: 1
+
+*** Elisabeth Moss ***
+Biography: 1
+Drama: 1
+Sport: 1
+
+*** Dave Johns ***
+Drama: 1
+
+*** Hayley Squires ***
+Drama: 1
+
+*** Sharon Percy ***
+Drama: 1
+
+*** Briana Shann ***
+Drama: 1
+
+*** Joey Lauren Adams ***
+Comedy: 1
+Drama: 1
+Romance: 1
+
+*** Ruth Negga ***
+Biography: 1
+Drama: 1
+Romance: 1
+
+*** Will Dalton ***
+Biography: 1
+Drama: 1
+Romance: 1
+
+*** Dean Mumford ***
+Biography: 1
+Drama: 1
+Romance: 1
+
+*** Martin McCann ***
+Drama: 1
+Sci-Fi: 1
+Thriller: 1
+
+*** Andrew Simpson ***
+Drama: 1
+Sci-Fi: 1
+Thriller: 1
+
+*** Richenda Carey ***
+Drama: 1
+Romance: 1
+Thriller: 1
+
+*** Jennifer Lopez ***
+Mystery: 1
+Thriller: 1
+Animation: 1
+Adventure: 1
+Comedy: 1
+
+*** Kristin Chenoweth ***
+Mystery: 1
+Thriller: 1
+
+*** John Corbett ***
+Mystery: 1
+Thriller: 1
+Comedy: 1
+Family: 1
+Romance: 1
+
+*** Allison Tolman ***
+Mystery: 1
+Thriller: 1
+
+*** Luke Evans ***
+Drama: 2
+Action: 1
+Fantasy: 1
+
+*** Dax Shepard ***
+Adventure: 1
+Comedy: 1
+Sci-Fi: 1
+
+*** Dolph Lundgren ***
+Action: 1
+Adventure: 1
+Thriller: 1
+
+*** Shiloh Fernandez ***
+Fantasy: 1
+Horror: 1
+
+*** Lou Taylor Pucci ***
+Fantasy: 1
+Horror: 1
+
+*** Juliet Rylance ***
+Horror: 1
+Mystery: 1
+
+*** James Ransone ***
+Horror: 1
+Mystery: 1
+Action: 1
+Comedy: 1
+Romance: 1
+
+*** Fred Dalton Thompson ***
+Horror: 1
+Mystery: 1
+
+*** Jack McBrayer ***
+Animation: 1
+Adventure: 1
+Comedy: 1
+
+*** Jane Lynch ***
+Animation: 1
+Adventure: 1
+Comedy: 1
+
+*** Sarah Silverman ***
+Comedy: 2
+Animation: 1
+Adventure: 1
+Music: 1
+
+*** Levi Miller ***
+Adventure: 1
+Family: 1
+Fantasy: 1
+
+*** Rosie Huntington-Whiteley ***
+Action: 1
+Adventure: 1
+Sci-Fi: 1
+
+*** Sarita Choudhury ***
+Comedy: 1
+Drama: 1
+
+*** Alexander Black ***
+Comedy: 1
+Drama: 1
+
+*** Jack O'Connell ***
+Drama: 2
+Crime: 1
+Thriller: 1
+Biography: 1
+Sport: 1
+
+*** Kate Upton ***
+Comedy: 1
+Romance: 1
+
+*** Susan Sarandon ***
+Animation: 1
+Comedy: 1
+Family: 1
+Drama: 1
+Fantasy: 1
+Thriller: 1
+
+*** Patrick Dempsey ***
+Animation: 1
+Comedy: 1
+Family: 1
+Biography: 1
+Crime: 1
+Drama: 1
+
+*** Anders Holm ***
+Comedy: 1
+Drama: 1
+
+*** Greg Kinnear ***
+Comedy: 1
+Drama: 1
+
+*** Katey Sagal ***
+Biography: 1
+Drama: 1
+Sport: 1
+
+*** Jason Flemyng ***
+Action: 1
+Adventure: 1
+Fantasy: 1
+
+*** Bruce Boxleitner ***
+Action: 1
+Adventure: 1
+Sci-Fi: 1
+
+*** Philip Seymour Hoffman ***
+Action: 2
+Adventure: 2
+Drama: 2
+Mystery: 1
+Biography: 1
+Sport: 1
+Thriller: 1
+
+*** Frank Langella ***
+Crime: 1
+Drama: 1
+Mystery: 1
+
+*** Lily Rabe ***
+Crime: 1
+Drama: 1
+Mystery: 1
+
+*** Dave Bautista ***
+Action: 2
+Adventure: 1
+Fantasy: 1
+
+*** Alain Moussi ***
+Action: 1
+
+*** Gina Carano ***
+Action: 1
+
+*** Jean-Claude Van Damme ***
+Action: 2
+Adventure: 1
+Thriller: 1
+
+*** Noah Ringer ***
+Action: 1
+Adventure: 1
+Family: 1
+
+*** Jackson Rathbone ***
+Action: 1
+Adventure: 1
+Family: 1
+
+*** Rob Corddry ***
+Comedy: 1
+Romance: 1
+
+*** Ellie Kemper ***
+Comedy: 1
+Romance: 1
+
+*** Matthew Morrison ***
+Comedy: 1
+Drama: 1
+Romance: 1
+
+*** J. Todd Smith ***
+Comedy: 1
+Drama: 1
+Romance: 1
+
+*** Robin Wright ***
+Drama: 2
+Biography: 1
+Sport: 1
+Romance: 1
+Animation: 1
+Action: 1
+Adventure: 1
+
+*** Sam Elliott ***
+Action: 1
+Fantasy: 1
+Thriller: 1
+
+*** Matt Long ***
+Action: 1
+Fantasy: 1
+Thriller: 1
+
+*** Miyavi ***
+Biography: 1
+Drama: 1
+Sport: 1
+
+*** Stephen Dorff ***
+Action: 1
+Drama: 1
+Fantasy: 1
+
+*** Kelly Macdonald ***
+Animation: 1
+Adventure: 1
+Comedy: 1
+
+*** Billy Connolly ***
+Animation: 1
+Adventure: 1
+Comedy: 1
+
+*** Emma Thompson ***
+Comedy: 2
+Drama: 2
+Animation: 1
+Adventure: 1
+Fantasy: 1
+Romance: 1
+Biography: 1
+
+*** Julie Walters ***
+Animation: 1
+Adventure: 1
+Comedy: 1
+
+*** Ewa Froling ***
+Drama: 1
+Mystery: 1
+Thriller: 1
+
+*** Lena Endre ***
+Drama: 1
+Mystery: 1
+Thriller: 1
+
+*** Xavier Samuel ***
+Drama: 4
+Romance: 2
+Comedy: 2
+Adventure: 1
+Fantasy: 1
+
+*** James Frecheville ***
+Drama: 2
+Romance: 2
+Comedy: 1
+
+*** James Gandolfini ***
+Crime: 1
+Drama: 1
+Mystery: 1
+
+*** Matthias Schoenaerts ***
+Drama: 2
+Crime: 1
+Mystery: 1
+Thriller: 1
+
+*** Laura Ramsey ***
+Comedy: 1
+Romance: 1
+Sport: 1
+
+*** Vinnie Jones ***
+Comedy: 1
+Romance: 1
+Sport: 1
+Horror: 1
+Mystery: 1
+
+*** Cara Buono ***
+Drama: 1
+Horror: 1
+Mystery: 1
+
+*** Sean Faris ***
+Action: 1
+Drama: 1
+Sport: 1
+
+*** Djimon Hounsou ***
+Drama: 2
+Action: 1
+Sport: 1
+Adventure: 1
+Thriller: 1
+
+*** Sacha Baron Cohen ***
+Comedy: 3
+Action: 2
+Adventure: 1
+Sport: 1
+
+*** Freddie Crowder ***
+Action: 1
+Adventure: 1
+Comedy: 1
+
+*** Sam Rockwell ***
+Comedy: 2
+Drama: 1
+Mystery: 1
+Sci-Fi: 1
+Action: 1
+Romance: 1
+Crime: 1
+
+*** Kevin Spacey ***
+Drama: 2
+Sci-Fi: 2
+Mystery: 1
+Crime: 1
+Thriller: 1
+Action: 1
+Adventure: 1
+Comedy: 1
+Family: 1
+Fantasy: 1
+
+*** Dominique McElligott ***
+Drama: 1
+Mystery: 1
+Sci-Fi: 1
+
+*** Rosie Shaw ***
+Drama: 1
+Mystery: 1
+Sci-Fi: 1
+
+*** Giovanni Ribisi ***
+Action: 1
+Crime: 1
+Drama: 1
+
+*** Mel Gibson ***
+Action: 1
+Crime: 1
+Drama: 1
+
+*** Erin Moriarty ***
+Action: 1
+Crime: 1
+Drama: 1
+Horror: 1
+Thriller: 1
+
+*** Morgan Lily ***
+Comedy: 1
+Drama: 1
+Romance: 1
+
+*** Trenton Rogers ***
+Comedy: 1
+Drama: 1
+Romance: 1
+
+*** Dustin Hoffman ***
+Animation: 2
+Action: 2
+Adventure: 2
+Drama: 2
+Comedy: 1
+Crime: 1
+Fantasy: 1
+
+*** Matt Vael ***
+Crime: 1
+Drama: 1
+
+*** Simon Cotton ***
+Crime: 1
+Drama: 1
+
+*** Kevin Leslie ***
+Crime: 1
+Drama: 1
+
+*** Olivia Moyles ***
+Crime: 1
+Drama: 1
+
+*** Fionn O'Shea ***
+Drama: 1
+
+*** Nicholas Galitzine ***
+Drama: 1
+
+*** Moe Dunford ***
+Drama: 1
+
+*** John Hawkes ***
+Drama: 1
+
+*** Garret Dillahunt ***
+Drama: 1
+
+*** Isaiah Stone ***
+Drama: 1
+
+*** Steve Wiebe ***
+Comedy: 1
+Crime: 1
+
+*** Anne Dorval ***
+Drama: 1
+
+*** Antoine-Olivier Pilon ***
+Drama: 1
+
+*** Suzanne Clement ***
+Drama: 1
+
+*** Patrick Huard ***
+Drama: 1
+
+*** Selma Blair ***
+Action: 1
+Adventure: 1
+Fantasy: 1
+
+*** Doug Jones ***
+Action: 1
+Adventure: 1
+Fantasy: 1
+
+*** John Alexander ***
+Action: 1
+Adventure: 1
+Fantasy: 1
+
+*** Alice Englert ***
+Drama: 1
+Fantasy: 1
+Romance: 1
+
+*** Sandra Huller ***
+Comedy: 1
+Drama: 1
+
+*** Peter Simonischek ***
+Comedy: 1
+Drama: 1
+
+*** Michael Wittenborn ***
+Comedy: 1
+Drama: 1
+
+*** Thomas Loibl ***
+Comedy: 1
+Drama: 1
+
+*** Sam Shepard ***
+Biography: 1
+Crime: 1
+Drama: 1
+
+*** Mary-Louise Parker ***
+Crime: 2
+Biography: 1
+Drama: 1
+Action: 1
+Comedy: 1
+
+*** Tony Danza ***
+Comedy: 1
+Drama: 1
+Romance: 1
+
+*** Kelly Reilly ***
+Action: 1
+Crime: 1
+Drama: 1
+
+*** Paul Sidhu ***
+Sci-Fi: 1
+
+*** Branden Coles ***
+Sci-Fi: 1
+
+*** Arielle Holmes ***
+Sci-Fi: 1
+
+*** Kelcey Watson ***
+Sci-Fi: 1
+
+*** Jon Daly ***
+Adventure: 1
+Comedy: 1
+Drama: 1
+
+*** Shameik Moore ***
+Comedy: 1
+Crime: 1
+Drama: 1
+
+*** Kiersey Clemons ***
+Comedy: 1
+Crime: 1
+Drama: 1
+
+*** Kimberly Elise ***
+Comedy: 1
+Crime: 1
+Drama: 1
+
+*** Michael Ealy ***
+Action: 1
+Fantasy: 1
+Horror: 1
+Drama: 1
+Romance: 1
+
+*** India Eisley ***
+Action: 1
+Fantasy: 1
+Horror: 1
+
+*** Stephen Rea ***
+Action: 1
+Fantasy: 1
+Horror: 1
+
+*** Storm Acheche Sahlstrom ***
+Drama: 1
+Horror: 1
+
+*** Jared Padalecki ***
+Horror: 1
+
+*** Amanda Righetti ***
+Horror: 1
+
+*** Derek Mears ***
+Horror: 1
+
+*** Danielle Panabaker ***
+Horror: 1
+
+*** Bokeem Woodbine ***
+Action: 1
+Adventure: 1
+Mystery: 1
+
+*** Lyndsy Fonseca ***
+Comedy: 1
+Drama: 1
+Romance: 1
+
+*** Michael Doneger ***
+Comedy: 1
+Drama: 1
+Romance: 1
+
+*** Tommy Dewey ***
+Comedy: 1
+Drama: 1
+Romance: 1
+
+*** Bruce Campbell ***
+Comedy: 1
+Drama: 1
+Romance: 1
+
+*** Robin Williams ***
+Comedy: 2
+Family: 2
+Adventure: 1
+Animation: 1
+
+*** Dick Van Dyke ***
+Adventure: 1
+Comedy: 1
+Family: 1
+
+*** Oliver Platt ***
+Drama: 3
+Comedy: 1
+Romance: 1
+Horror: 1
+Thriller: 1
+
+*** Randall Park ***
+Comedy: 1
+
+*** Kang-ho Song ***
+Drama: 2
+Comedy: 1
+Horror: 1
+Action: 1
+Thriller: 1
+
+*** Hee-Bong Byun ***
+Comedy: 1
+Drama: 1
+Horror: 1
+
+*** Hae-il Park ***
+Comedy: 1
+Drama: 1
+Horror: 1
+
+*** Doona Bae ***
+Comedy: 1
+Drama: 1
+Horror: 1
+
+*** Amber Perkins ***
+Drama: 1
+Horror: 1
+Thriller: 1
+
+*** Rachel Quinn ***
+Drama: 1
+Horror: 1
+Thriller: 1
+
+*** Dean Waite ***
+Drama: 1
+Horror: 1
+Thriller: 1
+
+*** Jael Elizabeth Steinmeyer ***
+Drama: 1
+Horror: 1
+Thriller: 1
+
+*** Ben Burtt ***
+Animation: 1
+Adventure: 1
+Family: 1
+
+*** Elissa Knight ***
+Animation: 1
+Adventure: 1
+Family: 1
+
+*** Jeff Garlin ***
+Animation: 1
+Adventure: 1
+Family: 1
+
+*** Fred Willard ***
+Animation: 1
+Adventure: 1
+Family: 1
+
+*** Katherine Heigl ***
+Comedy: 3
+Romance: 3
+Drama: 1
+
+*** Heather Sossaman ***
+Drama: 1
+Horror: 1
+Mystery: 1
+
+*** Matthew Bohrer ***
+Drama: 1
+Horror: 1
+Mystery: 1
+
+*** Courtney Halverson ***
+Drama: 1
+Horror: 1
+Mystery: 1
+
+*** Shelley Hennig ***
+Drama: 1
+Horror: 1
+Mystery: 1
+
+*** Jason Biggs ***
+Comedy: 2
+
+*** Alyson Hannigan ***
+Comedy: 1
+
+*** Seann William Scott ***
+Comedy: 1
+
+*** Chris Klein ***
+Comedy: 1
+
+*** Jaden Smith ***
+Drama: 2
+Action: 2
+Biography: 1
+Family: 1
+Adventure: 1
+Sci-Fi: 1
+
+*** Brian Howe ***
+Biography: 1
+Drama: 1
+
+*** Dario Grandinetti ***
+Comedy: 1
+Drama: 1
+Thriller: 1
+
+*** Maria Marull ***
+Comedy: 1
+Drama: 1
+Thriller: 1
+
+*** MOnica Villa ***
+Comedy: 1
+Drama: 1
+Thriller: 1
+
+*** Rita Cortese ***
+Comedy: 1
+Drama: 1
+Thriller: 1
+
+*** Jorge Garcia ***
+Comedy: 1
+Western: 1
+
+*** Pierre Niney ***
+Drama: 1
+History: 1
+War: 1
+Adventure: 1
+Biography: 1
+
+*** Paula Beer ***
+Drama: 1
+History: 1
+War: 1
+
+*** Ernst Stotzner ***
+Drama: 1
+History: 1
+War: 1
+
+*** Marie Gruber ***
+Drama: 1
+History: 1
+War: 1
+
+*** Sofia Black-D'Elia ***
+Drama: 1
+Horror: 1
+Sci-Fi: 1
+
+*** Analeigh Tipton ***
+Horror: 2
+Drama: 1
+Sci-Fi: 1
+Comedy: 1
+Romance: 1
+
+*** Travis Tope ***
+Drama: 1
+Horror: 1
+Sci-Fi: 1
+
+*** Michael Kelly ***
+Drama: 1
+Horror: 1
+Sci-Fi: 1
+
+*** Clint Eastwood ***
+Drama: 1
+
+*** Bee Vang ***
+Drama: 1
+
+*** Christopher Carley ***
+Drama: 1
+
+*** Ahney Her ***
+Drama: 1
+
+*** Riccardo Scamarcio ***
+Comedy: 1
+Drama: 1
+
+*** Dan Crisafulli ***
+Fantasy: 1
+Horror: 1
+Thriller: 1
+
+*** Kay Whitney ***
+Fantasy: 1
+Horror: 1
+Thriller: 1
+
+*** Richard Garcia ***
+Fantasy: 1
+Horror: 1
+Thriller: 1
+
+*** Pat Cashman ***
+Fantasy: 1
+Horror: 1
+Thriller: 1
+
+*** Rachael Blake ***
+Drama: 1
+Romance: 1
+
+*** Ewen Leslie ***
+Drama: 2
+Romance: 1
+
+*** Bridgette Barrett ***
+Drama: 1
+Romance: 1
+
+*** Lucy Fry ***
+Action: 1
+Comedy: 1
+Fantasy: 1
+
+*** Gabriel Byrne ***
+Action: 1
+Comedy: 1
+Fantasy: 1
+
+*** Alan Rickman ***
+Drama: 3
+Horror: 1
+Musical: 1
+Thriller: 1
+War: 1
+Crime: 1
+Fantasy: 1
+
+*** Jeffrey Dean Morgan ***
+Crime: 1
+Drama: 1
+Mystery: 1
+
+*** Jorma Taccone ***
+Comedy: 1
+Music: 1
+
+*** Akiva Schaffer ***
+Comedy: 1
+Music: 1
+
+*** David Troughton ***
+Drama: 1
+
+*** Jack Holden ***
+Drama: 1
+
+*** Joe Blakemore ***
+Drama: 1
+
+*** Christian Stolte ***
+Biography: 1
+Crime: 1
+Drama: 1
+
+*** Ellar Coltrane ***
+Drama: 1
+
+*** Patricia Arquette ***
+Drama: 1
+
+*** Elijah Smith ***
+Drama: 1
+
+*** Noel Fisher ***
+Action: 1
+Adventure: 1
+Comedy: 1
+
+*** Armin Mueller-Stahl ***
+Crime: 1
+Drama: 1
+Mystery: 1
+
+*** Josef Altin ***
+Crime: 1
+Drama: 1
+Mystery: 1
+
+*** Nicholas Hope ***
+Drama: 1
+
+*** Gary Cole ***
+Action: 2
+Comedy: 2
+Crime: 1
+Sport: 1
+
+*** Victoria Justice ***
+Comedy: 1
+Drama: 1
+Romance: 1
+
+*** Michael McDonald ***
+Action: 1
+Comedy: 1
+Crime: 1
+
+*** Andre Marcon ***
+Drama: 1
+
+*** Roman Kolinka ***
+Drama: 1
+
+*** Edith Scob ***
+Drama: 1
+
+*** Dale Dickey ***
+Crime: 1
+Drama: 1
+Mystery: 1
+
+*** Jessica Barth ***
+Adventure: 1
+Comedy: 1
+Romance: 1
+
+*** Tony Shalhoub ***
+Crime: 2
+Comedy: 1
+Drama: 1
+Action: 1
+Thriller: 1
+
+*** Kagiso Kuypers ***
+Adventure: 1
+Drama: 1
+Thriller: 1
+
+*** Alessandro Nivola ***
+Biography: 1
+Crime: 1
+Drama: 1
+
+*** James Hamrick ***
+Biography: 1
+Crime: 1
+Drama: 1
+
+*** Joel Kinnaman ***
+Crime: 2
+Drama: 1
+Thriller: 1
+Action: 1
+Sci-Fi: 1
+
+*** Brian Geraghty ***
+Drama: 1
+History: 1
+Thriller: 1
+
+*** Andre Braugher ***
+Horror: 1
+
+*** 50 Cent ***
+Action: 1
+Crime: 1
+Mystery: 1
+
+*** Lily Collins ***
+Comedy: 2
+Romance: 2
+Action: 1
+Fantasy: 1
+Horror: 1
+Drama: 1
+
+*** Christian Cooke ***
+Comedy: 1
+Romance: 1
+
+*** Jaime Winstone ***
+Comedy: 1
+Romance: 1
+
+*** Mae Whitman ***
+Comedy: 1
+
+*** Bella Thorne ***
+Comedy: 1
+
+*** Robbie Amell ***
+Comedy: 2
+Family: 1
+Fantasy: 1
+
+*** Allison Janney ***
+Comedy: 1
+
+*** Byung-hun Lee ***
+Action: 1
+Drama: 1
+Thriller: 1
+
+*** Ji-min Han ***
+Action: 1
+Drama: 1
+Thriller: 1
+
+*** Jasper Newell ***
+Drama: 1
+Mystery: 1
+Thriller: 1
+
+*** Chloe Sevigny ***
+Comedy: 1
+Drama: 1
+Romance: 1
+
+*** Emma Greenwell ***
+Comedy: 1
+Drama: 1
+Romance: 1
+
+*** Jamie Campbell Bower ***
+Action: 1
+Fantasy: 1
+Horror: 1
+
+*** Robert Sheehan ***
+Action: 1
+Fantasy: 1
+Horror: 1
+
+*** Jemima West ***
+Action: 1
+Fantasy: 1
+Horror: 1
+
+*** Derek Jacobi ***
+Biography: 1
+Drama: 1
+
+*** Stuart Graham ***
+Biography: 1
+Drama: 1
+
+*** Laine Megaw ***
+Biography: 1
+Drama: 1
+
+*** Brian Milligan ***
+Biography: 1
+Drama: 1
+
+*** Liam McMahon ***
+Biography: 1
+Drama: 1
+
+*** Hayden Christensen ***
+Action: 1
+Adventure: 1
+Sci-Fi: 1
+
+*** Rachel Bilson ***
+Action: 1
+Adventure: 1
+Sci-Fi: 1
+
+*** Tim Allen ***
+Animation: 1
+Adventure: 1
+Comedy: 1
+
+*** Joan Cusack ***
+Animation: 1
+Adventure: 1
+Comedy: 1
+
+*** Ned Beatty ***
+Animation: 1
+Adventure: 1
+Comedy: 1
+
+*** Sienna Guillory ***
+Action: 2
+Horror: 1
+Sci-Fi: 1
+Adventure: 1
+Fantasy: 1
+
+*** Aryana Engineer ***
+Action: 1
+Horror: 1
+Sci-Fi: 1
+
+*** Alia Bhatt ***
+Drama: 1
+Romance: 1
+
+*** Shah Rukh Khan ***
+Drama: 1
+Romance: 1
+
+*** Kunal Kapoor ***
+Drama: 1
+Romance: 1
+
+*** Priyanka Moodley ***
+Drama: 1
+Romance: 1
+
+*** Adewale Akinnuoye-Agbaje ***
+Action: 2
+Adventure: 2
+Drama: 1
+Sci-Fi: 1
+
+*** Suraj Sharma ***
+Adventure: 1
+Drama: 1
+Fantasy: 1
+
+*** Adil Hussain ***
+Adventure: 1
+Drama: 1
+Fantasy: 1
+
+*** Tabu ***
+Adventure: 1
+Drama: 1
+Fantasy: 1
+
+*** Cary-Hiroyuki Tagawa ***
+Drama: 1
+Family: 1
+
+*** Sarah Roemer ***
+Drama: 2
+Family: 1
+Mystery: 1
+Thriller: 1
+
+*** Michael Pitt ***
+Drama: 2
+Romance: 1
+Sci-Fi: 1
+Crime: 1
+Horror: 1
+
+*** Steven Yeun ***
+Drama: 1
+Romance: 1
+Sci-Fi: 1
+
+*** Astrid Berges-Frisbey ***
+Drama: 1
+Romance: 1
+Sci-Fi: 1
+
+*** Brit Marling ***
+Drama: 1
+Romance: 1
+Sci-Fi: 1
+
+*** Maggie Q ***
+Action: 1
+Adventure: 1
+Thriller: 1
+
+*** Wesley Elder ***
+Comedy: 1
+Romance: 1
+
+*** Christina Grimmie ***
+Comedy: 1
+Romance: 1
+
+*** Osric Chau ***
+Comedy: 1
+Romance: 1
+
+*** Olan Rogers ***
+Comedy: 1
+Romance: 1
+
+*** Brady Corbet ***
+Crime: 1
+Drama: 1
+Horror: 1
+
+*** Joel McHale ***
+Comedy: 1
+Fantasy: 1
+
+*** Shea Adams ***
+Adventure: 1
+Drama: 1
+Romance: 1
+
+*** Eddie Baroo ***
+Adventure: 1
+Drama: 1
+Romance: 1
+
+*** Billy Bob Thornton ***
+Crime: 2
+Drama: 2
+Action: 1
+
+*** Mauricio Lopez ***
+Action: 1
+Crime: 1
+Drama: 1
+
+*** Josh Stewart ***
+Crime: 1
+Horror: 1
+Thriller: 1
+
+*** Bill Engvall ***
+Crime: 1
+Horror: 1
+Thriller: 1
+
+*** Alex Essoe ***
+Crime: 1
+Horror: 1
+Thriller: 1
+
+*** Ronnie Gene Blevins ***
+Horror: 2
+Thriller: 2
+Crime: 1
+
+*** Lisa Thoreson ***
+Romance: 1
+Sci-Fi: 1
+Thriller: 1
+
+*** Florence Kastriner ***
+Romance: 1
+Sci-Fi: 1
+Thriller: 1
+
+*** Robert Duvall ***
+Drama: 2
+Crime: 1
+Adventure: 1
+
+*** Emmanuel Garijo ***
+Animation: 1
+Fantasy: 1
+
+*** Tom Hudson ***
+Animation: 1
+Fantasy: 1
+
+*** Baptiste Goy ***
+Animation: 1
+Fantasy: 1
+
+*** Axel Devillers ***
+Animation: 1
+Fantasy: 1
+
+*** Lubna Azabal ***
+Drama: 1
+Mystery: 1
+War: 1
+
+*** Melissa Desormeaux-Poulin ***
+Drama: 1
+Mystery: 1
+War: 1
+
+*** Maxim Gaudette ***
+Drama: 1
+Mystery: 1
+War: 1
+
+*** Mustafa Kamel ***
+Drama: 1
+Mystery: 1
+War: 1
+
+*** Jerry Stiller ***
+Comedy: 1
+Romance: 1
+
+*** Brittany Murphy ***
+Animation: 1
+Comedy: 1
+Family: 1
+
+*** Kevin Connolly ***
+Comedy: 1
+
+*** Jerry Ferrara ***
+Comedy: 1
+
+*** Kevin Dillon ***
+Comedy: 1
+
+*** Scott Speedman ***
+Horror: 1
+Mystery: 1
+Thriller: 1
+
+*** Gemma Ward ***
+Horror: 1
+Mystery: 1
+Thriller: 1
+
+*** Alex Fisher ***
+Horror: 1
+Mystery: 1
+Thriller: 1
+
+*** Gaby Hoffmann ***
+Adventure: 1
+Biography: 1
+Drama: 1
+
+*** Salma Hayek ***
+Comedy: 1
+Drama: 1
+Fantasy: 1
+Horror: 1
+
+*** James Allen McCune ***
+Horror: 1
+Thriller: 1
+
+*** Callie Hernandez ***
+Horror: 1
+Thriller: 1
+
+*** Corbin Reid ***
+Horror: 1
+Thriller: 1
+
+*** Brandon Scott ***
+Horror: 1
+Thriller: 1
+
+*** Jackie Chan ***
+Action: 1
+Drama: 1
+Family: 1
+
+*** Wenwen Han ***
+Action: 1
+Drama: 1
+Family: 1
+
+*** Patricia Clarkson ***
+Romance: 2
+Comedy: 1
+Drama: 1
+
+*** Jenna Elfman ***
+Comedy: 1
+Romance: 1
+
+*** Rufus Sewell ***
+Drama: 1
+Mystery: 1
+Romance: 1
+
+*** Dan Stevens ***
+Drama: 2
+Thriller: 1
+Crime: 1
+Mystery: 1
+
+*** Sheila Kelley ***
+Thriller: 1
+
+*** Joel David Moore ***
+Thriller: 1
+
+*** Aasif Mandvi ***
+Comedy: 1
+
+*** Mia Stallard ***
+Adventure: 1
+Comedy: 1
+Sci-Fi: 1
+
+*** Audrey Tautou ***
+Mystery: 1
+Thriller: 1
+Adventure: 1
+Biography: 1
+
+*** Jean Reno ***
+Mystery: 1
+Thriller: 1
+
+*** Eddie Murphy ***
+Comedy: 1
+Drama: 1
+
+*** Natascha McElhone ***
+Comedy: 1
+Drama: 1
+
+*** Christopher Lee ***
+Adventure: 1
+Drama: 1
+Family: 1
+
+*** Kiernan Shipka ***
+Horror: 1
+Thriller: 1
+
+*** Lauren Holly ***
+Horror: 1
+Thriller: 1
+
+*** Lucy Boynton ***
+Thriller: 2
+Horror: 1
+
+*** Brian Dennehy ***
+Drama: 1
+Romance: 1
+
+*** Brendan Fraser ***
+Action: 1
+Adventure: 1
+Fantasy: 1
+
+*** Ella Anderson ***
+Comedy: 1
+
+*** Usher Raymond ***
+Action: 1
+Biography: 1
+Drama: 1
+
+*** Ruben Blades ***
+Action: 1
+Biography: 1
+Drama: 1
+
+*** Ricardo Darin ***
+Drama: 1
+Mystery: 1
+Romance: 1
+
+*** Soledad Villamil ***
+Drama: 1
+Mystery: 1
+Romance: 1
+
+*** Pablo Rago ***
+Drama: 1
+Mystery: 1
+Romance: 1
+
+*** Carla Quevedo ***
+Drama: 1
+Mystery: 1
+Romance: 1
+
+*** Wes Bentley ***
+Drama: 1
+Music: 1
+Romance: 1
+Action: 1
+Thriller: 1
+
+*** Emily Ratajkowski ***
+Drama: 1
+Music: 1
+Romance: 1
+
+*** Jonny Weston ***
+Drama: 1
+Music: 1
+Romance: 1
+
+*** Brian White ***
+Thriller: 1
+
+*** Karrueche Tran ***
+Thriller: 1
+
+*** Angelique Pereira ***
+Thriller: 1
+
+*** Jessica Vanessa DeLeon ***
+Thriller: 1
+
+*** Taissa Farmiga ***
+Comedy: 1
+Drama: 1
+Romance: 1
+
+*** Steve Tom ***
+Comedy: 1
+Drama: 1
+Romance: 1
+
+*** Elizabeth Reaser ***
+Horror: 1
+Thriller: 1
+
+*** Lulu Wilson ***
+Horror: 1
+Thriller: 1
+
+*** Henry Thomas ***
+Horror: 1
+Thriller: 1
+
+*** Nathan Fillion ***
+Adventure: 1
+Family: 1
+Fantasy: 1
+Comedy: 1
+Horror: 1
+Sci-Fi: 1
+
+*** Karen Gillan ***
+Horror: 1
+Mystery: 1
+
+*** Katee Sackhoff ***
+Horror: 1
+Mystery: 1
+Action: 1
+Sci-Fi: 1
+Thriller: 1
+
+*** Rory Cochrane ***
+Horror: 1
+Mystery: 1
+
+*** Elizabeth Berrington ***
+Comedy: 1
+Crime: 1
+Drama: 1
+
+*** Til Schweiger ***
+Action: 1
+Comedy: 1
+Romance: 1
+
+*** Tatiana Pauhofova ***
+Biography: 1
+Drama: 1
+History: 1
+
+*** Karl Markovics ***
+Biography: 1
+Drama: 1
+History: 1
+
+*** Gedeon Burkhard ***
+Biography: 1
+Drama: 1
+History: 1
+
+*** Simona Stasova ***
+Biography: 1
+Drama: 1
+History: 1
+
+*** Dermot Mulroney ***
+Drama: 1
+Thriller: 1
+
+*** Diego Klattenhoff ***
+Drama: 1
+Thriller: 1
+
+*** Larenz Tate ***
+Drama: 1
+
+*** Meagan Good ***
+Drama: 1
+
+*** Rotimi ***
+Drama: 1
+
+*** Rick Gonzalez ***
+Drama: 1
+
+*** Rose McGowan ***
+Action: 3
+Horror: 2
+Adventure: 1
+Fantasy: 1
+Thriller: 1
+Comedy: 1
+
+*** Freddie Highmore ***
+Drama: 1
+Music: 1
+
+*** Jonathan Rhys Meyers ***
+Drama: 1
+Music: 1
+
+*** Barkhad Abdi ***
+Drama: 2
+Thriller: 2
+War: 1
+Biography: 1
+
+*** Max Burkholder ***
+Horror: 1
+Sci-Fi: 1
+Thriller: 1
+
+*** Adelaide Kane ***
+Horror: 1
+Sci-Fi: 1
+Thriller: 1
+
+*** Anushka Sharma ***
+Comedy: 1
+Drama: 1
+Romance: 1
+
+*** Sanjay Dutt ***
+Comedy: 1
+Drama: 1
+Romance: 1
+
+*** Boman Irani ***
+Comedy: 1
+Drama: 1
+Romance: 1
+
+*** Karen Allen ***
+Action: 1
+Adventure: 1
+Fantasy: 1
+
+*** Cara Delevingne ***
+Drama: 1
+Mystery: 1
+Romance: 1
+
+*** Austin Abrams ***
+Drama: 1
+Mystery: 1
+Romance: 1
+
+*** Justice Smith ***
+Drama: 1
+Mystery: 1
+Romance: 1
+
+*** Anthony LaPaglia ***
+Action: 1
+Crime: 1
+Thriller: 1
+
+*** Craig Ferguson ***
+Animation: 2
+Action: 2
+Adventure: 2
+
+*** Bob Balaban ***
+Drama: 1
+Fantasy: 1
+Mystery: 1
+Thriller: 1
+
+*** Sean Patrick Thomas ***
+Drama: 1
+Sci-Fi: 1
+
+*** Ellen Burstyn ***
+Drama: 2
+Sci-Fi: 1
+
+*** Malcolm McDowell ***
+Horror: 1
+Thriller: 1
+
+*** Richard Brake ***
+Horror: 1
+Thriller: 1
+
+*** Jeff Daniel Phillips ***
+Horror: 1
+Thriller: 1
+
+*** Sheri Moon Zombie ***
+Horror: 1
+Thriller: 1
+
+*** Logan Huffman ***
+Action: 1
+Thriller: 1
+
+*** Alexander Ludwig ***
+Action: 1
+Thriller: 1
+
+*** Maddy Curley ***
+Comedy: 1
+
+*** John DeLuca ***
+Comedy: 1
+
+*** Nikki SooHoo ***
+Comedy: 1
+
+*** Drew Seeley ***
+Comedy: 1
+
+*** Malcolm Sinclair ***
+Biography: 1
+Drama: 1
+
+*** Raghuvir Joshi ***
+Biography: 1
+Drama: 1
+
+*** January Jones ***
+Action: 1
+Mystery: 1
+Thriller: 1
+
+*** Aidan Quinn ***
+Action: 1
+Mystery: 1
+Thriller: 1
+
+*** Natalie Martinez ***
+Action: 1
+Mystery: 1
+Sci-Fi: 1
+
+*** Demi Moore ***
+Crime: 1
+Drama: 1
+Thriller: 1
+
+*** Dane Cook ***
+Crime: 1
+Drama: 1
+Thriller: 1
+
+*** Callum Turner ***
+Comedy: 1
+Romance: 1
+
+*** Grace Van Patten ***
+Comedy: 1
+Romance: 1
+
+*** Michal Vondel ***
+Comedy: 1
+Romance: 1
+
+*** Emma Fitzpatrick ***
+Comedy: 1
+Drama: 1
+Romance: 1
+
+*** John Cullum ***
+Comedy: 1
+Drama: 1
+Romance: 1
+
+*** Barkhad Abdirahman ***
+Biography: 1
+Drama: 1
+Thriller: 1
+
+*** Aidan Turner ***
+Drama: 1
+
+*** Ben Winchell ***
+Action: 1
+Adventure: 1
+Family: 1
+
+*** Josh Brener ***
+Action: 1
+Adventure: 1
+Family: 1
+
+*** Andy Garcia ***
+Action: 1
+Adventure: 1
+Family: 1
+
+*** Ike Barinholtz ***
+Comedy: 1
+
+*** John D'Leo ***
+Comedy: 1
+Crime: 1
+Thriller: 1
+
+*** Craig Robinson ***
+Comedy: 1
+Romance: 1
+
+*** Gerry Bednob ***
+Comedy: 1
+Romance: 1
+
+*** Gaspard Schlatter ***
+Animation: 1
+Comedy: 1
+Drama: 1
+
+*** Sixtine Murat ***
+Animation: 1
+Comedy: 1
+Drama: 1
+
+*** Paulin Jaccoud ***
+Animation: 1
+Comedy: 1
+Drama: 1
+
+*** Michel Vuillermoz ***
+Animation: 1
+Comedy: 1
+Drama: 1
+
+*** Mandy Gonzalez ***
+Action: 1
+Crime: 1
+Thriller: 1
+
+*** Ashton Kutcher ***
+Comedy: 1
+Romance: 1
+
+*** Kevin Kline ***
+Comedy: 1
+Romance: 1
+
+*** Cary Elwes ***
+Comedy: 1
+Romance: 1
+
+*** Jeremy Davies ***
+Adventure: 1
+Biography: 1
+Drama: 1
+
+*** Zach Grenier ***
+Adventure: 1
+Biography: 1
+Drama: 1
+
+*** Benjamin Bratt ***
+Animation: 1
+Adventure: 1
+Comedy: 1
+
+*** Miranda Cosgrove ***
+Animation: 1
+Adventure: 1
+Comedy: 1
+
+*** Boyd Holbrook ***
+Crime: 1
+Drama: 1
+Mystery: 1
+
+*** Lily-Rose Depp ***
+Comedy: 1
+Fantasy: 1
+Horror: 1
+
+*** Harley Quinn Smith ***
+Comedy: 1
+Fantasy: 1
+Horror: 1
+
+*** Christopher Walken ***
+Comedy: 1
+Crime: 1
+
+*** Crispin Glover ***
+Animation: 1
+Action: 1
+Adventure: 1
+
+*** Mary McCormack ***
+Fantasy: 1
+Horror: 1
+
+*** Paul Birchard ***
+Fantasy: 1
+Horror: 1
+
+*** Jessica Lange ***
+Crime: 1
+Drama: 1
+Thriller: 1
+
+*** David Oyelowo ***
+Biography: 3
+Drama: 3
+Romance: 1
+Sport: 1
+History: 1
+
+*** Tom Felton ***
+Biography: 1
+Drama: 1
+Romance: 1
+
+*** Tom Sizemore ***
+Action: 1
+Drama: 1
+History: 1
+
+*** Matt Lanter ***
+Action: 1
+Drama: 1
+History: 1
+Comedy: 1
+
+*** Munro Chambers ***
+Action: 1
+Adventure: 1
+Comedy: 1
+
+*** Laurence Leboeuf ***
+Action: 1
+Adventure: 1
+Comedy: 1
+
+*** Michael Ironside ***
+Action: 1
+Adventure: 1
+Comedy: 1
+
+*** Edwin Wright ***
+Action: 1
+Adventure: 1
+Comedy: 1
+
+*** Megan Charpentier ***
+Horror: 1
+Thriller: 1
+
+*** Isabelle Nelisse ***
+Horror: 1
+Thriller: 1
+
+*** Isabelle Fuhrman ***
+Horror: 1
+Mystery: 1
+Thriller: 1
+
+*** CCH Pounder ***
+Horror: 1
+Mystery: 1
+Thriller: 1
+
+*** Woody Allen ***
+Comedy: 1
+Romance: 1
+
+*** Jason Barry ***
+Crime: 1
+Drama: 1
+Mystery: 1
+
+*** Karen Moskow ***
+Crime: 1
+Drama: 1
+Mystery: 1
+
+*** Kai Ryssdal ***
+Crime: 1
+Drama: 1
+Mystery: 1
+
+*** Amber Tamblyn ***
+Adventure: 1
+Biography: 1
+Drama: 1
+
+*** Sean Bott ***
+Adventure: 1
+Biography: 1
+Drama: 1
+
+*** Ward Horton ***
+Horror: 1
+Mystery: 1
+Thriller: 1
+
+*** Alfre Woodard ***
+Horror: 1
+Mystery: 1
+Thriller: 1
+
+*** Tony Amendola ***
+Horror: 1
+Mystery: 1
+Thriller: 1
+
+*** Katie Cassidy ***
+Horror: 1
+Thriller: 1
+
+*** Elizabeth Henstridge ***
+Horror: 1
+Thriller: 1
+
+*** Adam Campbell ***
+Horror: 1
+Thriller: 1
+
+*** Miles Fisher ***
+Horror: 2
+Thriller: 2
+
+*** Kristin Scott Thomas ***
+Drama: 1
+Romance: 1
+War: 1
+
+*** Eric Godon ***
+Drama: 1
+Romance: 1
+War: 1
+
+*** Lily Cole ***
+Adventure: 1
+Fantasy: 1
+Mystery: 1
+
+*** Marlon Wayans ***
+Action: 1
+Adventure: 1
+Sci-Fi: 1
+
+*** Michael C. Hall ***
+Biography: 1
+Drama: 1
+
+*** Maria Dizzia ***
+Biography: 1
+Drama: 1
+
+*** Michael Vartan ***
+Horror: 1
+Thriller: 1
+
+*** Nadine Velazquez ***
+Thriller: 2
+Horror: 1
+Drama: 1
+
+*** Charlie Heaton ***
+Drama: 1
+Horror: 1
+Thriller: 1
+
+*** Mark Chao ***
+Action: 1
+Adventure: 1
+Fantasy: 1
+
+*** Ni Ni ***
+Action: 1
+Adventure: 1
+Fantasy: 1
+
+*** Danny Trejo ***
+Action: 1
+Horror: 1
+Thriller: 1
+
+*** Carmen Electra ***
+Comedy: 1
+
+*** Vanessa Lachey ***
+Comedy: 1
+
+*** Nicole Parker ***
+Comedy: 1
+
+*** Antonio Tarver ***
+Drama: 1
+Sport: 1
+
+*** Milo Ventimiglia ***
+Drama: 1
+Sport: 1
+
+*** Burt Young ***
+Drama: 1
+Sport: 1
+
+*** Devon Bostick ***
+Comedy: 2
+Family: 2
+
+*** Su Elliot ***
+Drama: 1
+Romance: 1
+
+*** Donald Sutherland ***
+Action: 1
+Adventure: 1
+Comedy: 1
+Crime: 1
+Drama: 1
+Mystery: 1
+
+*** Alexis Dziena ***
+Action: 1
+Adventure: 1
+Comedy: 1
+
+*** Wentworth Miller ***
+Mystery: 1
+Romance: 1
+Thriller: 1
+Action: 1
+Adventure: 1
+Horror: 1
+
+*** Adrian Titieni ***
+Crime: 1
+Drama: 1
+
+*** Maria-Victoria Dragus ***
+Crime: 1
+Drama: 1
+
+*** Lia Bugnar ***
+Crime: 1
+Drama: 1
+
+*** Malina Manovici ***
+Crime: 1
+Drama: 1
+
+*** John Turturro ***
+Action: 1
+Comedy: 1
+
+*** Emmanuelle Chriqui ***
+Action: 1
+Comedy: 1
+
+*** Nick Swardson ***
+Action: 1
+Comedy: 1
+
+*** Christopher McDonald ***
+Crime: 1
+Drama: 1
+Mystery: 1
+
+*** Mira Sorvino ***
+Crime: 1
+Drama: 1
+Mystery: 1
+
+*** Sally Hawkins ***
+Drama: 2
+Biography: 1
+Romance: 1
+
+*** Kari Matchett ***
+Biography: 1
+Drama: 1
+Romance: 1
+
+*** Zachary Bennett ***
+Biography: 1
+Drama: 1
+Romance: 1
+
+*** Keith David ***
+Animation: 1
+Adventure: 1
+Comedy: 1
+
+*** Oprah Winfrey ***
+Animation: 1
+Adventure: 1
+Comedy: 1
+Biography: 1
+Drama: 1
+
+*** Bruno Campos ***
+Animation: 1
+Adventure: 1
+Comedy: 1
+
+*** Ethan Suplee ***
+Action: 1
+Thriller: 1
+
+*** Jim Parsons ***
+Animation: 1
+Adventure: 1
+Comedy: 1
+
+*** Steve Martin ***
+Animation: 1
+Adventure: 1
+Comedy: 1
+
+*** Jim Sturgess ***
+Drama: 5
+Crime: 2
+Mystery: 1
+Thriller: 1
+Romance: 1
+Biography: 1
+History: 1
+Fantasy: 1
+Musical: 1
+
+*** Sylvia Hoeks ***
+Crime: 1
+Drama: 1
+Mystery: 1
+
+*** Sophie Nelisse ***
+Thriller: 1
+
+*** Josh Wiggins ***
+Thriller: 1
+Adventure: 1
+Family: 1
+
+*** Joe Cobden ***
+Thriller: 1
+
+*** T.R. Knight ***
+Biography: 1
+Drama: 1
+Sport: 1
+
+*** Nicole Beharie ***
+Biography: 1
+Drama: 1
+Sport: 1
+
+*** Aaron Yoo ***
+Crime: 1
+Drama: 1
+Thriller: 1
+
+*** Adam Levine ***
+Drama: 1
+Music: 1
+
+*** Christopher Evan Welch ***
+Drama: 1
+Romance: 1
+
+*** Regina Hall ***
+Comedy: 1
+Drama: 1
+
+*** Anthony Anderson ***
+Comedy: 1
+Drama: 1
+
+*** Eve ***
+Comedy: 1
+Drama: 1
+
+*** Moon Bloodgood ***
+Action: 1
+Adventure: 1
+Drama: 1
+
+*** Imelda Staunton ***
+Biography: 1
+Crime: 1
+Drama: 1
+
+*** Ted Levine ***
+Horror: 1
+
+*** Kathleen Quinlan ***
+Horror: 1
+
+*** Emilie de Ravin ***
+Horror: 1
+Drama: 1
+Romance: 1
+
+*** Colm Feore ***
+Biography: 1
+Drama: 1
+Mystery: 1
+
+*** Gattlin Griffith ***
+Biography: 1
+Drama: 1
+Mystery: 1
+
+*** Caitlyn Rund ***
+Drama: 1
+Romance: 1
+
+*** Moises Acevedo ***
+Drama: 1
+Romance: 1
+
+*** Miyu Irino ***
+Animation: 1
+Drama: 1
+Romance: 1
+
+*** Saori Hayami ***
+Animation: 1
+Drama: 1
+Romance: 1
+
+*** Kensho Ono ***
+Animation: 1
+Drama: 1
+Romance: 1
+
+*** Ruth Wilson ***
+Drama: 1
+Thriller: 1
+
+*** Aiden Longworth ***
+Mystery: 1
+Thriller: 1
+
+*** Juno Temple ***
+Drama: 1
+Fantasy: 1
+Horror: 1
+
+*** Max Minghella ***
+Drama: 2
+Fantasy: 1
+Horror: 1
+Sci-Fi: 1
+Thriller: 1
+
+*** Joe Anderson ***
+Drama: 2
+Fantasy: 2
+Horror: 1
+Musical: 1
+
+*** Tijuana Ricks ***
+Drama: 1
+Romance: 1
+
+*** Sue Dahlman ***
+Drama: 1
+Romance: 1
+
+*** Tye Sheridan ***
+Biography: 1
+Drama: 1
+History: 1
+Action: 1
+Comedy: 1
+Horror: 1
+Thriller: 1
+
+*** Ving Rhames ***
+Thriller: 2
+Action: 1
+Adventure: 1
+Comedy: 1
+Horror: 1
+
+*** Rolf Lassgard ***
+Comedy: 1
+Drama: 1
+
+*** Bahar Pars ***
+Comedy: 1
+Drama: 1
+
+*** Filip Berg ***
+Comedy: 1
+Drama: 1
+
+*** Ida Engvoll ***
+Comedy: 1
+Drama: 1
+
+*** Justin Chatwin ***
+Action: 1
+Adventure: 1
+Fantasy: 1
+
+*** James Marsters ***
+Action: 1
+Adventure: 1
+Fantasy: 1
+
+*** Yun-Fat Chow ***
+Action: 1
+Adventure: 1
+Fantasy: 1
+
+*** Emmy Rossum ***
+Action: 1
+Adventure: 1
+Fantasy: 1
+
+*** Isabel Lucas ***
+Action: 1
+Thriller: 1
+
+*** Josh Peck ***
+Action: 1
+Thriller: 1
+
+*** Tom Mison ***
+Drama: 1
+Romance: 1
+
+*** Josh Lucas ***
+Comedy: 1
+Drama: 1
+Romance: 1
+
+*** Alexis Clagett ***
+Comedy: 1
+Drama: 1
+Romance: 1
+
+*** Robert Carlyle ***
+Drama: 1
+Horror: 1
+Sci-Fi: 1
+
+*** Harold Perrineau ***
+Drama: 1
+Horror: 1
+Sci-Fi: 1
+
+*** John Malkovich ***
+Comedy: 1
+Horror: 1
+Romance: 1
+
+*** Jon M. Chu ***
+Action: 1
+Adventure: 1
+Sci-Fi: 1
+
+*** Hiroki Hasegawa ***
+Action: 1
+Adventure: 1
+Drama: 1
+
+*** Yutaka Takenouchi ***
+Action: 1
+Adventure: 1
+Drama: 1
+
+*** Satomi Ishihara ***
+Action: 1
+Adventure: 1
+Drama: 1
+
+*** Ren osugi ***
+Action: 1
+Adventure: 1
+Drama: 1
+
+*** Annie Rose Buckley ***
+Biography: 1
+Comedy: 1
+Drama: 1
+
+*** George Lopez ***
+Animation: 1
+Adventure: 1
+Comedy: 1
+
+*** Karen Disher ***
+Animation: 1
+Adventure: 1
+Comedy: 1
+
+*** Vernetta Lopez ***
+Drama: 1
+Romance: 1
+Sci-Fi: 1
+
+*** Scott Lawrence ***
+Drama: 1
+Romance: 1
+Sci-Fi: 1
+
+*** Gael Garcia Bernal ***
+Drama: 1
+
+*** Mohamed Akhzam ***
+Drama: 1
+
+*** Hunter McCracken ***
+Drama: 1
+Fantasy: 1
+
+*** Taylor Schilling ***
+Drama: 1
+Romance: 1
+
+*** Blythe Danner ***
+Romance: 2
+Drama: 1
+Comedy: 1
+
+*** Riley Thomas Stewart ***
+Drama: 1
+Romance: 1
+
+*** Elisabeth Shue ***
+Comedy: 1
+Horror: 1
+Thriller: 1
+
+*** Jerry O'Connell ***
+Comedy: 1
+Horror: 1
+Thriller: 1
+
+*** Dylan Duffus ***
+Crime: 1
+Drama: 1
+
+*** Scorcher ***
+Crime: 1
+Drama: 1
+
+*** Shone Romulus ***
+Crime: 1
+Drama: 1
+
+*** Jade Asha ***
+Crime: 1
+Drama: 1
+
+*** Maude Apatow ***
+Comedy: 1
+Romance: 1
+
+*** Iris Apatow ***
+Comedy: 1
+Romance: 1
+
+*** Dakota Goyo ***
+Action: 1
+Drama: 1
+Family: 1
+
+*** Sarah Jessica Parker ***
+Comedy: 2
+Drama: 2
+Romance: 2
+
+*** Kim Cattrall ***
+Comedy: 2
+Drama: 2
+Romance: 2
+
+*** Kristin Davis ***
+Comedy: 2
+Drama: 2
+Romance: 2
+
+*** Julie Benz ***
+Action: 1
+Thriller: 1
+War: 1
+
+*** Matthew Marsden ***
+Action: 1
+Thriller: 1
+War: 1
+
+*** Graham McTavish ***
+Action: 1
+Thriller: 1
+War: 1
+
+*** Freddy Rodriguez ***
+Action: 1
+Comedy: 1
+Horror: 1
+
+*** Marley Shelton ***
+Action: 1
+Comedy: 1
+Horror: 1
+
+*** David Morse ***
+Drama: 2
+Biography: 1
+Sport: 1
+Mystery: 1
+Thriller: 1
+
+*** Lee Pace ***
+Adventure: 1
+Comedy: 1
+Drama: 1
+
+*** Catinca Untaru ***
+Adventure: 1
+Comedy: 1
+Drama: 1
+
+*** Justine Waddell ***
+Adventure: 1
+Comedy: 1
+Drama: 1
+
+*** Kim Uylenbroek ***
+Adventure: 1
+Comedy: 1
+Drama: 1
+
+*** Bree Turner ***
+Comedy: 1
+Romance: 1
+
+*** Eric Winter ***
+Comedy: 1
+Romance: 1
+
+*** Candice Bergen ***
+Comedy: 1
+Romance: 1
+
+*** Bryan Greenberg ***
+Comedy: 1
+Romance: 1
+
+*** Jordan Carlos ***
+Comedy: 1
+Drama: 1
+Romance: 1
+
+*** Margarita Levieva ***
+Comedy: 1
+Drama: 1
+Romance: 1
+
+*** Julianna Margulies ***
+Action: 1
+Adventure: 1
+Crime: 1
+
+*** Nathan Phillips ***
+Action: 1
+Adventure: 1
+Crime: 1
+
+*** Rachel Blanchard ***
+Action: 1
+Adventure: 1
+Crime: 1
+
+*** Zoe Kazan ***
+Comedy: 1
+Romance: 1
+
+*** Megan Park ***
+Comedy: 1
+Romance: 1
+
+*** Max Greenfield ***
+Comedy: 1
+Drama: 1
+Romance: 1
+
+*** Tyne Daly ***
+Comedy: 1
+Drama: 1
+Romance: 1
+
+*** Michael Mantell ***
+Crime: 1
+Thriller: 1
+
+*** Michael Rooker ***
+Comedy: 1
+Horror: 1
+Sci-Fi: 1
+
+*** Don Thompson ***
+Comedy: 1
+Horror: 1
+Sci-Fi: 1
+
+*** Toby Jones ***
+Drama: 1
+Fantasy: 1
+Horror: 1
+
+*** Paula Prentiss ***
+Thriller: 1
+
+*** AnnaSophia Robb ***
+Adventure: 1
+Drama: 1
+Family: 1
+
+*** Robert Patrick ***
+Drama: 2
+Adventure: 1
+Family: 1
+Romance: 1
+
+*** Emily Baldoni ***
+Mystery: 1
+Sci-Fi: 1
+Thriller: 1
+
+*** Maury Sterling ***
+Mystery: 1
+Sci-Fi: 1
+Thriller: 1
+
+*** Nicholas Brendon ***
+Mystery: 1
+Sci-Fi: 1
+Thriller: 1
+
+*** Elizabeth Gracen ***
+Mystery: 1
+Sci-Fi: 1
+Thriller: 1
+
+*** Jamal Woolard ***
+Biography: 1
+Crime: 1
+Drama: 1
+
+*** Derek Luke ***
+Biography: 1
+Crime: 1
+Drama: 1
+
+*** Momo Dione ***
+Biography: 1
+Crime: 1
+Drama: 1
+
+*** Jun Kunimura ***
+Drama: 1
+Fantasy: 1
+Horror: 1
+
+*** Jung-min Hwang ***
+Drama: 1
+Fantasy: 1
+Horror: 1
+
+*** Do-won Kwak ***
+Drama: 1
+Fantasy: 1
+Horror: 1
+
+*** Woo-hee Chun ***
+Drama: 1
+Fantasy: 1
+Horror: 1
+
+*** Randy Couture ***
+Action: 1
+Adventure: 1
+Thriller: 1
+
+*** William Atherton ***
+Crime: 1
+Drama: 1
+Horror: 1
+
+*** Blythe Auffarth ***
+Crime: 1
+Drama: 1
+Horror: 1
+
+*** Blanche Baker ***
+Crime: 1
+Drama: 1
+Horror: 1
+
+*** Kevin Chamberlin ***
+Crime: 1
+Drama: 1
+Horror: 1
+
+*** Francesc Albiol ***
+Crime: 1
+Drama: 1
+Fantasy: 1
+
+*** Dakota Blue Richards ***
+Adventure: 1
+Family: 1
+Fantasy: 1
+
+*** Ben Walker ***
+Adventure: 1
+Family: 1
+Fantasy: 1
+
+*** Andreas Wisniewski ***
+Action: 1
+Adventure: 1
+Drama: 1
+
+*** Logan Miller ***
+Action: 1
+Comedy: 1
+Horror: 1
+
+*** Joey Morgan ***
+Action: 1
+Comedy: 1
+Horror: 1
+
+*** Sarah Dumont ***
+Action: 1
+Comedy: 1
+Horror: 1
+
+*** Matthew Perry ***
+Comedy: 1
+Drama: 1
+Family: 1
+
+*** Chatchawai Kamonsakpitak ***
+Action: 1
+Thriller: 1
+
+*** Brandon Routh ***
+Action: 1
+Adventure: 1
+Sci-Fi: 1
+
+*** Gabourey Sidibe ***
+Drama: 1
+
+*** Mo'Nique ***
+Drama: 1
+
+*** Mariah Carey ***
+Drama: 1
+
+*** Ryoko Seta ***
+Drama: 1
+
+*** Nicholas Braun ***
+Comedy: 1
+
+*** Mateo Arias ***
+Comedy: 1
+
+*** Israel Broussard ***
+Comedy: 1
+
+*** Jesse Plemons ***
+Drama: 1
+
+*** Kenny Wormald ***
+Comedy: 1
+Drama: 1
+Music: 1
+
+*** Andie MacDowell ***
+Comedy: 1
+Drama: 1
+Music: 1
+
+*** Jamie Blackley ***
+Drama: 1
+Fantasy: 1
+Music: 1
+
+*** Joshua Leonard ***
+Drama: 1
+Fantasy: 1
+Music: 1
+
+*** Bel Powley ***
+Thriller: 1
+
+*** Stephen Moyer ***
+Thriller: 1
+
+*** Samantha Robinson ***
+Comedy: 1
+Horror: 1
+
+*** Jeffrey Vincent Parise ***
+Comedy: 1
+Horror: 1
+
+*** Laura Waddell ***
+Comedy: 1
+Horror: 1
+
+*** Gian Keys ***
+Comedy: 1
+Horror: 1
+
+*** Dieter Laser ***
+Horror: 1
+
+*** Ashley C. Williams ***
+Horror: 1
+
+*** Ashlynn Yennie ***
+Horror: 1
+
+*** Akihiro Kitamura ***
+Horror: 1
+
+*** Rainn Wilson ***
+Comedy: 1
+Drama: 1
+
+*** Brooke Shields ***
+Horror: 1
+Mystery: 1
+
+*** Gabriel Luna ***
+Thriller: 1
+
+*** David Acord ***
+Thriller: 1
+
+*** Ari Graynor ***
+Comedy: 1
+Romance: 1
+
+*** Jordi Molla ***
+Action: 1
+Sci-Fi: 1
+Thriller: 1
+
+*** Melissa George ***
+Fantasy: 1
+Mystery: 1
+Thriller: 1
+
+*** Joshua McIvor ***
+Fantasy: 1
+Mystery: 1
+Thriller: 1
+
+*** Jack Taylor ***
+Fantasy: 1
+Mystery: 1
+Thriller: 1
+
+*** Michael Dorman ***
+Fantasy: 1
+Mystery: 1
+Thriller: 1
+
+*** Garrett Clayton ***
+Crime: 1
+Drama: 1
+
+*** Christian Slater ***
+Crime: 1
+Drama: 1
+
+*** Molly Ringwald ***
+Crime: 1
+Drama: 1
+
+*** James Kelley ***
+Crime: 1
+Drama: 1
+
+*** Sophie Okonedo ***
+Action: 1
+Adventure: 1
+Sci-Fi: 1
+
+*** Jahking Guillory ***
+Adventure: 1
+
+*** Christopher Jordan Wallace ***
+Adventure: 1
+
+*** Christopher Meyer ***
+Adventure: 1
+
+*** Kofi Siriboe ***
+Adventure: 1
+
+*** Thomas Mann ***
+Comedy: 2
+Drama: 1
+
+*** RJ Cyler ***
+Comedy: 1
+Drama: 1
+
+*** Olivia Cooke ***
+Comedy: 1
+Drama: 1
+
+*** Amara Miller ***
+Comedy: 1
+Drama: 1
+
+*** Nick Krause ***
+Comedy: 1
+Drama: 1
+
+*** Nick Robinson ***
+Adventure: 1
+Comedy: 1
+Drama: 1
+
+*** Moises Arias ***
+Adventure: 1
+Comedy: 1
+Drama: 1
+
+*** Paul Bettany ***
+Action: 1
+Fantasy: 1
+Horror: 1
+
+*** Charles S. Dutton ***
+Action: 1
+Fantasy: 1
+Horror: 1
+
+*** America Ferrera ***
+Crime: 1
+Drama: 1
+Thriller: 1
+
+*** Connie Nielsen ***
+Action: 1
+Drama: 1
+Thriller: 1
+
+*** Josh Hartnett ***
+Crime: 1
+Drama: 1
+Mystery: 1
+
+*** Lucy Liu ***
+Crime: 1
+Drama: 1
+Mystery: 1
+
+*** Danny Sapani ***
+Crime: 1
+Drama: 1
+Mystery: 1
+
+*** Evan Rachel Wood ***
+Drama: 2
+Sci-Fi: 1
+Thriller: 1
+Fantasy: 1
+Musical: 1
+
+*** Callum Keith Rennie ***
+Drama: 1
+Sci-Fi: 1
+Thriller: 1
+
+*** Sarah Butler ***
+Crime: 1
+Horror: 1
+Thriller: 1
+
+*** Jeff Branson ***
+Crime: 1
+Horror: 1
+Thriller: 1
+
+*** Andrew Howard ***
+Crime: 1
+Horror: 1
+Thriller: 1
+
+*** Daniel Franzese ***
+Crime: 1
+Horror: 1
+Thriller: 1
+
+*** Hayden Panettiere ***
+Drama: 1
+
+*** Catalina Sandino Moreno ***
+Drama: 1
+
+*** Karolina Gruszka ***
+Drama: 1
+Mystery: 1
+Thriller: 1
+
+*** Lambert Wilson ***
+Adventure: 1
+Biography: 1
+
+*** Guillaume Baillargeon ***
+Adventure: 1
+Biography: 1
+Crime: 1
+
+*** emilie Leclerc ***
+Adventure: 1
+Biography: 1
+Crime: 1
+
+*** Andrea Whitburn ***
+Action: 1
+Horror: 1
+Thriller: 1
+
+*** Jennifer Koenig ***
+Action: 1
+Horror: 1
+Thriller: 1
+
+*** Michael Dickson ***
+Action: 1
+Horror: 1
+Thriller: 1
+
+*** John Luessenhop ***
+Horror: 1
+Thriller: 1
+
+*** Carrie-Anne Moss ***
+Drama: 1
+Mystery: 1
+Thriller: 1
+
+*** Diego Boneta ***
+Comedy: 1
+Drama: 1
+Musical: 1
+
+*** Neve Campbell ***
+Horror: 1
+Mystery: 1
+
+*** Courteney Cox ***
+Horror: 1
+Mystery: 1
+
+*** David Arquette ***
+Horror: 1
+Mystery: 1
+
+*** Lucy Hale ***
+Horror: 1
+Mystery: 1
+
+*** Madina Nalwanga ***
+Biography: 1
+Drama: 1
+Sport: 1
+
+*** Lupita Nyong'o ***
+Biography: 1
+Drama: 1
+Sport: 1
+
+*** Martin Kabanza ***
+Biography: 1
+Drama: 1
+Sport: 1
+
+*** Nia Vardalos ***
+Comedy: 1
+Family: 1
+Romance: 1
+
+*** Michael Constantine ***
+Comedy: 1
+Family: 1
+Romance: 1
+
+*** Lainie Kazan ***
+Comedy: 1
+Family: 1
+Romance: 1
+
+*** Janet Montgomery ***
+Comedy: 1
+
+*** Ashley Tisdale ***
+Comedy: 1
+
+*** Bria L. Murphy ***
+Comedy: 1
+
+*** Nathalie Baye ***
+Drama: 1
+
+*** Elena Anaya ***
+Drama: 1
+Thriller: 1
+
+*** Jan Cornet ***
+Drama: 1
+Thriller: 1
+
+*** Marisa Paredes ***
+Drama: 1
+Thriller: 1
+
+*** Kylie Rogers ***
+Biography: 1
+Drama: 1
+Family: 1
+
+*** Brighton Sharbino ***
+Biography: 1
+Drama: 1
+Family: 1
+
+*** Quvenzhane Wallis ***
+Comedy: 1
+Drama: 1
+Family: 1
+
+*** Dana Fuchs ***
+Drama: 1
+Fantasy: 1
+Musical: 1
+
+*** Jake Johnson ***
+Comedy: 1
+
+*** Damon Wayans Jr. ***
+Comedy: 1
+
+*** Nina Dobrev ***
+Comedy: 1
+
+*** Luke Kleintank ***
+Adventure: 1
+Family: 1
+
+*** Lauren Graham ***
+Adventure: 1
+Family: 1
+
+*** Rasmus Hardiker ***
+Adventure: 1
+Comedy: 1
+Fantasy: 1
+
+*** Nicholas D'Agosto ***
+Horror: 1
+Thriller: 1
+
+*** Emma Bell ***
+Horror: 1
+Thriller: 1
+
+*** Arlen Escarpeta ***
+Horror: 1
+Thriller: 1
+
+*** Morjana Alaoui ***
+Horror: 1
+
+*** Mylene Jampanoi ***
+Horror: 1
+
+*** Catherine Begin ***
+Horror: 1
+
+*** Robert Toupin ***
+Horror: 1
+
+*** Carmen Ejogo ***
+Biography: 1
+Drama: 1
+History: 1
+
+*** Lorraine Toussaint ***
+Biography: 1
+Drama: 1
+History: 1
+
+*** Steven Mackintosh ***
+Action: 1
+Adventure: 1
+Fantasy: 1
+
+*** Darsheel Safary ***
+Drama: 1
+Family: 1
+Music: 1
+
+*** Tanay Chheda ***
+Drama: 1
+Family: 1
+Music: 1
+
+*** Sachet Engineer ***
+Drama: 1
+Family: 1
+Music: 1
+
+*** Kim Coates ***
+Action: 1
+Adventure: 1
+Horror: 1
+
+*** Oliver Cooper ***
+Comedy: 1
+
+*** Jonathan Daniel Brown ***
+Comedy: 1
+
+*** Dax Flame ***
+Comedy: 1
+
+*** Dean Norris ***
+Crime: 1
+Drama: 1
+Mystery: 1
+
+*** Lauren German ***
+Horror: 1
+
+*** Heather Matarazzo ***
+Horror: 1
+
+*** Bijou Phillips ***
+Horror: 1
+
+*** Roger Bart ***
+Horror: 1
+
+*** Robert Hoffman ***
+Drama: 1
+Music: 1
+Romance: 1
+
+*** Briana Evigan ***
+Drama: 1
+Music: 1
+Romance: 1
+
+*** Cassie Ventura ***
+Drama: 1
+Music: 1
+Romance: 1
+
+*** Adam G. Sevani ***
+Drama: 1
+Music: 1
+Romance: 1
+
+*** Adam Pally ***
+Adventure: 1
+Comedy: 1
+
+*** Thomas Middleditch ***
+Adventure: 1
+Comedy: 1
+
+*** Shannon Woodward ***
+Adventure: 1
+Comedy: 1
+
+*** Cheryl Hines ***
+Comedy: 1
+Family: 1
+Fantasy: 1
+
