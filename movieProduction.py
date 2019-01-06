@@ -10,7 +10,7 @@ for year in sheet['Year']:
     else:
         movieProduction[year] += 1
 
-movieProduction = sheet = {k: v for k, v in sorted(movieProduction.items(), key=lambda x: x[1], reverse=True)}
+movieProduction = {k: v for k, v in sorted(movieProduction.items(), key=lambda x: x[1], reverse=True)}
 
 file = open("files/movieProduction.txt", "w+")
 
