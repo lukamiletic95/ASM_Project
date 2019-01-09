@@ -16,6 +16,9 @@ file = open("files/sixDegreesOfKevinBacon.txt", "w+")
 
 for node in G.nodes:
     try:
+        if node == kevinBacon:
+            continue
+
         path = nx.shortest_path(G, node, kevinBacon, weight='weight')
     except nx.NetworkXNoPath:
         file.write("No path exists between %s and %s!\n" % (node, kevinBacon))

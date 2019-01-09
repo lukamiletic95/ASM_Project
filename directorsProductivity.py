@@ -7,7 +7,7 @@ productivity = {}
 for director in sheet['Director']:
     director = director.strip()
 
-    if (director in productivity):
+    if director in productivity:
         productivity[director] = productivity[director] + 1
     else:
         productivity[director] = 1
