@@ -14,7 +14,6 @@ for k in range(len(sheet['Actors'])):
     for i in range(len(genres)):
         genres[i] = genres[i].strip()
 
-
     for i in range(len(actors)):
 
         if (not actors[i] in actorsDictionary):
@@ -28,7 +27,8 @@ for k in range(len(sheet['Actors'])):
                 actorsDictionary[actors[i]][genres[j]] = 1
 
 for actor in actorsDictionary.keys():
-    actorsDictionary[actor] = {k: v for k, v in sorted(actorsDictionary[actor].items(), key=lambda x: x[1], reverse=True)}
+    actorsDictionary[actor] = {k: v for k, v in
+                               sorted(actorsDictionary[actor].items(), key=lambda x: x[1], reverse=True)}
 
 file = open("files/actorsGenres.txt", "w+")
 
@@ -41,5 +41,3 @@ for key, value in actorsDictionary.items():
     file.write('\n')
 
 file.close()
-
-

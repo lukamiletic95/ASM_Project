@@ -2,7 +2,7 @@ import pandas as pd
 
 sheet = pd.read_csv(r"files/IMDB-Movie-Data.csv")
 
-movieProduction= {}
+movieProduction = {}
 
 for year in sheet['Year']:
     if (not year in movieProduction):

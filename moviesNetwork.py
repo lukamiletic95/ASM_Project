@@ -22,7 +22,6 @@ for k in range(len(sheet['Actors'])):
 
         actorsMovies[actor].append(movie)
 
-
 for value in actorsMovies.values():
     if (len(value) > 1):
         for i in range(len(value) - 1):
@@ -31,4 +30,3 @@ for value in actorsMovies.values():
                     G.add_edge(value[i], value[j])
 
 nx.write_gml(G, "files/moviesNetwork.gml")
-
