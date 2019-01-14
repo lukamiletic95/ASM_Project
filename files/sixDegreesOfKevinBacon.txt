@@ -410,4 +410,5 @@ No path exists between Antoine Bertrand and Kevin Bacon!
 No path exists between Ashley Walters and Kevin Bacon!
 
 Maximum shortest path from some node to Kevin Bacon is 8.
-Average distance from each node to Kevin Bacon is 4.809.
+Average distance from each node to Kevin Bacon is 4.772.
+Degree of separation is: 3.772.
