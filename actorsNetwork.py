@@ -49,22 +49,15 @@ for actor in actorsDictionary.keys():
                                sorted(actorsDictionary[actor].items(), key=lambda x: x[1], reverse=True)}
 
 for actor, genres in actorsDictionary.items():
-    topThreeGenres = ""
+    topGenre = ""
 
     i = 0
 
     for genreName in genres.keys():
-        topThreeGenres += genreName
+        topGenre += genreName
+        break
 
-        if (i < 2):
-            topThreeGenres += ", "
-
-        i += 1
-
-        if (i == 3):
-            break
-
-    attributes = {actor: {'topThreeGenres': topThreeGenres}}
+    attributes = {actor: {'topGenre': topGenre}}
     nx.set_node_attributes(G, attributes)
 
 nx.write_gml(G, "files/actorsNetwork.gml")
