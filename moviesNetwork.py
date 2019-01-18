@@ -1,15 +1,20 @@
 import networkx as nx
 import pandas as pd
+import math
 
 G = nx.Graph()
 
 sheet = pd.read_csv(r"files/IMDB-Movie-Data.csv")
 
 actorsMovies = {}
+threshold = 0
 
 for k in range(len(sheet['Actors'])):
     actors = sheet['Actors'][k].split(",")
     movie = sheet['Title'][k].strip()
+
+    if (math.isnan(sheet['Revenue'][k]) or sheet['Revenue'][k] < threshold):
+        continue
 
     G.add_node(movie)
 
@@ -28,5 +33,6 @@ for value in actorsMovies.values():
             for j in range(i + 1, len(value)):
                 if (not G.has_edge(value[i], value[j])):
                     G.add_edge(value[i], value[j])
+
 
 nx.write_gml(G, "files/moviesNetwork.gml")
