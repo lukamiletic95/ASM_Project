@@ -1,0 +1,59 @@
+*** 0 ***
+Action: 42
+Drama: 40
+Comedy: 6
+Adventure: 5
+Thriller: 4
+Animation: 4
+Fantasy: 3
+Crime: 3
+Sci-Fi: 2
+Mystery: 1
+Biography: 1
+
+*** 2 ***
+Comedy: 47
+Drama: 25
+Action: 19
+Animation: 16
+Biography: 5
+Adventure: 4
+Crime: 1
+
+*** 8 ***
+Drama: 34
+Action: 15
+Horror: 13
+Comedy: 10
+Biography: 10
+Adventure: 5
+Animation: 4
+Fantasy: 3
+Crime: 3
+Thriller: 2
+Mystery: 2
+
+*** 13 ***
+Action: 29
+Drama: 27
+Comedy: 15
+Crime: 8
+Adventure: 6
+Horror: 4
+Biography: 3
+Thriller: 3
+Animation: 2
+Romance: 1
+
+*** 17 ***
+Drama: 38
+Action: 17
+Comedy: 14
+Horror: 13
+Adventure: 7
+Animation: 4
+Crime: 3
+Thriller: 3
+Biography: 2
+Mystery: 1
+

@@ -1,0 +1,410 @@
+*** 1 ***
+Action: 19
+Drama: 19
+Comedy: 9
+Horror: 7
+Thriller: 5
+Adventure: 5
+Crime: 5
+Mystery: 2
+Romance: 2
+Biography: 2
+
+*** 3 ***
+Drama: 23
+Action: 16
+Adventure: 14
+Comedy: 8
+Animation: 5
+Mystery: 4
+Crime: 3
+Biography: 3
+
+*** 4 ***
+Action: 46
+Drama: 9
+Comedy: 7
+Animation: 4
+Adventure: 4
+Horror: 2
+Thriller: 1
+Crime: 1
+
+*** 5 ***
+Drama: 24
+Action: 13
+Adventure: 4
+Comedy: 4
+Thriller: 3
+Mystery: 3
+Crime: 3
+Sci-Fi: 3
+Horror: 2
+Animation: 2
+Biography: 1
+
+*** 6 ***
+Drama: 24
+Comedy: 17
+Action: 9
+Adventure: 6
+Horror: 6
+Crime: 3
+Biography: 2
+Thriller: 1
+Fantasy: 1
+
+*** 7 ***
+Comedy: 37
+Drama: 20
+Adventure: 6
+Action: 6
+Horror: 5
+Crime: 4
+Biography: 3
+Thriller: 3
+Sci-Fi: 1
+Romance: 1
+Animation: 1
+
+*** 9 ***
+Drama: 29
+Action: 8
+Crime: 6
+Biography: 6
+Comedy: 5
+Mystery: 4
+Thriller: 3
+Animation: 3
+Horror: 2
+Adventure: 1
+
+*** 10 ***
+Drama: 12
+Action: 11
+Crime: 6
+Adventure: 5
+Horror: 4
+Comedy: 3
+Thriller: 3
+Animation: 3
+Biography: 2
+Sci-Fi: 1
+Mystery: 1
+
+*** 11 ***
+Action: 11
+Animation: 10
+Comedy: 8
+Drama: 5
+Mystery: 1
+
+*** 12 ***
+Drama: 16
+Adventure: 8
+Action: 6
+Comedy: 6
+Crime: 5
+Horror: 4
+Animation: 2
+Thriller: 2
+Biography: 1
+
+*** 14 ***
+Drama: 33
+Adventure: 13
+Action: 12
+Comedy: 11
+Biography: 7
+Animation: 3
+Horror: 3
+Crime: 2
+
+*** 15 ***
+Comedy: 23
+Drama: 18
+Action: 16
+Adventure: 9
+Horror: 7
+Biography: 6
+Crime: 3
+Thriller: 2
+Mystery: 1
+
+*** 16 ***
+Comedy: 23
+Action: 19
+Drama: 16
+Adventure: 8
+Crime: 7
+Animation: 6
+Biography: 3
+Horror: 1
+Romance: 1
+
+*** 18 ***
+Drama: 21
+Horror: 15
+Comedy: 7
+Crime: 5
+Action: 5
+Biography: 3
+Adventure: 1
+
+*** 19 ***
+Drama: 24
+Action: 17
+Biography: 9
+Comedy: 8
+Crime: 2
+
+*** 20 ***
+Comedy: 19
+Action: 13
+Adventure: 7
+Drama: 6
+Thriller: 5
+Animation: 3
+Crime: 2
+Horror: 2
+Mystery: 1
+
+*** 21 ***
+Action: 18
+Comedy: 10
+Drama: 7
+Horror: 5
+Animation: 3
+Sci-Fi: 2
+Biography: 2
+Fantasy: 2
+Adventure: 2
+Crime: 1
+
+*** 22 ***
+Fantasy: 4
+
+*** 23 ***
+Horror: 4
+
+*** 25 ***
+Drama: 4
+
+*** 26 ***
+Crime: 4
+
+*** 27 ***
+Comedy: 4
+Biography: 3
+
+*** 28 ***
+Drama: 4
+
+*** 29 ***
+Horror: 4
+
+*** 30 ***
+Horror: 7
+
+*** 31 ***
+Drama: 4
+
+*** 32 ***
+Comedy: 7
+
+*** 33 ***
+Mystery: 4
+
+*** 34 ***
+Drama: 4
+
+*** 35 ***
+Drama: 4
+
+*** 36 ***
+Comedy: 4
+
+*** 37 ***
+Action: 4
+
+*** 39 ***
+Biography: 4
+
+*** 40 ***
+Crime: 4
+
+*** 41 ***
+Action: 4
+
+*** 42 ***
+Comedy: 4
+
+*** 43 ***
+Crime: 4
+
+*** 44 ***
+Comedy: 4
+
+*** 45 ***
+Horror: 4
+
+*** 46 ***
+Horror: 4
+
+*** 47 ***
+Animation: 7
+
+*** 48 ***
+Horror: 4
+
+*** 49 ***
+Crime: 4
+
+*** 50 ***
+Drama: 4
+
+*** 51 ***
+Comedy: 6
+Drama: 4
+Action: 3
+
+*** 52 ***
+Action: 4
+
+*** 53 ***
+Drama: 4
+
+*** 54 ***
+Adventure: 4
+
+*** 55 ***
+Drama: 4
+
+*** 56 ***
+Drama: 4
+
+*** 57 ***
+Drama: 4
+
+*** 58 ***
+Horror: 4
+
+*** 59 ***
+Biography: 4
+
+*** 60 ***
+Drama: 4
+
+*** 61 ***
+Drama: 4
+
+*** 62 ***
+Action: 4
+
+*** 63 ***
+Action: 4
+
+*** 64 ***
+Action: 4
+
+*** 65 ***
+Comedy: 4
+
+*** 66 ***
+Horror: 4
+
+*** 67 ***
+Horror: 4
+
+*** 68 ***
+Comedy: 4
+
+*** 69 ***
+Action: 4
+
+*** 70 ***
+Action: 4
+
+*** 71 ***
+Horror: 5
+Drama: 2
+Action: 2
+
+*** 72 ***
+Comedy: 7
+Action: 3
+
+*** 73 ***
+Drama: 4
+
+*** 74 ***
+Comedy: 4
+
+*** 75 ***
+Sci-Fi: 4
+
+*** 76 ***
+Comedy: 4
+
+*** 77 ***
+Fantasy: 4
+
+*** 78 ***
+Comedy: 4
+Drama: 3
+
+*** 79 ***
+Drama: 4
+Crime: 3
+
+*** 80 ***
+Drama: 4
+
+*** 81 ***
+Comedy: 4
+
+*** 82 ***
+Animation: 4
+
+*** 83 ***
+Horror: 4
+
+*** 84 ***
+Thriller: 4
+
+*** 85 ***
+Biography: 4
+
+*** 86 ***
+Drama: 4
+
+*** 87 ***
+Horror: 4
+
+*** 88 ***
+Comedy: 4
+
+*** 89 ***
+Animation: 4
+
+*** 90 ***
+Crime: 4
+
+*** 91 ***
+Action: 4
+
+*** 92 ***
+Crime: 4
+
+*** 93 ***
+Drama: 4
+
+*** 94 ***
+Comedy: 4
+
+*** 95 ***
+Crime: 4
+
+*** 96 ***
+Adventure: 4
+
